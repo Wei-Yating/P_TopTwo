@@ -1168,3 +1168,1256 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.07.30-05.03.42:091][ 83]LogFileHelpers: Saving map 'Map_Level1' took 0.034
 [2022.07.30-05.03.42:103][ 83]AssetCheck: New page: 资产保存：Map_Level1
 [2022.07.30-05.03.42:103][ 83]LogContentValidation: Display: 正在验证World /Game/Top/Map/Map_Level1.Map_Level1
+[2022.07.30-05.04.10:859][296]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.07.30-05.06.38:096][910]LogEditorViewport: Clicking on Actor (context menu): BP_Level_C (BP_Level)
+[2022.07.30-05.07.15:155][351]LogContentBrowser: Deferred new asset file creation: Coms_Button1
+[2022.07.30-05.07.15:163][351]LogContentBrowser: Creating deferred item: Coms_Button1
+[2022.07.30-05.07.18:408][740]LogContentBrowser: Attempting asset rename: Coms_Button1 -> Coms_Door
+[2022.07.30-05.07.18:427][740]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.07.30-05.07.18:433][740]LogContentBrowser: End creating deferred item Coms_Button1
+[2022.07.30-05.07.18:944][788]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/BP/Coms_Door" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/Coms_Door.uasset" SILENT=true
+[2022.07.30-05.07.18:946][788]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Coms_Door42F70E204342BC682194238E95E5A24A.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/Coms_Door.uasset'
+[2022.07.30-05.07.18:956][788]AssetCheck: New page: 资产保存：Coms_Door
+[2022.07.30-05.07.18:956][788]LogContentValidation: Display: 正在验证Blueprint /Game/Top/BP/Coms_Door.Coms_Door
+[2022.07.30-05.07.21:684][110]LogContentBrowser: Deferred new asset file creation: Str_Button1
+[2022.07.30-05.07.21:690][110]LogContentBrowser: Creating deferred item: Str_Button1
+[2022.07.30-05.07.24:800][483]LogContentBrowser: Attempting asset rename: Str_Button1 -> Str_Door
+[2022.07.30-05.07.24:801][483]LogClass: UUserDefinedStruct.Serialize 'Str_Door' validation: 结构体 'UserDefinedStruct /Game/Top/BP/Variable/Str_Door.Str_Door’ 为空
+[2022.07.30-05.07.24:807][483]LogContentBrowser: End creating deferred item Str_Button1
+[2022.07.30-05.07.25:065][512]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Top/BP/Variable/Str_Door.Str_Door
+[2022.07.30-05.07.25:605][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.07.30-05.07.25:625][573]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/BP/Variable/Str_Door" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/Variable/Str_Door.uasset" SILENT=true
+[2022.07.30-05.07.25:627][573]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Str_Door1941D27946CAF8D6BF1A4EA6394B9104.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/Variable/Str_Door.uasset'
+[2022.07.30-05.07.25:636][573]AssetCheck: New page: 资产保存：Str_Door
+[2022.07.30-05.07.25:636][573]LogContentValidation: Display: 正在验证UserDefinedStruct /Game/Top/BP/Variable/Str_Door.Str_Door
+[2022.07.30-05.08.28:260][ 28]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/BP/Variable/Str_Door" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/Variable/Str_Door.uasset" SILENT=true
+[2022.07.30-05.08.28:261][ 28]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Str_DoorAE64C6024778E58329277CB426F691EC.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/Variable/Str_Door.uasset'
+[2022.07.30-05.08.28:271][ 28]AssetCheck: New page: 资产保存：Str_Door
+[2022.07.30-05.08.28:271][ 28]LogContentValidation: Display: 正在验证UserDefinedStruct /Game/Top/BP/Variable/Str_Door.Str_Door
+[2022.07.30-05.08.41:843][650]LogSlate: Took 0.000205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.07.30-05.08.50:294][658]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2022.07.30-05.08.50:324][658]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/BP/Variable/Str_Door" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/Variable/Str_Door.uasset" SILENT=true
+[2022.07.30-05.08.50:325][658]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Str_DoorDFD72F2D4AF06FF972ACEFBF92C63D14.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/Variable/Str_Door.uasset'
+[2022.07.30-05.08.50:365][658]AssetCheck: New page: 资产保存：Str_Door
+[2022.07.30-05.08.50:365][658]LogContentValidation: Display: 正在验证UserDefinedStruct /Game/Top/BP/Variable/Str_Door.Str_Door
+[2022.07.30-05.08.54:284][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2022.07.30-05.08.54:298][122]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/BP/Variable/Str_Door" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/Variable/Str_Door.uasset" SILENT=true
+[2022.07.30-05.08.54:300][122]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Str_DoorA77BD6DF4CC4BE1886FF13AF3AA6DF78.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/Variable/Str_Door.uasset'
+[2022.07.30-05.08.54:308][122]AssetCheck: New page: 资产保存：Str_Door
+[2022.07.30-05.08.54:308][122]LogContentValidation: Display: 正在验证UserDefinedStruct /Game/Top/BP/Variable/Str_Door.Str_Door
+[2022.07.30-05.08.55:463][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/BP/Variable/Str_Door" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/Variable/Str_Door.uasset" SILENT=true
+[2022.07.30-05.08.55:464][259]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Str_DoorC26C336C4D5F5B61B473B4B3C0EC101F.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/Variable/Str_Door.uasset'
+[2022.07.30-05.08.55:474][259]AssetCheck: New page: 资产保存：Str_Door
+[2022.07.30-05.08.55:474][259]LogContentValidation: Display: 正在验证UserDefinedStruct /Game/Top/BP/Variable/Str_Door.Str_Door
+[2022.07.30-05.09.09:432][909]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2022.07.30-05.09.09:453][909]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/BP/Variable/Str_Door" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/Variable/Str_Door.uasset" SILENT=true
+[2022.07.30-05.09.09:454][909]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Str_DoorF5CDF3E74FEBD7020BDA2AB20A8D99C6.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/Variable/Str_Door.uasset'
+[2022.07.30-05.09.09:468][909]AssetCheck: New page: 资产保存：Str_Door
+[2022.07.30-05.09.09:468][909]LogContentValidation: Display: 正在验证UserDefinedStruct /Game/Top/BP/Variable/Str_Door.Str_Door
+[2022.07.30-05.09.10:639][ 48]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/BP/Variable/Str_Door" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/Variable/Str_Door.uasset" SILENT=true
+[2022.07.30-05.09.10:640][ 48]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Str_Door2991B70342BF72AB3C0FF78082FEED07.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/Variable/Str_Door.uasset'
+[2022.07.30-05.09.10:649][ 48]AssetCheck: New page: 资产保存：Str_Door
+[2022.07.30-05.09.10:649][ 48]LogContentValidation: Display: 正在验证UserDefinedStruct /Game/Top/BP/Variable/Str_Door.Str_Door
+[2022.07.30-05.09.16:198][705]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/BP/Variable/Str_Door" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/Variable/Str_Door.uasset" SILENT=true
+[2022.07.30-05.09.16:200][705]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Str_Door493EF52D4A11F48FB817D2959BB03D34.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/Variable/Str_Door.uasset'
+[2022.07.30-05.09.16:210][705]AssetCheck: New page: 资产保存：Str_Door
+[2022.07.30-05.09.16:210][705]LogContentValidation: Display: 正在验证UserDefinedStruct /Game/Top/BP/Variable/Str_Door.Str_Door
+[2022.07.30-05.09.44:505][483]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2022.07.30-05.09.52:382][399]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2022.07.30-05.09.52:404][399]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/Map/Map_Level1" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/Map/Map_Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.30-05.09.52:418][399]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.07.30-05.09.52:427][399]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Map_Level17178B81448753C65B4335B93C66F9637.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/Map/Map_Level1.umap'
+[2022.07.30-05.09.52:434][399]LogFileHelpers: Saving map 'Map_Level1' took 0.031
+[2022.07.30-05.09.52:435][399]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/BP/BP_Level" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/BP_Level.uasset" SILENT=true
+[2022.07.30-05.09.52:504][399]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/BP_Level1537E49B4D1B040C781996BC537A042E.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/BP_Level.uasset'
+[2022.07.30-05.09.52:516][399]AssetCheck: New page: 资产保存：多个资产
+[2022.07.30-05.09.52:516][399]LogContentValidation: Display: 正在验证Blueprint /Game/Top/BP/BP_Level.BP_Level
+[2022.07.30-05.09.52:516][399]LogContentValidation: Display: 正在验证World /Game/Top/Map/Map_Level1.Map_Level1
+[2022.07.30-05.09.57:628][983]BlueprintLog: New page: 编译BP_Level
+[2022.07.30-05.09.57:712][983]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.07.30-05.09.58:190][ 29]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/BP/BP_Level" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/BP_Level.uasset" SILENT=true
+[2022.07.30-05.09.58:260][ 29]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/BP_Level027060954FA77F036D4D76A261051C70.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/BP_Level.uasset'
+[2022.07.30-05.09.58:275][ 29]AssetCheck: New page: 资产保存：BP_Level
+[2022.07.30-05.09.58:275][ 29]LogContentValidation: Display: 正在验证Blueprint /Game/Top/BP/BP_Level.BP_Level
+[2022.07.30-05.09.58:609][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.07.30-05.09.58:624][ 67]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/Map/Map_Level1" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/Map/Map_Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.30-05.09.58:638][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.07.30-05.09.58:649][ 67]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Map_Level1646991D24F094594E44886A247DEADE6.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/Map/Map_Level1.umap'
+[2022.07.30-05.09.58:655][ 67]LogFileHelpers: Saving map 'Map_Level1' took 0.031
+[2022.07.30-05.09.58:666][ 67]AssetCheck: New page: 资产保存：Map_Level1
+[2022.07.30-05.09.58:666][ 67]LogContentValidation: Display: 正在验证World /Game/Top/Map/Map_Level1.Map_Level1
+[2022.07.30-05.10.21:383][716]LogContentBrowser: Deferred new asset file creation: Coms_Door_Child
+[2022.07.30-05.10.21:399][716]LogContentBrowser: Creating deferred item: Coms_Door_Child
+[2022.07.30-05.10.28:754][599]LogContentBrowser: Attempting asset rename: Coms_Door_Child -> Coms_Door_Signle
+[2022.07.30-05.10.28:757][599]LogContentBrowser: End creating deferred item Coms_Door_Child
+[2022.07.30-05.10.29:308][663]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/BP/Coms_Door_Signle" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/Coms_Door_Signle.uasset" SILENT=true
+[2022.07.30-05.10.29:311][663]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Coms_Door_SignleE9BC7C1047683B3B698125B2E325E13D.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/Coms_Door_Signle.uasset'
+[2022.07.30-05.10.29:321][663]AssetCheck: New page: 资产保存：Coms_Door_Signle
+[2022.07.30-05.10.29:321][663]LogContentValidation: Display: 正在验证Blueprint /Game/Top/BP/Coms_Door_Signle.Coms_Door_Signle
+[2022.07.30-05.10.34:533][850]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Top/BP/Coms_Door_Signle.Coms_Door_Signle
+[2022.07.30-05.10.35:574][943]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2022.07.30-05.10.36:412][ 42]BlueprintLog: New page: 编译Coms_Door_Signle
+[2022.07.30-05.10.36:440][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.07.30-05.10.36:892][ 91]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/BP/Coms_Door_Signle" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/Coms_Door_Signle.uasset" SILENT=true
+[2022.07.30-05.10.36:894][ 91]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Coms_Door_Signle3B60B02B4325647961DA6ABB67A49E21.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/Coms_Door_Signle.uasset'
+[2022.07.30-05.10.36:905][ 91]AssetCheck: New page: 资产保存：Coms_Door_Signle
+[2022.07.30-05.10.36:905][ 91]LogContentValidation: Display: 正在验证Blueprint /Game/Top/BP/Coms_Door_Signle.Coms_Door_Signle
+[2022.07.30-05.10.44:670][968]LogContentBrowser: Deferred new asset file creation: Wall1
+[2022.07.30-05.10.44:678][968]LogContentBrowser: Creating deferred item: Wall1
+[2022.07.30-05.10.48:421][402]LogContentBrowser: Attempting asset rename: Wall1 -> DoorSignle
+[2022.07.30-05.10.48:422][402]LogStaticMesh: 正在构建静态网格体DoorSignle……
+[2022.07.30-05.10.48:447][402]LogStaticMesh: Built static mesh [0.03s] /Game/Top/Mesh/DoorSignle.DoorSignle
+[2022.07.30-05.10.48:454][402]LogContentBrowser: End creating deferred item Wall1
+[2022.07.30-05.10.48:630][421]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Top/Mesh/DoorSignle.DoorSignle
+[2022.07.30-05.10.49:141][422]LogRenderer: Reallocating scene render targets to support 1412x1008 Format 9 NumSamples 1 (Frame:1).
+[2022.07.30-05.10.51:438][678]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2022.07.30-05.10.51:465][678]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/Mesh/DoorSignle" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/Mesh/DoorSignle.uasset" SILENT=true
+[2022.07.30-05.10.51:469][678]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/DoorSignle8607995E4445C93992B9C0BF79F46889.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/Mesh/DoorSignle.uasset'
+[2022.07.30-05.10.51:480][678]AssetCheck: New page: 资产保存：DoorSignle
+[2022.07.30-05.10.51:480][678]LogContentValidation: Display: 正在验证StaticMesh /Game/Top/Mesh/DoorSignle.DoorSignle
+[2022.07.30-05.11.00:000][694]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.07.30-05.11.00:000][694]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.30-05.11.02:068][928]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2022.07.30-05.11.24:867][606]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Top/BP/Coms_Door.Coms_Door
+[2022.07.30-05.11.31:025][303]BlueprintLog: New page: 编译Coms_Door
+[2022.07.30-05.11.31:060][303]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2022.07.30-05.11.31:873][395]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2022.07.30-05.11.37:167][988]BlueprintLog: New page: 编译Coms_Door_Signle
+[2022.07.30-05.11.37:213][988]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2022.07.30-05.11.37:630][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/BP/Coms_Door_Signle" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/Coms_Door_Signle.uasset" SILENT=true
+[2022.07.30-05.11.37:632][ 32]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Coms_Door_Signle3CB67D964C0763A38382BDA608BDF3F0.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/Coms_Door_Signle.uasset'
+[2022.07.30-05.11.37:642][ 32]AssetCheck: New page: 资产保存：Coms_Door_Signle
+[2022.07.30-05.11.37:642][ 32]LogContentValidation: Display: 正在验证Blueprint /Game/Top/BP/Coms_Door_Signle.Coms_Door_Signle
+[2022.07.30-05.11.38:697][153]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2022.07.30-05.12.04:199][152]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2022.07.30-05.12.04:214][152]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/Map/Map_Level1" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/Map/Map_Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.30-05.12.04:237][152]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.07.30-05.12.04:248][152]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Map_Level1A2C2D7CD499A229111F4E38A0E839EF7.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/Map/Map_Level1.umap'
+[2022.07.30-05.12.04:255][152]LogFileHelpers: Saving map 'Map_Level1' took 0.040
+[2022.07.30-05.12.04:255][152]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/BP/BP_Level" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/BP_Level.uasset" SILENT=true
+[2022.07.30-05.12.04:332][152]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/BP_Level3A8CAA554CA86C20106D819B28A5E134.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/BP_Level.uasset'
+[2022.07.30-05.12.04:345][152]AssetCheck: New page: 资产保存：多个资产
+[2022.07.30-05.12.04:345][152]LogContentValidation: Display: 正在验证Blueprint /Game/Top/BP/BP_Level.BP_Level
+[2022.07.30-05.12.04:345][152]LogContentValidation: Display: 正在验证World /Game/Top/Map/Map_Level1.Map_Level1
+[2022.07.30-05.12.05:276][264]BlueprintLog: New page: 编译BP_Level
+[2022.07.30-05.12.05:380][264]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2022.07.30-05.12.05:838][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/BP/BP_Level" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/BP_Level.uasset" SILENT=true
+[2022.07.30-05.12.05:915][306]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/BP_Level494BFA0C4C6BC4367368B683F1AF6D36.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/BP_Level.uasset'
+[2022.07.30-05.12.05:930][306]AssetCheck: New page: 资产保存：BP_Level
+[2022.07.30-05.12.05:930][306]LogContentValidation: Display: 正在验证Blueprint /Game/Top/BP/BP_Level.BP_Level
+[2022.07.30-05.16.00:087][364]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/BP/BP_Level" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/BP_Level.uasset" SILENT=true
+[2022.07.30-05.16.00:166][364]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/BP_LevelBB09D8B747744FA74A0905BFFF9D8D31.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/BP_Level.uasset'
+[2022.07.30-05.16.00:183][364]AssetCheck: New page: 资产保存：BP_Level
+[2022.07.30-05.16.00:183][364]LogContentValidation: Display: 正在验证Blueprint /Game/Top/BP/BP_Level.BP_Level
+[2022.07.30-05.16.00:418][389]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2022.07.30-05.16.00:437][389]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/Map/Map_Level1" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/Map/Map_Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.30-05.16.00:459][389]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.07.30-05.16.00:470][389]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Map_Level1774A7EE745B23406A8FDE8A4FD9E9AFA.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/Map/Map_Level1.umap'
+[2022.07.30-05.16.00:476][389]LogFileHelpers: Saving map 'Map_Level1' took 0.040
+[2022.07.30-05.16.00:488][389]AssetCheck: New page: 资产保存：Map_Level1
+[2022.07.30-05.16.00:490][389]LogContentValidation: Display: 正在验证World /Game/Top/Map/Map_Level1.Map_Level1
+[2022.07.30-05.16.08:176][287]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.07.30-05.16.30:688][951]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Top/BP/Variable/Str_Door.Str_Door
+[2022.07.30-05.16.48:225][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2022.07.30-05.16.48:242][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/Map/Map_Level1" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/Map/Map_Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.30-05.16.48:265][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.07.30-05.16.48:270][ 17]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Map_Level1A5FB4FD541C9FF165748E898606021E0.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/Map/Map_Level1.umap'
+[2022.07.30-05.16.48:277][ 17]LogFileHelpers: Saving map 'Map_Level1' took 0.035
+[2022.07.30-05.16.48:277][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/BP/BP_Level" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/BP_Level.uasset" SILENT=true
+[2022.07.30-05.16.48:360][ 17]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/BP_Level199B16F7446F8664E927A8B8F11F7DC8.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/BP_Level.uasset'
+[2022.07.30-05.16.48:361][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/BP/Variable/Str_Door" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/Variable/Str_Door.uasset" SILENT=true
+[2022.07.30-05.16.48:362][ 17]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Str_Door4D92EC29489867B336EAC09C08E7B688.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/Variable/Str_Door.uasset'
+[2022.07.30-05.16.48:373][ 17]AssetCheck: New page: 资产保存：多个资产
+[2022.07.30-05.16.48:373][ 17]LogContentValidation: Display: 正在验证Blueprint /Game/Top/BP/BP_Level.BP_Level
+[2022.07.30-05.16.48:373][ 17]LogContentValidation: Display: 正在验证World /Game/Top/Map/Map_Level1.Map_Level1
+[2022.07.30-05.16.48:373][ 17]LogContentValidation: Display: 正在验证UserDefinedStruct /Game/Top/BP/Variable/Str_Door.Str_Door
+[2022.07.30-05.16.49:519][153]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/BP/Variable/Str_Door" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/Variable/Str_Door.uasset" SILENT=true
+[2022.07.30-05.16.49:520][153]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Str_Door3BB8B7DA4E7BE9773611C297BA5CE564.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/Variable/Str_Door.uasset'
+[2022.07.30-05.16.49:531][153]AssetCheck: New page: 资产保存：Str_Door
+[2022.07.30-05.16.49:531][153]LogContentValidation: Display: 正在验证UserDefinedStruct /Game/Top/BP/Variable/Str_Door.Str_Door
+[2022.07.30-05.20.45:007][918]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2022.07.30-05.20.45:032][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/Map/Map_Level1" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/Map/Map_Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.30-05.20.45:055][918]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.07.30-05.20.45:059][918]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Map_Level1EF10F186462FF94FCEDB98A55B98A241.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/Map/Map_Level1.umap'
+[2022.07.30-05.20.45:067][918]LogFileHelpers: Saving map 'Map_Level1' took 0.035
+[2022.07.30-05.20.45:067][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/BP/BP_Level" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/BP_Level.uasset" SILENT=true
+[2022.07.30-05.20.45:146][918]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/BP_Level014719694AAC80429DBF77BD88B21D1D.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/BP_Level.uasset'
+[2022.07.30-05.20.45:147][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/BP/Variable/Str_Door" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/Variable/Str_Door.uasset" SILENT=true
+[2022.07.30-05.20.45:148][918]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Str_DoorF2DC0E694E407E8D576E04B0C1E264B9.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/Variable/Str_Door.uasset'
+[2022.07.30-05.20.45:161][918]AssetCheck: New page: 资产保存：多个资产
+[2022.07.30-05.20.45:161][918]LogContentValidation: Display: 正在验证Blueprint /Game/Top/BP/BP_Level.BP_Level
+[2022.07.30-05.20.45:161][918]LogContentValidation: Display: 正在验证World /Game/Top/Map/Map_Level1.Map_Level1
+[2022.07.30-05.20.45:161][918]LogContentValidation: Display: 正在验证UserDefinedStruct /Game/Top/BP/Variable/Str_Door.Str_Door
+[2022.07.30-05.20.45:878][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/BP/Variable/Str_Door" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/Variable/Str_Door.uasset" SILENT=true
+[2022.07.30-05.20.45:880][  3]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Str_Door2B9B48AE4AAD27F6C4D0A4963128355D.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/Variable/Str_Door.uasset'
+[2022.07.30-05.20.45:892][  3]AssetCheck: New page: 资产保存：Str_Door
+[2022.07.30-05.20.45:892][  3]LogContentValidation: Display: 正在验证UserDefinedStruct /Game/Top/BP/Variable/Str_Door.Str_Door
+[2022.07.30-05.20.54:837][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2022.07.30-05.20.54:853][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/Map/Map_Level1" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/Map/Map_Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.30-05.20.54:876][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.07.30-05.20.54:880][ 62]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Map_Level191563FEC4C5FC042FFB7AC91C2407A7B.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/Map/Map_Level1.umap'
+[2022.07.30-05.20.54:886][ 62]LogFileHelpers: Saving map 'Map_Level1' took 0.033
+[2022.07.30-05.20.54:886][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/BP/BP_Level" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/BP_Level.uasset" SILENT=true
+[2022.07.30-05.20.54:963][ 62]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/BP_Level0DC0F1C14D028D0F47097487CA14469D.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/BP_Level.uasset'
+[2022.07.30-05.20.54:964][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/BP/Variable/Str_Door" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/Variable/Str_Door.uasset" SILENT=true
+[2022.07.30-05.20.54:965][ 62]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Str_DoorF7B1A9F241860214B365E4B3EB1E8D10.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/Variable/Str_Door.uasset'
+[2022.07.30-05.20.54:976][ 62]AssetCheck: New page: 资产保存：多个资产
+[2022.07.30-05.20.54:976][ 62]LogContentValidation: Display: 正在验证Blueprint /Game/Top/BP/BP_Level.BP_Level
+[2022.07.30-05.20.54:976][ 62]LogContentValidation: Display: 正在验证World /Game/Top/Map/Map_Level1.Map_Level1
+[2022.07.30-05.20.54:976][ 62]LogContentValidation: Display: 正在验证UserDefinedStruct /Game/Top/BP/Variable/Str_Door.Str_Door
+[2022.07.30-05.20.56:277][216]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/BP/Variable/Str_Door" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/Variable/Str_Door.uasset" SILENT=true
+[2022.07.30-05.20.56:279][216]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Str_Door9166D1BC482B04BEF4441892382C9CAD.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/Variable/Str_Door.uasset'
+[2022.07.30-05.20.56:290][216]AssetCheck: New page: 资产保存：Str_Door
+[2022.07.30-05.20.56:290][216]LogContentValidation: Display: 正在验证UserDefinedStruct /Game/Top/BP/Variable/Str_Door.Str_Door
+[2022.07.30-05.21.28:747][900]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2022.07.30-05.21.28:763][900]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/BP/Coms_Door" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/Coms_Door.uasset" SILENT=true
+[2022.07.30-05.21.28:766][900]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Coms_Door1208D997415FCB21B4B1E8BA4D8418C3.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/Coms_Door.uasset'
+[2022.07.30-05.21.28:777][900]AssetCheck: New page: 资产保存：Coms_Door
+[2022.07.30-05.21.28:777][900]LogContentValidation: Display: 正在验证Blueprint /Game/Top/BP/Coms_Door.Coms_Door
+[2022.07.30-05.21.34:363][559]BlueprintLog: New page: 编译Coms_Door
+[2022.07.30-05.21.34:402][559]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2022.07.30-05.21.35:201][650]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2022.07.30-05.21.35:221][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/BP/Coms_Door" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/Coms_Door.uasset" SILENT=true
+[2022.07.30-05.21.35:223][650]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Coms_Door14A0A975460C618245C9E59A95E50F79.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/Coms_Door.uasset'
+[2022.07.30-05.21.35:233][650]AssetCheck: New page: 资产保存：Coms_Door
+[2022.07.30-05.21.35:233][650]LogContentValidation: Display: 正在验证Blueprint /Game/Top/BP/Coms_Door.Coms_Door
+[2022.07.30-05.21.43:558][633]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2022.07.30-05.21.43:576][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/BP/Coms_Door" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/Coms_Door.uasset" SILENT=true
+[2022.07.30-05.21.43:578][633]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Coms_DoorDE1DBDBB4925F0789ADA28B4C965716E.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/Coms_Door.uasset'
+[2022.07.30-05.21.43:588][633]AssetCheck: New page: 资产保存：Coms_Door
+[2022.07.30-05.21.43:589][633]LogContentValidation: Display: 正在验证Blueprint /Game/Top/BP/Coms_Door.Coms_Door
+[2022.07.30-05.21.46:252][948]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2022.07.30-05.21.46:270][948]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/BP/Coms_Door" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/Coms_Door.uasset" SILENT=true
+[2022.07.30-05.21.46:271][948]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Coms_Door073A9088476B7352384585A1C8AF9D4A.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/Coms_Door.uasset'
+[2022.07.30-05.21.46:282][948]AssetCheck: New page: 资产保存：Coms_Door
+[2022.07.30-05.21.46:282][948]LogContentValidation: Display: 正在验证Blueprint /Game/Top/BP/Coms_Door.Coms_Door
+[2022.07.30-05.21.50:517][440]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2022.07.30-05.21.50:533][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/BP/Coms_Door" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/Coms_Door.uasset" SILENT=true
+[2022.07.30-05.21.50:535][440]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Coms_Door21FF937C41A8A13402716FBCB9FA10EB.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/Coms_Door.uasset'
+[2022.07.30-05.21.50:547][440]AssetCheck: New page: 资产保存：Coms_Door
+[2022.07.30-05.21.50:547][440]LogContentValidation: Display: 正在验证Blueprint /Game/Top/BP/Coms_Door.Coms_Door
+[2022.07.30-05.21.51:250][525]BlueprintLog: New page: 编译Coms_Door
+[2022.07.30-05.21.51:252][525]LogBlueprint: Warning: [AssetLog] F:\UE4\Normal\P_TopTwo\TopTwo\Content\Top\BP\Coms_Door.uasset: [Compiler] 不能解析   的默认值'0’。属性：Info。
+[2022.07.30-05.21.51:287][525]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2022.07.30-05.21.51:592][554]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2022.07.30-05.21.56:468][136]BlueprintLog: New page: 编译Coms_Door
+[2022.07.30-05.21.56:509][136]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2022.07.30-05.22.06:416][303]BlueprintLog: New page: 编译BP_Level
+[2022.07.30-05.22.06:519][303]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2022.07.30-05.22.21:341][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2022.07.30-05.22.21:362][ 45]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/Map/Map_Level1" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/Map/Map_Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.30-05.22.21:384][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.07.30-05.22.21:395][ 45]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Map_Level17A2E97334AD6F5E7C854C6962782901C.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/Map/Map_Level1.umap'
+[2022.07.30-05.22.21:402][ 45]LogFileHelpers: Saving map 'Map_Level1' took 0.040
+[2022.07.30-05.22.21:402][ 45]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/BP/Coms_Door" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/Coms_Door.uasset" SILENT=true
+[2022.07.30-05.22.21:405][ 45]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Coms_DoorE83E442D40E3DB15B0DAD9976FD6BBC5.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/Coms_Door.uasset'
+[2022.07.30-05.22.21:415][ 45]AssetCheck: New page: 资产保存：多个资产
+[2022.07.30-05.22.21:415][ 45]LogContentValidation: Display: 正在验证World /Game/Top/Map/Map_Level1.Map_Level1
+[2022.07.30-05.22.21:415][ 45]LogContentValidation: Display: 正在验证Blueprint /Game/Top/BP/Coms_Door.Coms_Door
+[2022.07.30-05.22.25:773][500]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2022.07.30-05.22.25:792][500]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/BP/Coms_Door" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/Coms_Door.uasset" SILENT=true
+[2022.07.30-05.22.25:795][500]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Coms_Door8FADB73F4CCB095E528F0AB4E2BD5880.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/Coms_Door.uasset'
+[2022.07.30-05.22.25:805][500]AssetCheck: New page: 资产保存：Coms_Door
+[2022.07.30-05.22.25:805][500]LogContentValidation: Display: 正在验证Blueprint /Game/Top/BP/Coms_Door.Coms_Door
+[2022.07.30-05.22.29:620][951]BlueprintLog: New page: 编译Coms_Door
+[2022.07.30-05.22.29:655][951]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2022.07.30-05.22.30:565][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2022.07.30-05.22.30:580][ 45]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/BP/Coms_Door" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/Coms_Door.uasset" SILENT=true
+[2022.07.30-05.22.30:582][ 45]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Coms_Door693870D548D6218A16931F8BB8DDD4C2.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/Coms_Door.uasset'
+[2022.07.30-05.22.30:593][ 45]AssetCheck: New page: 资产保存：Coms_Door
+[2022.07.30-05.22.30:593][ 45]LogContentValidation: Display: 正在验证Blueprint /Game/Top/BP/Coms_Door.Coms_Door
+[2022.07.30-05.22.48:186][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2022.07.30-05.22.48:209][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/Map/Map_Level1" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/Map/Map_Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.30-05.22.48:232][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.07.30-05.22.48:243][ 98]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Map_Level1DE104F014008E2FA575435A5ACC73305.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/Map/Map_Level1.umap'
+[2022.07.30-05.22.48:249][ 98]LogFileHelpers: Saving map 'Map_Level1' took 0.040
+[2022.07.30-05.22.48:249][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/BP/BP_Level" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/BP_Level.uasset" SILENT=true
+[2022.07.30-05.22.48:328][ 98]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/BP_LevelA62B12B24B2E6A3C8BD7279D15DFEF0F.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/BP_Level.uasset'
+[2022.07.30-05.22.48:341][ 98]AssetCheck: New page: 资产保存：多个资产
+[2022.07.30-05.22.48:341][ 98]LogContentValidation: Display: 正在验证Blueprint /Game/Top/BP/BP_Level.BP_Level
+[2022.07.30-05.22.48:341][ 98]LogContentValidation: Display: 正在验证World /Game/Top/Map/Map_Level1.Map_Level1
+[2022.07.30-05.22.49:303][212]BlueprintLog: New page: 编译BP_Level
+[2022.07.30-05.22.49:401][212]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2022.07.30-05.22.52:404][508]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2022.07.30-05.22.52:420][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/Map/Map_Level1" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/Map/Map_Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.30-05.22.52:443][508]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.07.30-05.22.52:453][508]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Map_Level1A3DBFCCF4AC9F700956BB6BFA50D019E.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/Map/Map_Level1.umap'
+[2022.07.30-05.22.52:460][508]LogFileHelpers: Saving map 'Map_Level1' took 0.040
+[2022.07.30-05.22.52:460][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/BP/BP_Level" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/BP_Level.uasset" SILENT=true
+[2022.07.30-05.22.52:538][508]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/BP_Level1E916B9C484C51250B35CCB7CDCE39CC.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/BP_Level.uasset'
+[2022.07.30-05.22.52:554][508]AssetCheck: New page: 资产保存：多个资产
+[2022.07.30-05.22.52:554][508]LogContentValidation: Display: 正在验证Blueprint /Game/Top/BP/BP_Level.BP_Level
+[2022.07.30-05.22.52:554][508]LogContentValidation: Display: 正在验证World /Game/Top/Map/Map_Level1.Map_Level1
+[2022.07.30-05.24.01:567][326]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2022.07.30-05.24.01:590][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/Map/Map_Level1" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/Map/Map_Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.30-05.24.01:613][326]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.07.30-05.24.01:624][326]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Map_Level1537464C94DC3FC8B376CF48840005A9F.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/Map/Map_Level1.umap'
+[2022.07.30-05.24.01:631][326]LogFileHelpers: Saving map 'Map_Level1' took 0.041
+[2022.07.30-05.24.01:631][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/BP/BP_Level" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/BP_Level.uasset" SILENT=true
+[2022.07.30-05.24.01:707][326]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/BP_Level17380F13439EE19C09EE5BB225B5C454.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/BP_Level.uasset'
+[2022.07.30-05.24.01:718][326]AssetCheck: New page: 资产保存：多个资产
+[2022.07.30-05.24.01:718][326]LogContentValidation: Display: 正在验证Blueprint /Game/Top/BP/BP_Level.BP_Level
+[2022.07.30-05.24.01:718][326]LogContentValidation: Display: 正在验证World /Game/Top/Map/Map_Level1.Map_Level1
+[2022.07.30-05.24.04:781][675]BlueprintLog: New page: 编译BP_Level
+[2022.07.30-05.24.04:881][675]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2022.07.30-05.24.05:552][743]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2022.07.30-05.24.05:567][743]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/Map/Map_Level1" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/Map/Map_Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.30-05.24.05:592][743]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2022.07.30-05.24.05:604][743]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Map_Level14DADC7EC43C6A4969AB18DA25E858AAB.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/Map/Map_Level1.umap'
+[2022.07.30-05.24.05:610][743]LogFileHelpers: Saving map 'Map_Level1' took 0.042
+[2022.07.30-05.24.05:610][743]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/BP/BP_Level" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/BP_Level.uasset" SILENT=true
+[2022.07.30-05.24.05:684][743]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/BP_LevelCC087B154BA63A12B2828E922DC5D67E.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/BP_Level.uasset'
+[2022.07.30-05.24.05:697][743]AssetCheck: New page: 资产保存：多个资产
+[2022.07.30-05.24.05:698][743]LogContentValidation: Display: 正在验证Blueprint /Game/Top/BP/BP_Level.BP_Level
+[2022.07.30-05.24.05:698][743]LogContentValidation: Display: 正在验证World /Game/Top/Map/Map_Level1.Map_Level1
+[2022.07.30-05.24.09:955][233]BlueprintLog: New page: 编译Coms_Door
+[2022.07.30-05.24.09:997][233]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2022.07.30-05.24.10:916][331]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2022.07.30-05.24.10:936][331]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/Map/Map_Level1" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/Map/Map_Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.30-05.24.10:959][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.07.30-05.24.10:970][331]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Map_Level10E32011F41EE33374B3A14AE43F88B18.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/Map/Map_Level1.umap'
+[2022.07.30-05.24.10:976][331]LogFileHelpers: Saving map 'Map_Level1' took 0.040
+[2022.07.30-05.24.10:976][331]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/BP/Coms_Door" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/Coms_Door.uasset" SILENT=true
+[2022.07.30-05.24.10:978][331]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Coms_Door7B9C7CC04673F87E8B0B61A979E3083E.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/Coms_Door.uasset'
+[2022.07.30-05.24.10:993][331]AssetCheck: New page: 资产保存：多个资产
+[2022.07.30-05.24.10:993][331]LogContentValidation: Display: 正在验证World /Game/Top/Map/Map_Level1.Map_Level1
+[2022.07.30-05.24.10:993][331]LogContentValidation: Display: 正在验证Blueprint /Game/Top/BP/Coms_Door.Coms_Door
+[2022.07.30-05.24.17:179][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2022.07.30-05.24.17:200][ 24]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/BP/BP_Level" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/BP_Level.uasset" SILENT=true
+[2022.07.30-05.24.17:276][ 24]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/BP_Level529FA2EC4F23644330F04399AE95940E.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/BP_Level.uasset'
+[2022.07.30-05.24.17:295][ 24]AssetCheck: New page: 资产保存：BP_Level
+[2022.07.30-05.24.17:295][ 24]LogContentValidation: Display: 正在验证Blueprint /Game/Top/BP/BP_Level.BP_Level
+[2022.07.30-05.24.18:656][184]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.07.30-05.24.19:837][322]BlueprintLog: New page: 编译BP_Level
+[2022.07.30-05.24.19:934][322]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2022.07.30-05.24.21:909][545]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2022.07.30-05.24.21:930][545]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/Map/Map_Level1" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/Map/Map_Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.30-05.24.21:952][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.07.30-05.24.21:964][545]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Map_Level1750500164B9775FCC846A0AAE42FA939.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/Map/Map_Level1.umap'
+[2022.07.30-05.24.21:971][545]LogFileHelpers: Saving map 'Map_Level1' took 0.041
+[2022.07.30-05.24.21:982][545]AssetCheck: New page: 资产保存：Map_Level1
+[2022.07.30-05.24.21:982][545]LogContentValidation: Display: 正在验证World /Game/Top/Map/Map_Level1.Map_Level1
+[2022.07.30-05.24.31:716][636]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2022.07.30-05.24.31:735][636]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/BP/Coms_Door_Signle" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/Coms_Door_Signle.uasset" SILENT=true
+[2022.07.30-05.24.31:740][636]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Coms_Door_Signle56174D734426C5A7CBFFC6B6130EA3BF.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/Coms_Door_Signle.uasset'
+[2022.07.30-05.24.31:750][636]AssetCheck: New page: 资产保存：Coms_Door_Signle
+[2022.07.30-05.24.31:750][636]LogContentValidation: Display: 正在验证Blueprint /Game/Top/BP/Coms_Door_Signle.Coms_Door_Signle
+[2022.07.30-05.24.47:044][391]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.07.30-05.24.47:060][391]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/BP/Coms_Door_Signle" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/Coms_Door_Signle.uasset" SILENT=true
+[2022.07.30-05.24.47:065][391]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Coms_Door_Signle3FCD4485468543C37DDAC488A3C00AB2.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/Coms_Door_Signle.uasset'
+[2022.07.30-05.24.47:076][391]AssetCheck: New page: 资产保存：Coms_Door_Signle
+[2022.07.30-05.24.47:076][391]LogContentValidation: Display: 正在验证Blueprint /Game/Top/BP/Coms_Door_Signle.Coms_Door_Signle
+[2022.07.30-05.25.47:862][409]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2022.07.30-05.25.47:880][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/BP/Coms_Door_Signle" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/Coms_Door_Signle.uasset" SILENT=true
+[2022.07.30-05.25.47:886][409]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Coms_Door_SignleCE0E56424E3EF9F698CEE5A73695F2AC.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/Coms_Door_Signle.uasset'
+[2022.07.30-05.25.47:898][409]AssetCheck: New page: 资产保存：Coms_Door_Signle
+[2022.07.30-05.25.47:898][409]LogContentValidation: Display: 正在验证Blueprint /Game/Top/BP/Coms_Door_Signle.Coms_Door_Signle
+[2022.07.30-05.25.48:601][493]BlueprintLog: New page: 编译Coms_Door_Signle
+[2022.07.30-05.25.48:630][493]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2022.07.30-05.26.02:583][965]LogSlate: Window '修复自情境函数引用' being destroyed
+[2022.07.30-05.26.19:580][917]BlueprintLog: New page: 编译BP_Level
+[2022.07.30-05.26.19:686][917]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2022.07.30-05.26.23:948][400]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2022.07.30-05.26.23:962][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/Map/Map_Level1" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/Map/Map_Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.30-05.26.23:985][400]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.07.30-05.26.23:997][400]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Map_Level18F2B44E24F85606A745301947B0D58F2.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/Map/Map_Level1.umap'
+[2022.07.30-05.26.24:005][400]LogFileHelpers: Saving map 'Map_Level1' took 0.042
+[2022.07.30-05.26.24:005][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/BP/BP_Level" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/BP_Level.uasset" SILENT=true
+[2022.07.30-05.26.24:078][400]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/BP_Level2040EC0F48D3D34EDBC2948CD752DAF0.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/BP_Level.uasset'
+[2022.07.30-05.26.24:079][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/BP/Coms_Door_Signle" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/Coms_Door_Signle.uasset" SILENT=true
+[2022.07.30-05.26.24:087][400]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Coms_Door_SignleFA25FF9D4B01DAC8528B39B63A6B37FE.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/Coms_Door_Signle.uasset'
+[2022.07.30-05.26.24:100][400]AssetCheck: New page: 资产保存：多个资产
+[2022.07.30-05.26.24:100][400]LogContentValidation: Display: 正在验证Blueprint /Game/Top/BP/BP_Level.BP_Level
+[2022.07.30-05.26.24:100][400]LogContentValidation: Display: 正在验证World /Game/Top/Map/Map_Level1.Map_Level1
+[2022.07.30-05.26.24:101][400]LogContentValidation: Display: 正在验证Blueprint /Game/Top/BP/Coms_Door_Signle.Coms_Door_Signle
+[2022.07.30-05.27.12:876][966]BlueprintLog: New page: 编译Coms_Door_Signle
+[2022.07.30-05.27.12:906][966]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2022.07.30-05.27.13:436][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2022.07.30-05.27.13:459][ 20]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/BP/Coms_Door_Signle" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/Coms_Door_Signle.uasset" SILENT=true
+[2022.07.30-05.27.13:468][ 20]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Coms_Door_SignleFBB2680C4ACAD2D1AA5ACBB959103D7E.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/Coms_Door_Signle.uasset'
+[2022.07.30-05.27.13:479][ 20]AssetCheck: New page: 资产保存：Coms_Door_Signle
+[2022.07.30-05.27.13:479][ 20]LogContentValidation: Display: 正在验证Blueprint /Game/Top/BP/Coms_Door_Signle.Coms_Door_Signle
+[2022.07.30-05.27.22:205][ 22]BlueprintLog: New page: 编译BP_Level
+[2022.07.30-05.27.22:307][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2022.07.30-05.27.24:406][258]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2022.07.30-05.27.24:431][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/Map/Map_Level1" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/Map/Map_Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.30-05.27.24:453][258]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.07.30-05.27.24:463][258]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Map_Level1067D34754C2A5135E4B65D8FFACF2E96.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/Map/Map_Level1.umap'
+[2022.07.30-05.27.24:471][258]LogFileHelpers: Saving map 'Map_Level1' took 0.040
+[2022.07.30-05.27.24:471][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/BP/BP_Level" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/BP_Level.uasset" SILENT=true
+[2022.07.30-05.27.24:545][258]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/BP_Level8C3432F646E8D4C4C96512A0A28F2405.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/BP_Level.uasset'
+[2022.07.30-05.27.24:558][258]AssetCheck: New page: 资产保存：多个资产
+[2022.07.30-05.27.24:558][258]LogContentValidation: Display: 正在验证Blueprint /Game/Top/BP/BP_Level.BP_Level
+[2022.07.30-05.27.24:558][258]LogContentValidation: Display: 正在验证World /Game/Top/Map/Map_Level1.Map_Level1
+[2022.07.30-05.27.25:079][319]LogEditorViewport: Clicking on Actor (LMB): BP_Level_C (BP_Level)
+[2022.07.30-05.27.47:450][971]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.07.30-05.27.58:044][221]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.07.30-05.27.58:060][221]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/Map/Map_Level1" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/Map/Map_Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.30-05.27.58:083][221]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.07.30-05.27.58:098][221]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Map_Level100C9AF4C47EF1520EC26E5847593C59B.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/Map/Map_Level1.umap'
+[2022.07.30-05.27.58:104][221]LogFileHelpers: Saving map 'Map_Level1' took 0.045
+[2022.07.30-05.27.58:116][221]AssetCheck: New page: 资产保存：Map_Level1
+[2022.07.30-05.27.58:116][221]LogContentValidation: Display: 正在验证World /Game/Top/Map/Map_Level1.Map_Level1
+[2022.07.30-05.28.04:607][986]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/Map/Map_Level1" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/Map/Map_Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.30-05.28.04:630][986]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.07.30-05.28.04:645][986]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Map_Level1FA085B074C4BD6D14131BCA83D678B8C.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/Map/Map_Level1.umap'
+[2022.07.30-05.28.04:652][986]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/Map/Map_Level1_BuiltData" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/Map/Map_Level1_BuiltData.uasset" SILENT=true
+[2022.07.30-05.28.04:653][986]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Map_Level1_BuiltData7AB0C9E54F8F2572203F6FB7A63B336A.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/Map/Map_Level1_BuiltData.uasset'
+[2022.07.30-05.28.04:666][986]AssetCheck: New page: 资产保存：多个资产
+[2022.07.30-05.28.04:666][986]LogContentValidation: Display: 正在验证MapBuildDataRegistry /Game/Top/Map/Map_Level1_BuiltData.Map_Level1_BuiltData
+[2022.07.30-05.28.04:666][986]LogContentValidation: Display: 正在验证World /Game/Top/Map/Map_Level1.Map_Level1
+[2022.07.30-05.28.04:861][  7]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.07.30-05.28.10:974][708]BlueprintLog: New page: 编译BP_Level
+[2022.07.30-05.28.11:077][708]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2022.07.30-05.28.14:728][117]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2022.07.30-05.28.14:748][117]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/Map/Map_Level1" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/Map/Map_Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.30-05.28.14:771][117]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.07.30-05.28.14:785][117]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Map_Level10E94ADC64019B343454CF0A46BEAD994.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/Map/Map_Level1.umap'
+[2022.07.30-05.28.14:791][117]LogFileHelpers: Saving map 'Map_Level1' took 0.044
+[2022.07.30-05.28.14:803][117]AssetCheck: New page: 资产保存：Map_Level1
+[2022.07.30-05.28.14:804][117]LogContentValidation: Display: 正在验证World /Game/Top/Map/Map_Level1.Map_Level1
+[2022.07.30-05.28.22:329][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.07.30-05.28.41:915][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.07.30-05.28.43:035][440]BlueprintLog: New page: 编译Coms_Door_Signle
+[2022.07.30-05.28.43:097][440]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2022.07.30-05.28.48:393][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2022.07.30-05.28.48:414][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/Map/Map_Level1" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/Map/Map_Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.30-05.28.48:437][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.07.30-05.28.48:451][ 64]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Map_Level1C5704E5548E76C61925B47B4F37194AA.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/Map/Map_Level1.umap'
+[2022.07.30-05.28.48:458][ 64]LogFileHelpers: Saving map 'Map_Level1' took 0.043
+[2022.07.30-05.28.48:471][ 64]AssetCheck: New page: 资产保存：Map_Level1
+[2022.07.30-05.28.48:471][ 64]LogContentValidation: Display: 正在验证World /Game/Top/Map/Map_Level1.Map_Level1
+[2022.07.30-05.29.00:614][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.07.30-05.29.00:636][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/BP/BP_Level" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/BP_Level.uasset" SILENT=true
+[2022.07.30-05.29.00:712][461]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/BP_Level9013B8484E3F16F299BF6889916A32F8.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/BP_Level.uasset'
+[2022.07.30-05.29.00:725][461]AssetCheck: New page: 资产保存：BP_Level
+[2022.07.30-05.29.00:726][461]LogContentValidation: Display: 正在验证Blueprint /Game/Top/BP/BP_Level.BP_Level
+[2022.07.30-05.29.16:294][295]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.07.30-05.29.35:484][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.07.30-05.29.35:506][553]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/BP/Coms_Door_Signle" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/Coms_Door_Signle.uasset" SILENT=true
+[2022.07.30-05.29.35:516][553]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Coms_Door_Signle1D796ACC49C58C3ABF105BB489B27370.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/Coms_Door_Signle.uasset'
+[2022.07.30-05.29.35:526][553]AssetCheck: New page: 资产保存：Coms_Door_Signle
+[2022.07.30-05.29.35:526][553]LogContentValidation: Display: 正在验证Blueprint /Game/Top/BP/Coms_Door_Signle.Coms_Door_Signle
+[2022.07.30-05.29.42:243][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.07.30-05.29.42:260][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/BP/Coms_Door_Signle" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/Coms_Door_Signle.uasset" SILENT=true
+[2022.07.30-05.29.42:268][333]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Coms_Door_SignleA0D1CC984D19D1C0C446EABFE68375F0.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/Coms_Door_Signle.uasset'
+[2022.07.30-05.29.42:280][333]AssetCheck: New page: 资产保存：Coms_Door_Signle
+[2022.07.30-05.29.42:280][333]LogContentValidation: Display: 正在验证Blueprint /Game/Top/BP/Coms_Door_Signle.Coms_Door_Signle
+[2022.07.30-05.29.56:408][874]BlueprintLog: New page: 编译BP_Level
+[2022.07.30-05.29.56:514][874]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2022.07.30-05.29.58:717][126]BlueprintLog: New page: 编译BP_Level
+[2022.07.30-05.29.58:827][126]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2022.07.30-05.29.59:811][225]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2022.07.30-05.29.59:832][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/Map/Map_Level1" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/Map/Map_Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.30-05.29.59:854][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.07.30-05.29.59:870][225]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Map_Level19AAE4BE54C69A38EE112E38A2EC83A8F.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/Map/Map_Level1.umap'
+[2022.07.30-05.29.59:877][225]LogFileHelpers: Saving map 'Map_Level1' took 0.045
+[2022.07.30-05.29.59:877][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/BP/Coms_Door_Signle" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/Coms_Door_Signle.uasset" SILENT=true
+[2022.07.30-05.29.59:886][225]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Coms_Door_SignleDACCE33A47B89A8321BF19B0E1E77FD4.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/Coms_Door_Signle.uasset'
+[2022.07.30-05.29.59:898][225]AssetCheck: New page: 资产保存：多个资产
+[2022.07.30-05.29.59:898][225]LogContentValidation: Display: 正在验证World /Game/Top/Map/Map_Level1.Map_Level1
+[2022.07.30-05.29.59:898][225]LogContentValidation: Display: 正在验证Blueprint /Game/Top/BP/Coms_Door_Signle.Coms_Door_Signle
+[2022.07.30-05.30.02:845][572]BlueprintLog: New page: 编译Coms_Door_Signle
+[2022.07.30-05.30.02:909][572]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2022.07.30-05.30.03:232][604]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2022.07.30-05.30.03:248][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/Map/Map_Level1" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/Map/Map_Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.30-05.30.03:272][604]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.07.30-05.30.03:286][604]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Map_Level1F077230B4DAE828863CF8EA7669B3BD5.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/Map/Map_Level1.umap'
+[2022.07.30-05.30.03:293][604]LogFileHelpers: Saving map 'Map_Level1' took 0.044
+[2022.07.30-05.30.03:307][604]AssetCheck: New page: 资产保存：Map_Level1
+[2022.07.30-05.30.03:307][604]LogContentValidation: Display: 正在验证World /Game/Top/Map/Map_Level1.Map_Level1
+[2022.07.30-05.30.06:444][952]LogTemp: Repeating last play command: 新建编辑器窗口（编辑器中运行）
+[2022.07.30-05.30.06:448][952]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.30-05.30.06:448][952]PIE: New page: PIE会话：Map_Level1（2022年7月30日 下午9:30:06）
+[2022.07.30-05.30.06:449][952]LogPlayLevel: Creating play world package: /Game/Top/Map/UEDPIE_0_Map_Level1
+[2022.07.30-05.30.06:454][952]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004436s)
+[2022.07.30-05.30.06:454][952]LogAIModule: Creating AISystem for world Map_Level1
+[2022.07.30-05.30.06:455][952]LogPlayLevel: PIE: World Init took: (0.000761s)
+[2022.07.30-05.30.06:455][952]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Top/Map/Map_Level1.Map_Level1 to /Game/Top/Map/UEDPIE_0_Map_Level1.Map_Level1 (0.005329s)
+[2022.07.30-05.30.06:480][952]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2022.07.30-05.30.06:480][952]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.07.30-05.30.06:480][952]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.30-05.30.06:480][952]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.30-05.30.06:480][952]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.30-05.30.06:480][952]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.30-05.30.06:480][952]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.30-05.30.06:480][952]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.30-05.30.06:480][952]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.30-05.30.06:480][952]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.30-05.30.06:481][952]LogAudio: Display: Using built-in audio occlusion.
+[2022.07.30-05.30.06:481][952]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.30-05.30.06:483][952]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.30-05.30.06:483][952]LogAudioMixer: Display: 1: FrontRight
+[2022.07.30-05.30.06:497][952]LogAudioMixer: Display: Using Audio Device 耳机 (ifkoo Q8)
+[2022.07.30-05.30.06:497][952]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.30-05.30.06:497][952]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.30-05.30.06:497][952]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.30-05.30.06:497][952]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.30-05.30.06:497][952]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.30-05.30.06:497][952]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.30-05.30.06:507][952]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.30-05.30.06:507][952]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.30-05.30.06:507][952]LogInit: FAudioDevice initialized.
+[2022.07.30-05.30.06:507][952]LogAudio: Display: Audio Device (ID: 5) registered with world 'Map_Level1'.
+[2022.07.30-05.30.06:538][952]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.30-05.30.06:538][952]LogLoad: Game class is 'GM_Main_C'
+[2022.07.30-05.30.06:540][952]LogWorld: Bringing World /Game/Top/Map/UEDPIE_0_Map_Level1.Map_Level1 up for play (max tick rate 0) at 2022.07.30-13.30.06
+[2022.07.30-05.30.06:541][952]LogWorld: Bringing up level for play took: 0.002256
+[2022.07.30-05.30.06:541][952]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2022.07.30-05.30.06:542][952]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.07.30-05.30.06:542][952]LogBlueprintUserMessages: [Coms_Door_Signle_C_3] 15
+[2022.07.30-05.30.06:546][952]PIE: 登陆的服务器
+[2022.07.30-05.30.06:547][952]PIE: PIE总开始时间：0.099秒。
+[2022.07.30-05.30.07:811][ 95]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.30-05.30.07:811][ 95]LogWorld: BeginTearingDown for /Game/Top/Map/UEDPIE_0_Map_Level1
+[2022.07.30-05.30.07:811][ 95]LogSlate: Window 'TopTwo预览[NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.07.30-05.30.07:818][ 95]LogWorld: UWorld::CleanupWorld for Map_Level1, bSessionEnded=true, bCleanupResources=true
+[2022.07.30-05.30.07:819][ 95]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.30-05.30.07:830][ 95]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.30-05.30.07:840][ 95]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.30-05.30.07:864][ 95]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.30-05.30.07:865][ 95]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.30-05.30.07:883][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2022.07.30-05.30.07:901][ 96]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.07.30-05.30.08:901][216]LogTemp: Repeating last play command: 新建编辑器窗口（编辑器中运行）
+[2022.07.30-05.30.08:905][216]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.30-05.30.08:905][216]PIE: New page: PIE会话：Map_Level1（2022年7月30日 下午9:30:08）
+[2022.07.30-05.30.08:906][216]LogPlayLevel: Creating play world package: /Game/Top/Map/UEDPIE_0_Map_Level1
+[2022.07.30-05.30.08:910][216]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004881s)
+[2022.07.30-05.30.08:911][216]LogAIModule: Creating AISystem for world Map_Level1
+[2022.07.30-05.30.08:911][216]LogPlayLevel: PIE: World Init took: (0.000850s)
+[2022.07.30-05.30.08:911][216]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Top/Map/Map_Level1.Map_Level1 to /Game/Top/Map/UEDPIE_0_Map_Level1.Map_Level1 (0.005903s)
+[2022.07.30-05.30.08:936][216]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.07.30-05.30.08:936][216]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.07.30-05.30.08:937][216]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.30-05.30.08:937][216]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.30-05.30.08:937][216]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.30-05.30.08:937][216]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.30-05.30.08:937][216]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.30-05.30.08:937][216]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.30-05.30.08:937][216]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.30-05.30.08:937][216]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.30-05.30.08:937][216]LogAudio: Display: Using built-in audio occlusion.
+[2022.07.30-05.30.08:937][216]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.30-05.30.08:939][216]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.30-05.30.08:939][216]LogAudioMixer: Display: 1: FrontRight
+[2022.07.30-05.30.08:947][216]LogAudioMixer: Display: Using Audio Device 耳机 (ifkoo Q8)
+[2022.07.30-05.30.08:947][216]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.30-05.30.08:947][216]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.30-05.30.08:947][216]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.30-05.30.08:948][216]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.30-05.30.08:948][216]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.30-05.30.08:948][216]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.30-05.30.08:958][216]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.30-05.30.08:958][216]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.30-05.30.08:958][216]LogInit: FAudioDevice initialized.
+[2022.07.30-05.30.08:958][216]LogAudio: Display: Audio Device (ID: 6) registered with world 'Map_Level1'.
+[2022.07.30-05.30.08:980][216]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.30-05.30.08:980][216]LogLoad: Game class is 'GM_Main_C'
+[2022.07.30-05.30.08:982][216]LogWorld: Bringing World /Game/Top/Map/UEDPIE_0_Map_Level1.Map_Level1 up for play (max tick rate 0) at 2022.07.30-13.30.08
+[2022.07.30-05.30.08:983][216]LogWorld: Bringing up level for play took: 0.002430
+[2022.07.30-05.30.08:983][216]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2022.07.30-05.30.08:984][216]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.07.30-05.30.08:984][216]LogBlueprintUserMessages: [Coms_Door_Signle_C_3] 15
+[2022.07.30-05.30.08:987][216]PIE: 登陆的服务器
+[2022.07.30-05.30.08:988][216]PIE: PIE总开始时间：0.084秒。
+[2022.07.30-05.30.16:461][106]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.30-05.30.16:461][106]LogWorld: BeginTearingDown for /Game/Top/Map/UEDPIE_0_Map_Level1
+[2022.07.30-05.30.16:461][106]LogSlate: Window 'TopTwo预览[NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.07.30-05.30.16:468][106]LogWorld: UWorld::CleanupWorld for Map_Level1, bSessionEnded=true, bCleanupResources=true
+[2022.07.30-05.30.16:468][106]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.30-05.30.16:478][106]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.30-05.30.16:489][106]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.30-05.30.16:514][106]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.30-05.30.16:514][106]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.30-05.30.16:531][106]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2022.07.30-05.30.16:554][107]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2022.07.30-05.30.17:470][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.07.30-05.30.25:949][214]BlueprintLog: New page: 编译Coms_Door
+[2022.07.30-05.30.26:021][214]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2022.07.30-05.30.26:190][223]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2022.07.30-05.30.26:207][223]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/Map/Map_Level1" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/Map/Map_Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.30-05.30.26:229][223]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.07.30-05.30.26:251][223]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Map_Level1F7DC230349B430E7569087BB07F09A00.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/Map/Map_Level1.umap'
+[2022.07.30-05.30.26:257][223]LogFileHelpers: Saving map 'Map_Level1' took 0.051
+[2022.07.30-05.30.26:258][223]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/BP/Coms_Door" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/Coms_Door.uasset" SILENT=true
+[2022.07.30-05.30.26:260][223]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Coms_Door6F92214E45D2018D8E7229B1499CCE1F.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/Coms_Door.uasset'
+[2022.07.30-05.30.26:274][223]AssetCheck: New page: 资产保存：多个资产
+[2022.07.30-05.30.26:274][223]LogContentValidation: Display: 正在验证World /Game/Top/Map/Map_Level1.Map_Level1
+[2022.07.30-05.30.26:274][223]LogContentValidation: Display: 正在验证Blueprint /Game/Top/BP/Coms_Door.Coms_Door
+[2022.07.30-05.30.32:846][962]BlueprintLog: New page: 编译Coms_Door_Signle
+[2022.07.30-05.30.32:907][962]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2022.07.30-05.30.33:394][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2022.07.30-05.30.33:415][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/Map/Map_Level1" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/Map/Map_Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.30-05.30.33:438][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.07.30-05.30.33:453][ 14]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Map_Level1857C42E84E7C844169408EA87C04D6B3.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/Map/Map_Level1.umap'
+[2022.07.30-05.30.33:459][ 14]LogFileHelpers: Saving map 'Map_Level1' took 0.045
+[2022.07.30-05.30.33:459][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/BP/Coms_Door_Signle" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/Coms_Door_Signle.uasset" SILENT=true
+[2022.07.30-05.30.33:470][ 14]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Coms_Door_Signle0C2DF3124551C62FEA5AAC9552CCBCD1.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/Coms_Door_Signle.uasset'
+[2022.07.30-05.30.33:487][ 14]AssetCheck: New page: 资产保存：多个资产
+[2022.07.30-05.30.33:487][ 14]LogContentValidation: Display: 正在验证World /Game/Top/Map/Map_Level1.Map_Level1
+[2022.07.30-05.30.33:487][ 14]LogContentValidation: Display: 正在验证Blueprint /Game/Top/BP/Coms_Door_Signle.Coms_Door_Signle
+[2022.07.30-05.30.44:431][289]BlueprintLog: New page: 编译BP_Level
+[2022.07.30-05.30.44:537][289]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2022.07.30-05.30.50:967][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2022.07.30-05.30.50:985][ 41]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/Map/Map_Level1" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/Map/Map_Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.30-05.30.51:010][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2022.07.30-05.30.51:026][ 41]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Map_Level184CD32944D1CB361FB85EAB506F052F4.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/Map/Map_Level1.umap'
+[2022.07.30-05.30.51:034][ 41]LogFileHelpers: Saving map 'Map_Level1' took 0.049
+[2022.07.30-05.30.51:034][ 41]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/BP/BP_Level" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/BP_Level.uasset" SILENT=true
+[2022.07.30-05.30.51:108][ 41]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/BP_LevelD102A8164244155F902B25983E470784.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/BP/BP_Level.uasset'
+[2022.07.30-05.30.51:123][ 41]AssetCheck: New page: 资产保存：多个资产
+[2022.07.30-05.30.51:123][ 41]LogContentValidation: Display: 正在验证Blueprint /Game/Top/BP/BP_Level.BP_Level
+[2022.07.30-05.30.51:123][ 41]LogContentValidation: Display: 正在验证World /Game/Top/Map/Map_Level1.Map_Level1
+[2022.07.30-05.30.58:000][843]Cmd: TRANSACTION UNDO
+[2022.07.30-05.30.58:000][843]LogEditorTransaction: Undo 删除子项
+[2022.07.30-05.31.02:842][370]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.07.30-05.31.02:859][370]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/Map/Map_Level1" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/Map/Map_Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.30-05.31.02:883][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.07.30-05.31.02:897][370]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Map_Level12DD91AC04903E677E09EA38F7D9E9741.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/Map/Map_Level1.umap'
+[2022.07.30-05.31.02:904][370]LogFileHelpers: Saving map 'Map_Level1' took 0.045
+[2022.07.30-05.31.02:918][370]AssetCheck: New page: 资产保存：Map_Level1
+[2022.07.30-05.31.02:918][370]LogContentValidation: Display: 正在验证World /Game/Top/Map/Map_Level1.Map_Level1
+[2022.07.30-05.31.12:126][449]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.07.30-05.31.27:401][258]Cmd: POLY SELECT ALL
+[2022.07.30-05.31.28:685][412]LogEditorViewport: Clicking on Actor (LMB): BP_Level_C (BP_Level)
+[2022.07.30-05.31.29:428][497]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/Map/Map_Level1" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/Map/Map_Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.30-05.31.29:457][497]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2022.07.30-05.31.29:473][497]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Map_Level1914AB1AB46933332F3D71CB4A85F1342.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/Map/Map_Level1.umap'
+[2022.07.30-05.31.29:482][497]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/Map/Map_Level1_BuiltData" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/Map/Map_Level1_BuiltData.uasset" SILENT=true
+[2022.07.30-05.31.29:483][497]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Map_Level1_BuiltDataBEA511944A16945E562241A1603F8B27.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/Map/Map_Level1_BuiltData.uasset'
+[2022.07.30-05.31.29:494][497]AssetCheck: New page: 资产保存：多个资产
+[2022.07.30-05.31.29:494][497]LogContentValidation: Display: 正在验证MapBuildDataRegistry /Game/Top/Map/Map_Level1_BuiltData.Map_Level1_BuiltData
+[2022.07.30-05.31.29:494][497]LogContentValidation: Display: 正在验证World /Game/Top/Map/Map_Level1.Map_Level1
+[2022.07.30-05.31.29:734][523]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.07.30-05.32.05:448][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/Map/Map_Level1" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/Map/Map_Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.30-05.32.05:476][767]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2022.07.30-05.32.05:494][767]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Map_Level1887E642C4C767C75FBF1099545127D29.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/Map/Map_Level1.umap'
+[2022.07.30-05.32.05:501][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/Map/Map_Level1_BuiltData" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/Map/Map_Level1_BuiltData.uasset" SILENT=true
+[2022.07.30-05.32.05:502][767]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Map_Level1_BuiltData3D5530C3435EA7A25DD8059818F8F33A.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/Map/Map_Level1_BuiltData.uasset'
+[2022.07.30-05.32.05:516][767]AssetCheck: New page: 资产保存：多个资产
+[2022.07.30-05.32.05:516][767]LogContentValidation: Display: 正在验证MapBuildDataRegistry /Game/Top/Map/Map_Level1_BuiltData.Map_Level1_BuiltData
+[2022.07.30-05.32.05:516][767]LogContentValidation: Display: 正在验证World /Game/Top/Map/Map_Level1.Map_Level1
+[2022.07.30-05.32.05:887][805]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.07.30-05.32.13:404][687]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.07.30-05.32.14:115][767]LogTemp: Repeating last play command: 新建编辑器窗口（编辑器中运行）
+[2022.07.30-05.32.14:118][767]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.30-05.32.14:120][767]PIE: New page: PIE会话：Map_Level1（2022年7月30日 下午9:32:14）
+[2022.07.30-05.32.14:120][767]LogPlayLevel: Creating play world package: /Game/Top/Map/UEDPIE_0_Map_Level1
+[2022.07.30-05.32.14:124][767]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005145s)
+[2022.07.30-05.32.14:125][767]LogAIModule: Creating AISystem for world Map_Level1
+[2022.07.30-05.32.14:125][767]LogPlayLevel: PIE: World Init took: (0.000777s)
+[2022.07.30-05.32.14:125][767]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Top/Map/Map_Level1.Map_Level1 to /Game/Top/Map/UEDPIE_0_Map_Level1.Map_Level1 (0.006124s)
+[2022.07.30-05.32.14:151][767]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2022.07.30-05.32.14:151][767]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.07.30-05.32.14:151][767]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.30-05.32.14:151][767]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.30-05.32.14:151][767]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.30-05.32.14:151][767]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.30-05.32.14:151][767]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.30-05.32.14:151][767]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.30-05.32.14:151][767]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.30-05.32.14:151][767]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.30-05.32.14:151][767]LogAudio: Display: Using built-in audio occlusion.
+[2022.07.30-05.32.14:151][767]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.30-05.32.14:155][767]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.30-05.32.14:155][767]LogAudioMixer: Display: 1: FrontRight
+[2022.07.30-05.32.14:164][767]LogAudioMixer: Display: Using Audio Device 耳机 (ifkoo Q8)
+[2022.07.30-05.32.14:164][767]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.30-05.32.14:164][767]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.30-05.32.14:164][767]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.30-05.32.14:164][767]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.30-05.32.14:164][767]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.30-05.32.14:164][767]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.30-05.32.14:174][767]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.30-05.32.14:174][767]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.30-05.32.14:174][767]LogInit: FAudioDevice initialized.
+[2022.07.30-05.32.14:174][767]LogAudio: Display: Audio Device (ID: 7) registered with world 'Map_Level1'.
+[2022.07.30-05.32.14:203][767]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.30-05.32.14:204][767]LogLoad: Game class is 'GM_Main_C'
+[2022.07.30-05.32.14:207][767]LogWorld: Bringing World /Game/Top/Map/UEDPIE_0_Map_Level1.Map_Level1 up for play (max tick rate 0) at 2022.07.30-13.32.14
+[2022.07.30-05.32.14:207][767]LogWorld: Bringing up level for play took: 0.002527
+[2022.07.30-05.32.14:207][767]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2022.07.30-05.32.14:212][767]PIE: 登陆的服务器
+[2022.07.30-05.32.14:213][767]PIE: PIE总开始时间：0.094秒。
+[2022.07.30-05.32.25:891][116]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.30-05.32.25:891][116]LogWorld: BeginTearingDown for /Game/Top/Map/UEDPIE_0_Map_Level1
+[2022.07.30-05.32.25:891][116]LogSlate: Window 'TopTwo预览[NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.07.30-05.32.25:896][116]LogWorld: UWorld::CleanupWorld for Map_Level1, bSessionEnded=true, bCleanupResources=true
+[2022.07.30-05.32.25:897][116]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.30-05.32.25:906][116]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.30-05.32.25:916][116]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.30-05.32.25:939][116]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.30-05.32.25:940][116]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.30-05.32.25:955][116]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2022.07.30-05.32.25:982][117]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2022.07.30-05.32.32:998][926]LogActorFactory: Actor Factory created DoorSignle
+[2022.07.30-05.32.33:664][  5]LogActorFactory: Actor Factory created DoorSignle
+[2022.07.30-05.32.34:606][115]Cmd: DELETE
+[2022.07.30-05.32.34:606][115]Cmd: ACTOR DELETE
+[2022.07.30-05.32.34:608][115]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.07.30-05.32.34:632][115]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2022.07.30-05.32.34:634][115]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2022.07.30-05.32.35:545][220]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/Map/Map_Level1" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/Map/Map_Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.30-05.32.35:568][220]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.07.30-05.32.35:582][220]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Map_Level1701BC2AF47B9DDFC4130CF82348A9D28.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/Map/Map_Level1.umap'
+[2022.07.30-05.32.35:590][220]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Top/Map/Map_Level1_BuiltData" FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/Map/Map_Level1_BuiltData.uasset" SILENT=true
+[2022.07.30-05.32.35:591][220]LogSavePackage: Moving 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Map_Level1_BuiltDataBA366ADC430B77B14813D393A058BB57.tmp' to 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/Map/Map_Level1_BuiltData.uasset'
+[2022.07.30-05.32.35:603][220]AssetCheck: New page: 资产保存：多个资产
+[2022.07.30-05.32.35:603][220]LogContentValidation: Display: 正在验证MapBuildDataRegistry /Game/Top/Map/Map_Level1_BuiltData.Map_Level1_BuiltData
+[2022.07.30-05.32.35:603][220]LogContentValidation: Display: 正在验证World /Game/Top/Map/Map_Level1.Map_Level1
+[2022.07.30-05.32.35:733][233]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.07.30-05.32.37:092][393]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.07.30-05.32.37:101][393]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.07.30-05.32.37:101][393]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.30-05.32.37:140][393]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.07.30-05.32.37:140][393]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.30-05.32.37:171][393]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.07.30-05.32.37:171][393]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.30-05.32.37:199][393]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.07.30-05.32.37:199][393]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.30-05.32.37:235][393]LogSlate: Window 'TopTwo - 虚幻编辑器' being destroyed
+[2022.07.30-05.32.37:330][394]Cmd: QUIT_EDITOR
+[2022.07.30-05.32.37:330][394]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.07.30-05.32.37:331][394]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.07.30-05.32.37:745][394]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.07.30-05.32.37:746][394]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.07.30-05.32.37:746][394]LogAudio: Display: Audio Device unregistered from world 'Map_Level1'.
+[2022.07.30-05.32.37:746][394]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.30-05.32.37:746][394]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.30-05.32.37:756][394]LogAudio: Display: Audio Device Manager Shutdown
+[2022.07.30-05.32.37:763][394]LogWindowsTextInputMethodSystem: Display: IME system activated using TSF (中文(简体) - 百度输入法).
+[2022.07.30-05.32.37:767][394]LogExit: Preparing to exit.
+[2022.07.30-05.32.38:822][394]LogDeviceProfile: Device profile begin destroy: [000001613D2AF600] Windows
+[2022.07.30-05.32.38:822][394]LogDeviceProfile: Device profile begin destroy: [000001613D2AF500] Default__DeviceProfile
+[2022.07.30-05.32.38:822][394]LogDeviceProfile: Device profile begin destroy: [000001613D294B00] WindowsNoEditor
+[2022.07.30-05.32.38:822][394]LogDeviceProfile: Device profile begin destroy: [000001613D2ACB00] WindowsServer
+[2022.07.30-05.32.38:822][394]LogDeviceProfile: Device profile begin destroy: [000001613D297300] WindowsClient
+[2022.07.30-05.32.38:823][394]LogDeviceProfile: Device profile begin destroy: [000001613D2AF200] IOS
+[2022.07.30-05.32.38:823][394]LogDeviceProfile: Device profile begin destroy: [000001613D294F00] iPadAir
+[2022.07.30-05.32.38:823][394]LogDeviceProfile: Device profile begin destroy: [000001613D2ACE00] iPadAir2
+[2022.07.30-05.32.38:823][394]LogDeviceProfile: Device profile begin destroy: [000001613D040F00] IPadPro
+[2022.07.30-05.32.38:823][394]LogDeviceProfile: Device profile begin destroy: [000001613D041000] iPadAir3
+[2022.07.30-05.32.38:823][394]LogDeviceProfile: Device profile begin destroy: [000001613D2AF000] iPadAir4
+[2022.07.30-05.32.38:823][394]LogDeviceProfile: Device profile begin destroy: [000001613D043E00] iPadMini2
+[2022.07.30-05.32.38:823][394]LogDeviceProfile: Device profile begin destroy: [000001613D2AC900] iPadMini3
+[2022.07.30-05.32.38:823][394]LogDeviceProfile: Device profile begin destroy: [000001613D042200] iPadMini4
+[2022.07.30-05.32.38:823][394]LogDeviceProfile: Device profile begin destroy: [000001613D2AD100] iPadMini5
+[2022.07.30-05.32.38:823][394]LogDeviceProfile: Device profile begin destroy: [000001613D296600] iPhone6
+[2022.07.30-05.32.38:823][394]LogDeviceProfile: Device profile begin destroy: [000001613D296500] iPodTouch6
+[2022.07.30-05.32.38:823][394]LogDeviceProfile: Device profile begin destroy: [000001613D043500] iPhone7
+[2022.07.30-05.32.38:823][394]LogDeviceProfile: Device profile begin destroy: [000001613D043400] iPodTouch7
+[2022.07.30-05.32.38:823][394]LogDeviceProfile: Device profile begin destroy: [000001613D297D00] iPhone5S
+[2022.07.30-05.32.38:823][394]LogDeviceProfile: Device profile begin destroy: [000001613D040B00] iPhone6Plus
+[2022.07.30-05.32.38:823][394]LogDeviceProfile: Device profile begin destroy: [000001613D295600] iPhone6S
+[2022.07.30-05.32.38:823][394]LogDeviceProfile: Device profile begin destroy: [000001613D042400] iPhone6SPlus
+[2022.07.30-05.32.38:823][394]LogDeviceProfile: Device profile begin destroy: [000001613D297500] iPhone7Plus
+[2022.07.30-05.32.38:823][394]LogDeviceProfile: Device profile begin destroy: [000001613D043F00] iPhoneSE
+[2022.07.30-05.32.38:823][394]LogDeviceProfile: Device profile begin destroy: [000001613D297800] iPhone8
+[2022.07.30-05.32.38:823][394]LogDeviceProfile: Device profile begin destroy: [000001613D040500] iPhone8Plus
+[2022.07.30-05.32.38:823][394]LogDeviceProfile: Device profile begin destroy: [000001613D296000] iPhoneX
+[2022.07.30-05.32.38:823][394]LogDeviceProfile: Device profile begin destroy: [000001613D042100] iPhoneXS
+[2022.07.30-05.32.38:823][394]LogDeviceProfile: Device profile begin destroy: [000001613D295000] iPhoneXSMax
+[2022.07.30-05.32.38:823][394]LogDeviceProfile: Device profile begin destroy: [000001613D041400] iPhoneXR
+[2022.07.30-05.32.38:823][394]LogDeviceProfile: Device profile begin destroy: [000001613D294C00] iPhone11
+[2022.07.30-05.32.38:823][394]LogDeviceProfile: Device profile begin destroy: [000001613D041C00] iPhone11Pro
+[2022.07.30-05.32.38:823][394]LogDeviceProfile: Device profile begin destroy: [000001613D294700] iPhone11ProMax
+[2022.07.30-05.32.38:823][394]LogDeviceProfile: Device profile begin destroy: [000001613D041600] iPhoneSE2
+[2022.07.30-05.32.38:823][394]LogDeviceProfile: Device profile begin destroy: [000001613D294300] iPhone12Mini
+[2022.07.30-05.32.38:823][394]LogDeviceProfile: Device profile begin destroy: [000001613D041900] iPhone12
+[2022.07.30-05.32.38:823][394]LogDeviceProfile: Device profile begin destroy: [000001613D294600] iPhone12Pro
+[2022.07.30-05.32.38:823][394]LogDeviceProfile: Device profile begin destroy: [000001613D041D00] iPhone12ProMax
+[2022.07.30-05.32.38:823][394]LogDeviceProfile: Device profile begin destroy: [000001613D294A00] iPadPro105
+[2022.07.30-05.32.38:823][394]LogDeviceProfile: Device profile begin destroy: [000001613D042300] iPadPro129
+[2022.07.30-05.32.38:823][394]LogDeviceProfile: Device profile begin destroy: [000001613D297600] iPadPro97
+[2022.07.30-05.32.38:823][394]LogDeviceProfile: Device profile begin destroy: [000001613D041700] iPadPro2_129
+[2022.07.30-05.32.38:823][394]LogDeviceProfile: Device profile begin destroy: [000001613D295700] iPad5
+[2022.07.30-05.32.38:823][394]LogDeviceProfile: Device profile begin destroy: [000001613D042800] iPad6
+[2022.07.30-05.32.38:823][394]LogDeviceProfile: Device profile begin destroy: [000001613D296A00] iPad7
+[2022.07.30-05.32.38:823][394]LogDeviceProfile: Device profile begin destroy: [000001613D043A00] iPad8
+[2022.07.30-05.32.38:823][394]LogDeviceProfile: Device profile begin destroy: [000001613D295E00] iPadPro11
+[2022.07.30-05.32.38:823][394]LogDeviceProfile: Device profile begin destroy: [000001613D042B00] iPadPro2_11
+[2022.07.30-05.32.38:823][394]LogDeviceProfile: Device profile begin destroy: [000001613D295800] iPadPro3_129
+[2022.07.30-05.32.38:823][394]LogDeviceProfile: Device profile begin destroy: [000001613D041A00] iPadPro4_129
+[2022.07.30-05.32.38:823][394]LogDeviceProfile: Device profile begin destroy: [000001613D297B00] AppleTV
+[2022.07.30-05.32.38:823][394]LogDeviceProfile: Device profile begin destroy: [000001613D040400] AppleTV4K
+[2022.07.30-05.32.38:824][394]LogDeviceProfile: Device profile begin destroy: [000001613D296F00] TVOS
+[2022.07.30-05.32.38:824][394]LogDeviceProfile: Device profile begin destroy: [000001613D041100] Mac
+[2022.07.30-05.32.38:824][394]LogDeviceProfile: Device profile begin destroy: [000001613D295900] MacClient
+[2022.07.30-05.32.38:824][394]LogDeviceProfile: Device profile begin destroy: [000001613D040600] MacNoEditor
+[2022.07.30-05.32.38:824][394]LogDeviceProfile: Device profile begin destroy: [000001613D296100] MacServer
+[2022.07.30-05.32.38:824][394]LogDeviceProfile: Device profile begin destroy: [000001613D042700] Linux
+[2022.07.30-05.32.38:824][394]LogDeviceProfile: Device profile begin destroy: [000001613D2AD500] LinuxAArch64
+[2022.07.30-05.32.38:824][394]LogDeviceProfile: Device profile begin destroy: [000001613C628800] LinuxNoEditor
+[2022.07.30-05.32.38:824][394]LogDeviceProfile: Device profile begin destroy: [000001613D2AF400] LinuxAArch64NoEditor
+[2022.07.30-05.32.38:824][394]LogDeviceProfile: Device profile begin destroy: [000001613C629100] LinuxClient
+[2022.07.30-05.32.38:824][394]LogDeviceProfile: Device profile begin destroy: [000001613D2AE700] LinuxAArch64Client
+[2022.07.30-05.32.38:824][394]LogDeviceProfile: Device profile begin destroy: [000001613C628400] LinuxServer
+[2022.07.30-05.32.38:824][394]LogDeviceProfile: Device profile begin destroy: [000001613D2ADD00] LinuxAArch64Server
+[2022.07.30-05.32.38:824][394]LogDeviceProfile: Device profile begin destroy: [000001613C629700] Android
+[2022.07.30-05.32.38:824][394]LogDeviceProfile: Device profile begin destroy: [000001613D2AEC00] Android_Low
+[2022.07.30-05.32.38:824][394]LogDeviceProfile: Device profile begin destroy: [000001613C628A00] Android_Mid
+[2022.07.30-05.32.38:824][394]LogDeviceProfile: Device profile begin destroy: [000001613D2AE400] Android_High
+[2022.07.30-05.32.38:824][394]LogDeviceProfile: Device profile begin destroy: [000001613C628B00] Android_Default
+[2022.07.30-05.32.38:824][394]LogDeviceProfile: Device profile begin destroy: [000001613D2AE800] Android_Adreno4xx
+[2022.07.30-05.32.38:824][394]LogDeviceProfile: Device profile begin destroy: [000001613D041F00] Android_Adreno5xx_Low
+[2022.07.30-05.32.38:824][394]LogDeviceProfile: Device profile begin destroy: [000001613D2ACA00] Android_Adreno5xx
+[2022.07.30-05.32.38:824][394]LogDeviceProfile: Device profile begin destroy: [000001613D043700] Android_Adreno6xx
+[2022.07.30-05.32.38:824][394]LogDeviceProfile: Device profile begin destroy: [000001613D2ACD00] Android_Adreno6xx_Vulkan
+[2022.07.30-05.32.38:824][394]LogDeviceProfile: Device profile begin destroy: [000001613D040A00] Android_Mali_T6xx
+[2022.07.30-05.32.38:824][394]LogDeviceProfile: Device profile begin destroy: [000001613D2AEA00] Android_Mali_T7xx
+[2022.07.30-05.32.38:824][394]LogDeviceProfile: Device profile begin destroy: [000001613D042E00] Android_Mali_T8xx
+[2022.07.30-05.32.38:824][394]LogDeviceProfile: Device profile begin destroy: [000001613D2AF900] Android_Mali_G71
+[2022.07.30-05.32.38:824][394]LogDeviceProfile: Device profile begin destroy: [000001613D042C00] Android_Mali_G72
+[2022.07.30-05.32.38:824][394]LogDeviceProfile: Device profile begin destroy: [000001613D2AE000] Android_Mali_G72_Vulkan
+[2022.07.30-05.32.38:824][394]LogDeviceProfile: Device profile begin destroy: [000001613D043300] Android_Mali_G76
+[2022.07.30-05.32.38:824][394]LogDeviceProfile: Device profile begin destroy: [000001613D2AC800] Android_Mali_G76_Vulkan
+[2022.07.30-05.32.38:824][394]LogDeviceProfile: Device profile begin destroy: [000001613D043100] Android_Mali_G77
+[2022.07.30-05.32.38:824][394]LogDeviceProfile: Device profile begin destroy: [000001613D2AFE00] Android_Mali_G77_Vulkan
+[2022.07.30-05.32.38:824][394]LogDeviceProfile: Device profile begin destroy: [000001613D041B00] Android_Vulkan_SM5
+[2022.07.30-05.32.38:824][394]LogDeviceProfile: Device profile begin destroy: [000001613D2AED00] Android_PowerVR_G6xxx
+[2022.07.30-05.32.38:824][394]LogDeviceProfile: Device profile begin destroy: [000001613D040700] Android_PowerVR_GT7xxx
+[2022.07.30-05.32.38:824][394]LogDeviceProfile: Device profile begin destroy: [000001613D2AC200] Android_PowerVR_GE8xxx
+[2022.07.30-05.32.38:824][394]LogDeviceProfile: Device profile begin destroy: [000001613D040900] Android_PowerVR_GM9xxx
+[2022.07.30-05.32.38:824][394]LogDeviceProfile: Device profile begin destroy: [000001613D2ADE00] Android_PowerVR_GM9xxx_Vulkan
+[2022.07.30-05.32.38:824][394]LogDeviceProfile: Device profile begin destroy: [000001613D042D00] Android_TegraK1
+[2022.07.30-05.32.38:824][394]LogDeviceProfile: Device profile begin destroy: [000001613D2AE900] Android_Unknown_Vulkan
+[2022.07.30-05.32.38:824][394]LogDeviceProfile: Device profile begin destroy: [000001613D041500] Lumin
+[2022.07.30-05.32.38:824][394]LogDeviceProfile: Device profile begin destroy: [000001613D2AD400] Lumin_Desktop
+[2022.07.30-05.32.38:824][394]LogDeviceProfile: Device profile begin destroy: [000001613D042A00] HoloLens
+[2022.07.30-05.32.38:830][394]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.07.30-05.32.38:834][394]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.07.30-05.32.38:897][394]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.07.30-05.32.38:901][394]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.07.30-05.32.38:901][394]LogExit: Editor shut down
+[2022.07.30-05.32.38:901][394]LogExit: Transaction tracking system shut down
+[2022.07.30-05.32.39:196][394]LogExit: Object subsystem successfully closed.
+[2022.07.30-05.32.39:223][394]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.07.30-05.32.39:231][394]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (840)
+[2022.07.30-05.32.39:231][394]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (838)
+[2022.07.30-05.32.39:231][394]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (836)
+[2022.07.30-05.32.39:231][394]LogModuleManager: Shutting down and abandoning module Voice (834)
+[2022.07.30-05.32.39:231][394]LogModuleManager: Shutting down and abandoning module BlueprintGraph (832)
+[2022.07.30-05.32.39:231][394]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (830)
+[2022.07.30-05.32.39:231][394]LogModuleManager: Shutting down and abandoning module SceneOutliner (826)
+[2022.07.30-05.32.39:231][394]LogModuleManager: Shutting down and abandoning module AddContentDialog (824)
+[2022.07.30-05.32.39:231][394]LogModuleManager: Shutting down and abandoning module WidgetCarousel (823)
+[2022.07.30-05.32.39:231][394]LogModuleManager: Shutting down and abandoning module EditorWidgets (820)
+[2022.07.30-05.32.39:231][394]LogModuleManager: Shutting down and abandoning module StatsViewer (818)
+[2022.07.30-05.32.39:231][394]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (816)
+[2022.07.30-05.32.39:231][394]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (814)
+[2022.07.30-05.32.39:231][394]LogModuleManager: Shutting down and abandoning module AutomationWorker (812)
+[2022.07.30-05.32.39:231][394]LogModuleManager: Shutting down and abandoning module SteamVREditor (810)
+[2022.07.30-05.32.39:231][394]LogModuleManager: Shutting down and abandoning module OculusMR (808)
+[2022.07.30-05.32.39:231][394]LogModuleManager: Shutting down and abandoning module GooglePADEditor (806)
+[2022.07.30-05.32.39:231][394]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (804)
+[2022.07.30-05.32.39:231][394]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (802)
+[2022.07.30-05.32.39:231][394]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (800)
+[2022.07.30-05.32.39:231][394]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (798)
+[2022.07.30-05.32.39:231][394]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (796)
+[2022.07.30-05.32.39:231][394]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (794)
+[2022.07.30-05.32.39:231][394]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (792)
+[2022.07.30-05.32.39:231][394]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (790)
+[2022.07.30-05.32.39:231][394]LogModuleManager: Shutting down and abandoning module WebMMedia (788)
+[2022.07.30-05.32.39:231][394]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (786)
+[2022.07.30-05.32.39:232][394]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (784)
+[2022.07.30-05.32.39:232][394]LogModuleManager: Shutting down and abandoning module SequenceRecorder (783)
+[2022.07.30-05.32.39:232][394]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (780)
+[2022.07.30-05.32.39:232][394]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (778)
+[2022.07.30-05.32.39:232][394]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (776)
+[2022.07.30-05.32.39:232][394]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (774)
+[2022.07.30-05.32.39:232][394]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (772)
+[2022.07.30-05.32.39:232][394]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (770)
+[2022.07.30-05.32.39:232][394]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (768)
+[2022.07.30-05.32.39:232][394]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (766)
+[2022.07.30-05.32.39:232][394]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (764)
+[2022.07.30-05.32.39:232][394]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (762)
+[2022.07.30-05.32.39:232][394]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (760)
+[2022.07.30-05.32.39:232][394]LogModuleManager: Shutting down and abandoning module PlanarCut (758)
+[2022.07.30-05.32.39:232][394]LogModuleManager: Shutting down and abandoning module CharacterAI (756)
+[2022.07.30-05.32.39:232][394]LogModuleManager: Shutting down and abandoning module TextureAlignMode (754)
+[2022.07.30-05.32.39:232][394]LogModuleManager: Shutting down and abandoning module BspMode (752)
+[2022.07.30-05.32.39:232][394]LogModuleManager: Shutting down and abandoning module GeometryMode (750)
+[2022.07.30-05.32.39:232][394]LogModuleManager: Shutting down and abandoning module RiderShaderInfoDump (748)
+[2022.07.30-05.32.39:232][394]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (746)
+[2022.07.30-05.32.39:232][394]LogModuleManager: Shutting down and abandoning module SmartSnapping (744)
+[2022.07.30-05.32.39:232][394]LogModuleManager: Shutting down and abandoning module SessionServices (742)
+[2022.07.30-05.32.39:232][394]LogModuleManager: Shutting down and abandoning module MeshPaint (740)
+[2022.07.30-05.32.39:232][394]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (738)
+[2022.07.30-05.32.39:232][394]LogModuleManager: Shutting down and abandoning module FoliageEdit (736)
+[2022.07.30-05.32.39:232][394]LogModuleManager: Shutting down and abandoning module LandscapeEditor (734)
+[2022.07.30-05.32.39:232][394]LogModuleManager: Shutting down and abandoning module MeshPaintMode (732)
+[2022.07.30-05.32.39:232][394]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (730)
+[2022.07.30-05.32.39:232][394]LogModuleManager: Shutting down and abandoning module ActorPickerMode (728)
+[2022.07.30-05.32.39:232][394]LogModuleManager: Shutting down and abandoning module PlacementMode (726)
+[2022.07.30-05.32.39:232][394]LogModuleManager: Shutting down and abandoning module ViewportSnapping (724)
+[2022.07.30-05.32.39:232][394]LogModuleManager: Shutting down and abandoning module ViewportInteraction (722)
+[2022.07.30-05.32.39:232][394]LogModuleManager: Shutting down and abandoning module ClothPainter (720)
+[2022.07.30-05.32.39:232][394]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (719)
+[2022.07.30-05.32.39:232][394]LogModuleManager: Shutting down and abandoning module LogVisualizer (716)
+[2022.07.30-05.32.39:232][394]LogModuleManager: Shutting down and abandoning module IntroTutorials (714)
+[2022.07.30-05.32.39:233][394]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (713)
+[2022.07.30-05.32.39:233][394]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (710)
+[2022.07.30-05.32.39:233][394]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (708)
+[2022.07.30-05.32.39:233][394]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (706)
+[2022.07.30-05.32.39:233][394]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (705)
+[2022.07.30-05.32.40:726][394]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (702)
+[2022.07.30-05.32.40:726][394]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (700)
+[2022.07.30-05.32.40:726][394]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (698)
+[2022.07.30-05.32.40:726][394]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (696)
+[2022.07.30-05.32.40:726][394]LogModuleManager: Shutting down and abandoning module TraceInsights (694)
+[2022.07.30-05.32.40:726][394]MemoryProfiler: Shutdown
+[2022.07.30-05.32.40:726][394]NetworkingProfiler: Shutdown
+[2022.07.30-05.32.40:726][394]LoadingProfiler: Shutdown
+[2022.07.30-05.32.40:726][394]TimingProfiler: Shutdown
+[2022.07.30-05.32.40:726][394]LogModuleManager: Shutting down and abandoning module TraceServices (693)
+[2022.07.30-05.32.40:727][394]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (690)
+[2022.07.30-05.32.40:727][394]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (688)
+[2022.07.30-05.32.40:727][394]LogModuleManager: Shutting down and abandoning module InputBindingEditor (686)
+[2022.07.30-05.32.40:727][394]LogModuleManager: Shutting down and abandoning module MergeActors (684)
+[2022.07.30-05.32.40:727][394]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (682)
+[2022.07.30-05.32.40:727][394]LogModuleManager: Shutting down and abandoning module LocalizationService (681)
+[2022.07.30-05.32.40:727][394]LogModuleManager: Shutting down and abandoning module HardwareTargeting (678)
+[2022.07.30-05.32.40:727][394]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (676)
+[2022.07.30-05.32.40:727][394]LogModuleManager: Shutting down and abandoning module UndoHistory (674)
+[2022.07.30-05.32.40:727][394]LogModuleManager: Shutting down and abandoning module XmlParser (672)
+[2022.07.30-05.32.40:727][394]LogModuleManager: Shutting down and abandoning module Blutility (670)
+[2022.07.30-05.32.40:727][394]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (668)
+[2022.07.30-05.32.40:727][394]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (667)
+[2022.07.30-05.32.40:727][394]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (664)
+[2022.07.30-05.32.40:727][394]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (663)
+[2022.07.30-05.32.40:727][394]LogModuleManager: Shutting down and abandoning module SettingsEditor (660)
+[2022.07.30-05.32.40:727][394]LogModuleManager: Shutting down and abandoning module ProjectLauncher (658)
+[2022.07.30-05.32.40:727][394]LogModuleManager: Shutting down and abandoning module SessionFrontend (656)
+[2022.07.30-05.32.40:727][394]LogModuleManager: Shutting down and abandoning module ProfilerClient (654)
+[2022.07.30-05.32.40:727][394]LogModuleManager: Shutting down and abandoning module DeviceManager (652)
+[2022.07.30-05.32.40:727][394]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (651)
+[2022.07.30-05.32.40:761][394]LogModuleManager: Shutting down and abandoning module AutomationController (648)
+[2022.07.30-05.32.40:761][394]LogModuleManager: Shutting down and abandoning module AutomationWindow (646)
+[2022.07.30-05.32.40:761][394]LogModuleManager: Shutting down and abandoning module Layers (644)
+[2022.07.30-05.32.40:761][394]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (642)
+[2022.07.30-05.32.40:761][394]LogModuleManager: Shutting down and abandoning module DetailCustomizations (640)
+[2022.07.30-05.32.40:761][394]LogModuleManager: Shutting down and abandoning module PackagesDialog (638)
+[2022.07.30-05.32.40:761][394]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (636)
+[2022.07.30-05.32.40:761][394]LogModuleManager: Shutting down and abandoning module Persona (634)
+[2022.07.30-05.32.40:761][394]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (633)
+[2022.07.30-05.32.40:761][394]LogModuleManager: Shutting down and abandoning module AnimGraph (631)
+[2022.07.30-05.32.40:761][394]LogModuleManager: Shutting down and abandoning module Kismet (628)
+[2022.07.30-05.32.40:773][394]LogModuleManager: Shutting down and abandoning module KismetWidgets (627)
+[2022.07.30-05.32.40:773][394]LogModuleManager: Shutting down and abandoning module GraphEditor (624)
+[2022.07.30-05.32.40:773][394]LogModuleManager: Shutting down and abandoning module StructViewer (622)
+[2022.07.30-05.32.40:773][394]LogModuleManager: Shutting down and abandoning module ClassViewer (620)
+[2022.07.30-05.32.40:774][394]LogModuleManager: Shutting down and abandoning module Toolbox (618)
+[2022.07.30-05.32.40:774][394]LogModuleManager: Shutting down and abandoning module ModuleUI (616)
+[2022.07.30-05.32.40:774][394]LogModuleManager: Shutting down and abandoning module OutputLog (614)
+[2022.07.30-05.32.40:775][394]LogModuleManager: Shutting down and abandoning module GammaUI (612)
+[2022.07.30-05.32.40:775][394]LogModuleManager: Shutting down and abandoning module Documentation (610)
+[2022.07.30-05.32.40:775][394]LogModuleManager: Shutting down and abandoning module LiveCoding (608)
+[2022.07.30-05.32.40:775][394]LogModuleManager: Shutting down and abandoning module LevelSequence (606)
+[2022.07.30-05.32.40:775][394]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (604)
+[2022.07.30-05.32.40:775][394]LogModuleManager: Shutting down and abandoning module MovieScene (602)
+[2022.07.30-05.32.40:775][394]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (600)
+[2022.07.30-05.32.40:775][394]LogModuleManager: Shutting down and abandoning module LauncherPlatform (598)
+[2022.07.30-05.32.40:775][394]LogModuleManager: Shutting down and abandoning module AnalyticsET (596)
+[2022.07.30-05.32.40:776][394]LogModuleManager: Shutting down and abandoning module PortalServices (594)
+[2022.07.30-05.32.40:776][394]LogModuleManager: Shutting down and abandoning module PortalRpc (592)
+[2022.07.30-05.32.40:776][394]LogModuleManager: Shutting down and abandoning module MessagingRpc (590)
+[2022.07.30-05.32.40:776][394]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (588)
+[2022.07.30-05.32.40:776][394]LogModuleManager: Shutting down and abandoning module AudioMixerCore (587)
+[2022.07.30-05.32.40:776][394]LogModuleManager: Shutting down and abandoning module AIModule (584)
+[2022.07.30-05.32.40:776][394]LogModuleManager: Shutting down and abandoning module GameplayDebugger (583)
+[2022.07.30-05.32.40:776][394]LogModuleManager: Shutting down and abandoning module AITestSuite (581)
+[2022.07.30-05.32.40:776][394]LogModuleManager: Shutting down and abandoning module NavigationSystem (579)
+[2022.07.30-05.32.40:776][394]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (576)
+[2022.07.30-05.32.40:780][394]LogModuleManager: Shutting down and abandoning module ProfilerService (574)
+[2022.07.30-05.32.40:927][394]LogModuleManager: Shutting down and abandoning module TaskGraph (572)
+[2022.07.30-05.32.40:927][394]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (570)
+[2022.07.30-05.32.40:927][394]LogModuleManager: Shutting down and abandoning module OculusEditor (568)
+[2022.07.30-05.32.40:927][394]LogModuleManager: Shutting down and abandoning module OculusInput (566)
+[2022.07.30-05.32.40:927][394]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (564)
+[2022.07.30-05.32.40:927][394]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (562)
+[2022.07.30-05.32.40:927][394]LogModuleManager: Shutting down and abandoning module CollectionManager (561)
+[2022.07.30-05.32.40:928][394]LogModuleManager: Shutting down and abandoning module ScreenshotTools (558)
+[2022.07.30-05.32.40:928][394]LogModuleManager: Shutting down and abandoning module SynthesisEditor (556)
+[2022.07.30-05.32.40:928][394]LogModuleManager: Shutting down and abandoning module Synthesis (554)
+[2022.07.30-05.32.40:928][394]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (552)
+[2022.07.30-05.32.40:928][394]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (550)
+[2022.07.30-05.32.40:928][394]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (548)
+[2022.07.30-05.32.40:928][394]LogModuleManager: Shutting down and abandoning module GooglePAD (546)
+[2022.07.30-05.32.40:928][394]LogModuleManager: Shutting down and abandoning module EditableMesh (544)
+[2022.07.30-05.32.40:928][394]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (542)
+[2022.07.30-05.32.40:928][394]LogModuleManager: Shutting down and abandoning module CableComponent (540)
+[2022.07.30-05.32.40:928][394]LogModuleManager: Shutting down and abandoning module AudioCapture (538)
+[2022.07.30-05.32.40:928][394]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (537)
+[2022.07.30-05.32.40:928][394]LogModuleManager: Shutting down and abandoning module AssetTags (534)
+[2022.07.30-05.32.40:928][394]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (532)
+[2022.07.30-05.32.40:928][394]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (530)
+[2022.07.30-05.32.40:928][394]LogModuleManager: Shutting down and abandoning module AppleImageUtils (528)
+[2022.07.30-05.32.40:928][394]LogModuleManager: Shutting down and abandoning module AndroidPermission (526)
+[2022.07.30-05.32.40:928][394]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (524)
+[2022.07.30-05.32.40:928][394]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (522)
+[2022.07.30-05.32.40:928][394]LogModuleManager: Shutting down and abandoning module TemplateSequence (520)
+[2022.07.30-05.32.40:928][394]LogModuleManager: Shutting down and abandoning module MediaCompositing (518)
+[2022.07.30-05.32.40:928][394]LogModuleManager: Shutting down and abandoning module ImgMedia (516)
+[2022.07.30-05.32.40:928][394]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (514)
+[2022.07.30-05.32.40:928][394]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (512)
+[2022.07.30-05.32.40:928][394]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (510)
+[2022.07.30-05.32.40:928][394]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (508)
+[2022.07.30-05.32.40:928][394]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (506)
+[2022.07.30-05.32.40:928][394]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (504)
+[2022.07.30-05.32.40:928][394]LogModuleManager: Shutting down and abandoning module MotoSynth (502)
+[2022.07.30-05.32.40:928][394]LogModuleManager: Shutting down and abandoning module MeshConversion (500)
+[2022.07.30-05.32.40:928][394]LogModuleManager: Shutting down and abandoning module DynamicMesh (498)
+[2022.07.30-05.32.40:928][394]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (496)
+[2022.07.30-05.32.40:928][394]LogModuleManager: Shutting down and abandoning module GeometricObjects (494)
+[2022.07.30-05.32.40:928][394]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (492)
+[2022.07.30-05.32.40:928][394]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (491)
+[2022.07.30-05.32.40:928][394]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (488)
+[2022.07.30-05.32.40:928][394]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (486)
+[2022.07.30-05.32.40:928][394]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (484)
+[2022.07.30-05.32.40:928][394]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (482)
+[2022.07.30-05.32.40:928][394]LogModuleManager: Shutting down and abandoning module ChaosNiagara (480)
+[2022.07.30-05.32.40:928][394]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (478)
+[2022.07.30-05.32.40:928][394]LogModuleManager: Shutting down and abandoning module FractureEditor (476)
+[2022.07.30-05.32.40:928][394]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (475)
+[2022.07.30-05.32.40:929][394]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (472)
+[2022.07.30-05.32.40:929][394]LogModuleManager: Shutting down and abandoning module BackChannel (470)
+[2022.07.30-05.32.40:929][394]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (468)
+[2022.07.30-05.32.40:929][394]LogModuleManager: Shutting down and abandoning module AutomationUtils (466)
+[2022.07.30-05.32.40:929][394]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (464)
+[2022.07.30-05.32.40:929][394]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (462)
+[2022.07.30-05.32.40:929][394]LogModuleManager: Shutting down and abandoning module PluginBrowser (460)
+[2022.07.30-05.32.40:929][394]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (458)
+[2022.07.30-05.32.40:929][394]LogModuleManager: Shutting down and abandoning module AlembicImporter (456)
+[2022.07.30-05.32.40:929][394]LogModuleManager: Shutting down and abandoning module AlembicLibrary (455)
+[2022.07.30-05.32.40:929][394]LogModuleManager: Shutting down and abandoning module GeometryCache (454)
+[2022.07.30-05.32.40:929][394]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (453)
+[2022.07.30-05.32.40:929][394]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (448)
+[2022.07.30-05.32.40:929][394]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (446)
+[2022.07.30-05.32.40:929][394]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (444)
+[2022.07.30-05.32.40:929][394]LogModuleManager: Shutting down and abandoning module CurveEditorTools (442)
+[2022.07.30-05.32.40:929][394]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (440)
+[2022.07.30-05.32.40:929][394]LogModuleManager: Shutting down and abandoning module CryptoKeys (438)
+[2022.07.30-05.32.40:929][394]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (436)
+[2022.07.30-05.32.40:929][394]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (434)
+[2022.07.30-05.32.40:929][394]LogModuleManager: Shutting down and abandoning module UObjectPlugin (432)
+[2022.07.30-05.32.40:929][394]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (430)
+[2022.07.30-05.32.40:929][394]LogModuleManager: Shutting down and abandoning module RiderGameControl (428)
+[2022.07.30-05.32.40:929][394]LogModuleManager: Shutting down and abandoning module RiderBlueprint (426)
+[2022.07.30-05.32.40:929][394]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (424)
+[2022.07.30-05.32.40:929][394]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (422)
+[2022.07.30-05.32.40:929][394]LogModuleManager: Shutting down and abandoning module PluginUtils (420)
+[2022.07.30-05.32.40:929][394]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (418)
+[2022.07.30-05.32.40:929][394]LogModuleManager: Shutting down and abandoning module GitSourceControl (416)
+[2022.07.30-05.32.40:929][394]LogModuleManager: Shutting down and abandoning module SourceControl (415)
+[2022.07.30-05.32.40:929][394]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (412)
+[2022.07.30-05.32.40:929][394]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (410)
+[2022.07.30-05.32.40:929][394]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (408)
+[2022.07.30-05.32.40:929][394]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (406)
+[2022.07.30-05.32.40:929][394]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (404)
+[2022.07.30-05.32.40:929][394]LogModuleManager: Shutting down and abandoning module Paper2DEditor (402)
+[2022.07.30-05.32.40:929][394]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (400)
+[2022.07.30-05.32.40:929][394]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (398)
+[2022.07.30-05.32.40:929][394]LogModuleManager: Shutting down and abandoning module SoundFields (396)
+[2022.07.30-05.32.40:930][394]LogModuleManager: Shutting down and abandoning module SignificanceManager (394)
+[2022.07.30-05.32.40:930][394]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (392)
+[2022.07.30-05.32.40:930][394]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (390)
+[2022.07.30-05.32.40:930][394]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (388)
+[2022.07.30-05.32.40:930][394]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (384)
+[2022.07.30-05.32.40:930][394]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (382)
+[2022.07.30-05.32.40:930][394]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (380)
+[2022.07.30-05.32.40:930][394]LogModuleManager: Shutting down and abandoning module ActorSequence (378)
+[2022.07.30-05.32.40:930][394]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (376)
+[2022.07.30-05.32.40:930][394]LogModuleManager: Shutting down and abandoning module UdpMessaging (374)
+[2022.07.30-05.32.41:030][394]LogModuleManager: Shutting down and abandoning module TcpMessaging (372)
+[2022.07.30-05.32.41:131][394]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (370)
+[2022.07.30-05.32.41:131][394]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (368)
+[2022.07.30-05.32.41:131][394]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (366)
+[2022.07.30-05.32.41:131][394]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (364)
+[2022.07.30-05.32.41:131][394]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2022.07.30-05.32.41:131][394]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (362)
+[2022.07.30-05.32.41:131][394]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (360)
+[2022.07.30-05.32.41:131][394]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (358)
+[2022.07.30-05.32.41:131][394]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (356)
+[2022.07.30-05.32.41:131][394]LogModuleManager: Shutting down and abandoning module MagicLeapController (354)
+[2022.07.30-05.32.41:131][394]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.07.30-05.32.41:131][394]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (352)
+[2022.07.30-05.32.41:131][394]LogModuleManager: Shutting down and abandoning module MagicLeapAR (350)
+[2022.07.30-05.32.41:131][394]LogModuleManager: Shutting down and abandoning module AugmentedReality (349)
+[2022.07.30-05.32.41:131][394]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (346)
+[2022.07.30-05.32.41:131][394]LogModuleManager: Shutting down and abandoning module Niagara (344)
+[2022.07.30-05.32.41:131][394]LogModuleManager: Shutting down and abandoning module SignalProcessing (343)
+[2022.07.30-05.32.41:131][394]LogModuleManager: Shutting down and abandoning module NiagaraEditor (341)
+[2022.07.30-05.32.41:131][394]LogModuleManager: Shutting down and abandoning module NiagaraCore (338)
+[2022.07.30-05.32.41:131][394]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (336)
+[2022.07.30-05.32.41:131][394]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (334)
+[2022.07.30-05.32.41:131][394]LogModuleManager: Shutting down and abandoning module FacialAnimation (332)
+[2022.07.30-05.32.41:131][394]LogModuleManager: Shutting down and abandoning module DataValidation (330)
+[2022.07.30-05.32.41:131][394]LogModuleManager: Shutting down and abandoning module RiderLogging (328)
+[2022.07.30-05.32.41:132][394]LogModuleManager: Shutting down and abandoning module RiderLink (326)
+[2022.07.30-05.32.41:133][394]LogModuleManager: Shutting down and abandoning module RD (324)
+[2022.07.30-05.32.41:133][394]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (322)
+[2022.07.30-05.32.41:133][394]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (320)
+[2022.07.30-05.32.41:133][394]LogModuleManager: Shutting down and abandoning module LevelEditor (319)
+[2022.07.30-05.32.41:134][394]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (318)
+[2022.07.30-05.32.41:134][394]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (316)
+[2022.07.30-05.32.41:134][394]LogModuleManager: Shutting down and abandoning module MainFrame (314)
+[2022.07.30-05.32.41:134][394]LogModuleManager: Shutting down and abandoning module HotReload (313)
+[2022.07.30-05.32.41:134][394]LogModuleManager: Shutting down and abandoning module ToolMenus (309)
+[2022.07.30-05.32.41:134][394]LogModuleManager: Shutting down and abandoning module ContentBrowser (307)
+[2022.07.30-05.32.41:134][394]LogModuleManager: Shutting down and abandoning module ContentBrowserData (306)
+[2022.07.30-05.32.41:134][394]LogModuleManager: Shutting down and abandoning module TreeMap (303)
+[2022.07.30-05.32.41:135][394]LogModuleManager: Shutting down and abandoning module AnimationSharing (300)
+[2022.07.30-05.32.41:135][394]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (298)
+[2022.07.30-05.32.41:135][394]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (296)
+[2022.07.30-05.32.41:135][394]LogModuleManager: Shutting down and abandoning module Paper2D (294)
+[2022.07.30-05.32.41:135][394]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (292)
+[2022.07.30-05.32.41:135][394]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (290)
+[2022.07.30-05.32.41:135][394]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (288)
+[2022.07.30-05.32.41:135][394]LogModuleManager: Shutting down and abandoning module PacketHandler (286)
+[2022.07.30-05.32.41:135][394]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (284)
+[2022.07.30-05.32.41:135][394]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (282)
+[2022.07.30-05.32.41:135][394]LogModuleManager: Shutting down and abandoning module MediaAssets (280)
+[2022.07.30-05.32.41:135][394]LogModuleManager: Shutting down and abandoning module Overlay (278)
+[2022.07.30-05.32.41:135][394]LogModuleManager: Shutting down and abandoning module OverlayEditor (277)
+[2022.07.30-05.32.41:135][394]LogModuleManager: Shutting down and abandoning module VREditor (274)
+[2022.07.30-05.32.41:135][394]LogModuleManager: Shutting down and abandoning module StringTableEditor (272)
+[2022.07.30-05.32.41:135][394]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (270)
+[2022.07.30-05.32.41:135][394]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (268)
+[2022.07.30-05.32.41:136][394]LogModuleManager: Shutting down and abandoning module FunctionalTesting (266)
+[2022.07.30-05.32.41:136][394]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (264)
+[2022.07.30-05.32.41:136][394]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (263)
+[2022.07.30-05.32.41:136][394]LogModuleManager: Shutting down and abandoning module UMG (260)
+[2022.07.30-05.32.41:136][394]LogModuleManager: Shutting down and abandoning module UMGEditor (259)
+[2022.07.30-05.32.41:136][394]LogModuleManager: Shutting down and abandoning module MessageLog (257)
+[2022.07.30-05.32.41:136][394]LogModuleManager: Shutting down and abandoning module SlateReflector (252)
+[2022.07.30-05.32.41:136][394]LogModuleManager: Shutting down and abandoning module Slate (250)
+[2022.07.30-05.32.41:136][394]LogModuleManager: Shutting down and abandoning module SlateCore (248)
+[2022.07.30-05.32.41:136][394]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (246)
+[2022.07.30-05.32.41:136][394]LogModuleManager: Shutting down and abandoning module UnrealEd (244)
+[2022.07.30-05.32.41:136][394]LogModuleManager: Shutting down and abandoning module MRMesh (242)
+[2022.07.30-05.32.41:136][394]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (240)
+[2022.07.30-05.32.41:136][394]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (238)
+[2022.07.30-05.32.41:136][394]LogModuleManager: Shutting down and abandoning module XAudio2 (236)
+[2022.07.30-05.32.41:136][394]LogModuleManager: Shutting down and abandoning module Networking (234)
+[2022.07.30-05.32.41:136][394]LogModuleManager: Shutting down and abandoning module Core (232)
+[2022.07.30-05.32.41:136][394]LogModuleManager: Shutting down and abandoning module MaterialEditor (230)
+[2022.07.30-05.32.41:136][394]LogModuleManager: Shutting down and abandoning module MovieSceneTools (228)
+[2022.07.30-05.32.41:136][394]LogModuleManager: Shutting down and abandoning module CurveEditor (227)
+[2022.07.30-05.32.41:136][394]LogModuleManager: Shutting down and abandoning module Sequencer (225)
+[2022.07.30-05.32.41:137][394]LogModuleManager: Shutting down and abandoning module EditorStyle (224)
+[2022.07.30-05.32.41:137][394]LogModuleManager: Shutting down and abandoning module KismetCompiler (220)
+[2022.07.30-05.32.41:137][394]LogModuleManager: Shutting down and abandoning module MeshBuilder (218)
+[2022.07.30-05.32.41:137][394]LogModuleManager: Shutting down and abandoning module MeshUtilities (216)
+[2022.07.30-05.32.41:137][394]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (215)
+[2022.07.30-05.32.41:137][394]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (214)
+[2022.07.30-05.32.41:137][394]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (213)
+[2022.07.30-05.32.41:137][394]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (211)
+[2022.07.30-05.32.41:137][394]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (209)
+[2022.07.30-05.32.41:137][394]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (207)
+[2022.07.30-05.32.41:137][394]LogModuleManager: Shutting down and abandoning module MaterialBaking (203)
+[2022.07.30-05.32.41:137][394]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (198)
+[2022.07.30-05.32.41:137][394]LogModuleManager: Shutting down and abandoning module DerivedDataCache (196)
+[2022.07.30-05.32.41:137][394]LogModuleManager: Shutting down and abandoning module TargetPlatform (194)
+[2022.07.30-05.32.41:137][394]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (193)
+[2022.07.30-05.32.41:138][394]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (191)
+[2022.07.30-05.32.41:138][394]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (189)
+[2022.07.30-05.32.41:138][394]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (187)
+[2022.07.30-05.32.41:138][394]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (185)
+[2022.07.30-05.32.41:138][394]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (183)
+[2022.07.30-05.32.41:138][394]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (181)
+[2022.07.30-05.32.41:138][394]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (179)
+[2022.07.30-05.32.41:138][394]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (177)
+[2022.07.30-05.32.41:138][394]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (175)
+[2022.07.30-05.32.41:138][394]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (173)
+[2022.07.30-05.32.41:138][394]LogModuleManager: Shutting down and abandoning module ImageWrapper (172)
+[2022.07.30-05.32.41:138][394]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (169)
+[2022.07.30-05.32.41:138][394]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (167)
+[2022.07.30-05.32.41:138][394]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (165)
+[2022.07.30-05.32.41:138][394]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (163)
+[2022.07.30-05.32.41:138][394]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (161)
+[2022.07.30-05.32.41:138][394]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (159)
+[2022.07.30-05.32.41:138][394]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (157)
+[2022.07.30-05.32.41:138][394]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (155)
+[2022.07.30-05.32.41:138][394]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (153)
+[2022.07.30-05.32.41:138][394]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (151)
+[2022.07.30-05.32.41:138][394]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (149)
+[2022.07.30-05.32.41:138][394]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (147)
+[2022.07.30-05.32.41:138][394]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (145)
+[2022.07.30-05.32.41:140][394]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (143)
+[2022.07.30-05.32.41:140][394]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (141)
+[2022.07.30-05.32.41:140][394]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (139)
+[2022.07.30-05.32.41:140][394]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (137)
+[2022.07.30-05.32.41:140][394]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (135)
+[2022.07.30-05.32.41:140][394]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (133)
+[2022.07.30-05.32.41:140][394]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (131)
+[2022.07.30-05.32.41:140][394]LogModuleManager: Shutting down and abandoning module Messaging (129)
+[2022.07.30-05.32.41:140][394]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (127)
+[2022.07.30-05.32.41:140][394]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (125)
+[2022.07.30-05.32.41:141][394]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (123)
+[2022.07.30-05.32.41:141][394]LogModuleManager: Shutting down and abandoning module InputCore (120)
+[2022.07.30-05.32.41:141][394]LogModuleManager: Shutting down and abandoning module Settings (118)
+[2022.07.30-05.32.41:141][394]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (116)
+[2022.07.30-05.32.41:141][394]LogModuleManager: Shutting down and abandoning module PhysXCooking (114)
+[2022.07.30-05.32.41:141][394]LogModuleManager: Shutting down and abandoning module Chaos (112)
+[2022.07.30-05.32.41:141][394]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (110)
+[2022.07.30-05.32.41:141][394]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (109)
+[2022.07.30-05.32.41:142][394]LogModuleManager: Shutting down and abandoning module AVEncoder (108)
+[2022.07.30-05.32.41:142][394]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (104)
+[2022.07.30-05.32.41:142][394]LogModuleManager: Shutting down and abandoning module SteamVRInput (102)
+[2022.07.30-05.32.41:142][394]LogModuleManager: Shutting down and abandoning module SteamVR (100)
+[2022.07.30-05.32.41:142][394]LogHMD: Freeing OpenVRDLLHandle.
+[2022.07.30-05.32.41:142][394]LogModuleManager: Shutting down and abandoning module OculusHMD (98)
+[2022.07.30-05.32.41:142][394]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (96)
+[2022.07.30-05.32.41:142][394]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (94)
+[2022.07.30-05.32.41:142][394]LogModuleManager: Shutting down and abandoning module ChunkDownloader (90)
+[2022.07.30-05.32.41:142][394]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (88)
+[2022.07.30-05.32.41:142][394]LogModuleManager: Shutting down and abandoning module XMPP (83)
+[2022.07.30-05.32.41:142][394]LogModuleManager: Shutting down and abandoning module WebSockets (82)
+[2022.07.30-05.32.41:143][394]LogModuleManager: Shutting down and abandoning module HTTP (79)
+[2022.07.30-05.32.41:143][394]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2022.07.30-05.32.41:143][394]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7A1BA7A2-4FEC-932F-3748-14ADF6AD1640%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=675bc617497974a8c1d40689dab38bc9%7Cb1869022ddd644b5bf552ec8203c8a2f%7Cb09ad66d-c86f-462a-98b7-162a5c686c58&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2022.07.30-05.32.41:143][394]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2022.07.30-05.32.41:177][394]LogModuleManager: Shutting down and abandoning module SSL (78)
+[2022.07.30-05.32.41:178][394]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2022.07.30-05.32.41:178][394]LogModuleManager: Shutting down and abandoning module WmfMedia (72)
+[2022.07.30-05.32.41:180][394]LogModuleManager: Shutting down and abandoning module Media (71)
+[2022.07.30-05.32.41:180][394]LogModuleManager: Shutting down and abandoning module MediaInfo (70)
+[2022.07.30-05.32.41:180][394]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (66)
+[2022.07.30-05.32.41:180][394]LogModuleManager: Shutting down and abandoning module MLSDK (64)
+[2022.07.30-05.32.41:180][394]LogModuleManager: Shutting down and abandoning module MagicLeap (62)
+[2022.07.30-05.32.41:180][394]LogModuleManager: Shutting down and abandoning module ChaosCloth (60)
+[2022.07.30-05.32.41:180][394]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (58)
+[2022.07.30-05.32.41:180][394]LogModuleManager: Shutting down and abandoning module NiagaraShader (56)
+[2022.07.30-05.32.41:180][394]LogModuleManager: Shutting down and abandoning module VariantManagerContent (54)
+[2022.07.30-05.32.41:180][394]LogModuleManager: Shutting down and abandoning module DatasmithContent (52)
+[2022.07.30-05.32.41:180][394]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2022.07.30-05.32.41:180][394]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2022.07.30-05.32.41:180][394]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (46)
+[2022.07.30-05.32.41:180][394]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (44)
+[2022.07.30-05.32.41:180][394]LogModuleManager: Shutting down and abandoning module PlatformCrypto (42)
+[2022.07.30-05.32.41:181][394]LogModuleManager: Shutting down and abandoning module XGEController (40)
+[2022.07.30-05.32.41:181][394]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2022.07.30-05.32.41:181][394]LogModuleManager: Shutting down and abandoning module AudioEditor (36)
+[2022.07.30-05.32.41:181][394]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2022.07.30-05.32.41:181][394]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2022.07.30-05.32.41:181][394]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2022.07.30-05.32.41:181][394]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2022.07.30-05.32.41:181][394]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2022.07.30-05.32.41:182][394]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2022.07.30-05.32.41:182][394]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2022.07.30-05.32.41:182][394]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.07.30-05.32.41:182][394]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.07.30-05.32.41:182][394]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.07.30-05.32.41:182][394]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.07.30-05.32.41:182][394]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2022.07.30-05.32.41:182][394]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2022.07.30-05.32.41:182][394]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2022.07.30-05.32.41:182][394]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2022.07.30-05.32.41:182][394]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2022.07.30-05.32.41:182][394]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2022.07.30-05.32.41:182][394]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2022.07.30-05.32.41:183][394]LogD3D11RHI: Shutdown
+[2022.07.30-05.32.41:183][394]LogD3D11RHI: CleanupD3DDevice
+[2022.07.30-05.32.41:196][394]LogExit: Exiting.
+[2022.07.30-05.32.41:208][394]Log file closed, 07/30/22 13:32:41

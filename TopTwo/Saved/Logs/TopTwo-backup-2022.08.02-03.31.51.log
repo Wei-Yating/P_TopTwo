@@ -1,0 +1,2207 @@
+﻿Log file open, 08/02/22 11:26:55
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: TopTwo
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.184164
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderLink
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: 11th Gen Intel(R) Core(TM) i7-11700K @ 3.60GHz, GPU: NVIDIA GeForce RTX 3080 Ti
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: D:/APP/UE4/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.08.02-03.26.56:114][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.08.02-03.26.56:114][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.08.02-03.26.56:114][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Config/Windows/Engine.ini]
+[2022.08.02-03.26.56:114][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.08.02-03.26.56:114][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2022.08.02-03.26.56:114][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Config/Windows/Engine.ini]
+[2022.08.02-03.26.56:114][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Config/Windows/Engine.ini]
+[2022.08.02-03.26.56:114][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.08.02-03.26.56:114][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.08.02-03.26.56:114][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.08.02-03.26.56:114][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.08.02-03.26.56:114][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.08.02-03.26.56:114][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.08.02-03.26.56:114][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.08.02-03.26.56:114][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.08.02-03.26.56:114][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.08.02-03.26.56:114][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.08.02-03.26.56:114][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.08.02-03.26.56:114][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.08.02-03.26.56:114][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.08.02-03.26.56:114][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.08.02-03.26.56:114][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Config/Windows/Engine.ini]
+[2022.08.02-03.26.56:114][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.08.02-03.26.56:114][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.08.02-03.26.56:114][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.08.02-03.26.56:114][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.08.02-03.26.56:114][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.08.02-03.26.56:114][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.08.02-03.26.56:114][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.08.02-03.26.56:115][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.08.02-03.26.56:115][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.08.02-03.26.56:115][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.08.02-03.26.56:115][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.08.02-03.26.56:115][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.08.02-03.26.56:115][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.08.02-03.26.56:115][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.08.02-03.26.56:115][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Config/Windows/Engine.ini]
+[2022.08.02-03.26.56:115][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Config/Windows/Engine.ini]
+[2022.08.02-03.26.56:131][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Config/Windows/Scalability.ini]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Config/Windows/Scalability.ini]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Config/Windows/Scalability.ini]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Config/Windows/Scalability.ini]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Config/Windows/Scalability.ini]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Config/Windows/Scalability.ini]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Config/Windows/Scalability.ini]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Config/Windows/Scalability.ini]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.08.02-03.26.56:131][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.08.02-03.26.56:131][  0]LogInit: Selected Device Profile: [Windows]
+[2022.08.02-03.26.56:131][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.08.02-03.26.56:132][  0]LogHAL: Display: Platform has ~ 32 GB [34178564096 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.08.02-03.26.56:132][  0]LogInit: Going up to parent DeviceProfile []
+[2022.08.02-03.26.56:132][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Config/Windows/Scalability.ini]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.8]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Config/Windows/Scalability.ini]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Config/Windows/Scalability.ini]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:4]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.04]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.85]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.8]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.AOQuality:1]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:16]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:64]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Config/Windows/Scalability.ini]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.6]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:3]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.8]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:1    ; no background occlusion]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:0      ; no bokeh simulation when scattering]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.04        ; only a maximum of 4% of scattered bokeh]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Config/Windows/Scalability.ini]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:4]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:800]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Config/Windows/Scalability.ini]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:48]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.SSR.Quality:2]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:1]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:1]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.SSS.Quality:-1]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.SSGI.Quality:2]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.5]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:1]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:2]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:64.0]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:64.0]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Config/Windows/Scalability.ini]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.8]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[grass.DensityScale:0.8]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@2] File [F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Config/Windows/Scalability.ini]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.08.02-03.26.56:132][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.08.02-03.26.56:133][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.08.02-03.26.56:133][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.08.02-03.26.56:133][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.08.02-03.26.56:133][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Config/Windows/Engine.ini]
+[2022.08.02-03.26.56:133][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Config/Windows/Editor.ini]
+[2022.08.02-03.26.56:133][  0]LogInit: Computer: DESKTOP-PE82GTH
+[2022.08.02-03.26.56:133][  0]LogInit: User: Maple
+[2022.08.02-03.26.56:133][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.08.02-03.26.56:133][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.08.02-03.26.56:133][  0]LogMemory: Memory total: Physical=31.8GB (32GB approx)
+[2022.08.02-03.26.56:133][  0]LogMemory: Platform Memory Stats for Windows
+[2022.08.02-03.26.56:133][  0]LogMemory: Process Physical Memory: 143.57 MB used, 143.57 MB peak
+[2022.08.02-03.26.56:133][  0]LogMemory: Process Virtual Memory: 130.00 MB used, 130.00 MB peak
+[2022.08.02-03.26.56:133][  0]LogMemory: Physical Memory: 8871.34 MB used,  23723.88 MB free, 32595.22 MB total
+[2022.08.02-03.26.56:133][  0]LogMemory: Virtual Memory: 134181872.00 MB used,  35857.09 MB free, 134217728.00 MB total
+[2022.08.02-03.26.56:137][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.08.02-03.26.56:166][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.08.02-03.26.56:167][  0]LogInit: Using OS detected language (zh-CN).
+[2022.08.02-03.26.56:167][  0]LogInit: Using OS detected locale (zh-CN).
+[2022.08.02-03.26.56:168][  0]LogTextLocalizationManager: No specific localization for 'zh-CN' exists, so the 'zh-Hans' localization will be used.
+[2022.08.02-03.26.56:237][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/zh/Editor.locres' could not be opened for reading!
+[2022.08.02-03.26.56:237][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/zh/EditorTutorials.locres' could not be opened for reading!
+[2022.08.02-03.26.56:237][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/zh/Keywords.locres' could not be opened for reading!
+[2022.08.02-03.26.56:237][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/zh/Category.locres' could not be opened for reading!
+[2022.08.02-03.26.56:237][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/zh/ToolTips.locres' could not be opened for reading!
+[2022.08.02-03.26.56:237][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/zh/PropertyNames.locres' could not be opened for reading!
+[2022.08.02-03.26.56:237][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/zh/Engine.locres' could not be opened for reading!
+[2022.08.02-03.26.56:237][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/zh/OnlineSubsystem.locres' could not be opened for reading!
+[2022.08.02-03.26.56:237][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/zh/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2022.08.02-03.26.56:237][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/zh/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2022.08.02-03.26.56:237][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/zh/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2022.08.02-03.26.56:272][  0]LogInit: Setting process to per monitor DPI aware
+[2022.08.02-03.26.56:313][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.08.02-03.26.56:320][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.08.02-03.26.56:320][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.08.02-03.26.56:440][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.08.02-03.26.56:440][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.08.02-03.26.56:440][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.08.02-03.26.56:440][  0]LogD3D11RHI: D3D11 adapters:
+[2022.08.02-03.26.56:520][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3080 Ti' (Feature Level 11_0)
+[2022.08.02-03.26.56:520][  0]LogD3D11RHI:       12100/0/16297 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.08.02-03.26.56:521][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.08.02-03.26.56:521][  0]LogD3D11RHI:       0/0/16297 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.08.02-03.26.56:521][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.08.02-03.26.56:526][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.08.02-03.26.56:526][  0]LogD3D11RHI:     GPU DeviceId: 0x2208 (for the marketing name, search the web for "GPU Device Id")
+[2022.08.02-03.26.56:526][  0]LogWindows: EnumDisplayDevices:
+[2022.08.02-03.26.56:526][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3080 Ti' (P:1 D:1)
+[2022.08.02-03.26.56:527][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3080 Ti' (P:0 D:0)
+[2022.08.02-03.26.56:527][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3080 Ti' (P:0 D:0)
+[2022.08.02-03.26.56:527][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3080 Ti' (P:0 D:0)
+[2022.08.02-03.26.56:527][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.08.02-03.26.56:527][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3080 Ti
+[2022.08.02-03.26.56:527][  0]LogD3D11RHI:   Driver Version: 515.66 (internal:31.0.15.1566, unified:515.66)
+[2022.08.02-03.26.56:527][  0]LogD3D11RHI:      Driver Date: 3-11-2022
+[2022.08.02-03.26.56:527][  0]LogRHI: Texture pool is 8470 MB (70% of 12100 MB)
+[2022.08.02-03.26.56:564][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.08.02-03.26.56:564][  0]LogD3D11RHI: Async texture creation enabled
+[2022.08.02-03.26.56:564][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.08.02-03.26.56:565][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061080).
+[2022.08.02-03.26.56:593][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2022.08.02-03.26.56:593][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.08.02-03.26.56:831][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.08.02-03.26.56:845][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.08.02-03.26.56:845][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.08.02-03.26.56:845][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.08.02-03.26.56:845][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.08.02-03.26.56:845][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.08.02-03.26.56:845][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.08.02-03.26.56:845][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.08.02-03.26.56:845][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.08.02-03.26.56:845][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.08.02-03.26.56:845][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.08.02-03.26.56:861][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.08.02-03.26.56:861][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.08.02-03.26.56:867][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.08.02-03.26.56:873][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.08.02-03.26.56:878][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.08.02-03.26.56:884][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.08.02-03.26.56:889][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.08.02-03.26.56:895][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.08.02-03.26.56:901][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.08.02-03.26.56:915][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.08.02-03.26.56:915][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.08.02-03.26.56:920][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.08.02-03.26.56:926][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.08.02-03.26.56:932][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.08.02-03.26.56:937][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.08.02-03.26.56:946][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.08.02-03.26.56:946][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.08.02-03.26.56:952][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.08.02-03.26.56:958][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.08.02-03.26.56:964][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.08.02-03.26.56:969][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.08.02-03.26.56:969][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.08.02-03.26.56:975][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.08.02-03.26.57:022][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.08.02-03.26.57:022][  0]LogShaderCompilers: Guid format shader working directory is 16 characters bigger than the processId version (F:/UE4/Normal/P_TopTwo/TopTwo/Intermediate/Shaders/WorkingDirectory/24160/).
+[2022.08.02-03.26.57:022][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Maple/AppData/Local/Temp/UnrealShaderWorkingDir/F5A3536341C1E9AF83C77AB69EAF0FF4/'.
+[2022.08.02-03.26.57:022][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.08.02-03.26.57:022][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.08.02-03.26.57:580][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.08.02-03.26.57:613][  0]LogDerivedDataCache: Loaded boot cache 0.03s 77MB C:/Users/Maple/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.08.02-03.26.57:613][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Maple/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2022.08.02-03.26.57:613][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file F:/UE4/Normal/P_TopTwo/TopTwo/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.08.02-03.26.57:613][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.08.02-03.26.57:613][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file F:/UE4/Normal/P_TopTwo/TopTwo/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.08.02-03.26.57:613][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.08.02-03.26.57:622][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.08.02-03.26.57:622][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.08.02-03.26.57:622][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.08.02-03.26.57:626][  0]LogDerivedDataCache: Speed tests for C:/Users/Maple/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.00 seconds
+[2022.08.02-03.26.57:626][  0]LogDerivedDataCache: Display: Performance to C:/Users/Maple/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.01ms. RandomReadSpeed=2365.02MBs, RandomWriteSpeed=302.65MBs. Assigned SpeedClass 'Local'
+[2022.08.02-03.26.57:626][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Maple/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.08.02-03.26.57:627][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.08.02-03.26.57:627][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.08.02-03.26.57:664][  0]LogSlate: Using FreeType 2.10.0
+[2022.08.02-03.26.57:664][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.08.02-03.26.57:681][  0]LogAssetRegistry: FAssetRegistry took 0.0017 seconds to start up
+[2022.08.02-03.26.57:827][  0]LogInit: Selected Device Profile: [Windows]
+[2022.08.02-03.26.57:827][  0]LogInit: Active device profile: [0000020839FDF600][0000020838271680 49] Windows
+[2022.08.02-03.26.57:827][  0]LogInit: Profiles: [0000020839FDF600][0000020838271680 49] Windows, [0000020839FD8B00][00000208382757C0 49] WindowsNoEditor, [0000020839FDCB00][0000020838279900 49] WindowsServer, [0000020839FDB300][0000020838281A80 49] WindowsClient, [0000020839FDF200][0000020838285C00 49] IOS, [0000020839FD8F00][00000208382880C0 49] iPadAir, [0000020839FDCE00][000002083828C240 49] iPadAir2, [0000020839F90F00][0000020838294500 49] IPadPro, [0000020839F91000][0000020838290540 49] iPadAir3, [0000020839FDF000][00000208382986C0 49] iPadAir4, [0000020839F93E00][000002083829C840 49] iPadMini2, [0000020839FDC900][00000208382A09C0 49] iPadMini3, [0000020839F92200][00000208382A4B40 49] iPadMini4, [0000020839FDD100][00000208382A8CC0 49] iPadMini5, [0000020839FDA600][00000208382B0F80 49] iPhone6, [0000020839FDA500][00000208382ACFC0 49] iPodTouch6, [0000020839F93500][00000208382B9280 49] iPhone7, [0000020839F93400][00000208382B52C0 49] iPodTouch7, [0000020839FDBD00][00000208382BD440 49] iPhone5S, [0000020839F90B00][0000020837AB15C0 49] iPhone6Plus, [0000020839FD9600][000002083827D700 49] iPhone6S, [0000020839F92400][0000020837AB5840 49] iPhone6SPlus, [0000020839FDB500][0000020837AB9980 49] iPhone7Plus, [0000020839F93F00][0000020837ABDAC0 49] iPhoneSE, [0000020839FDB800][0000020837AC5C40 49] iPhone8, [0000020839F90500][0000020837AC8100 49] iPhone8Plus, [0000020839FDA000][0000020837ACC280 49] iPhoneX, [0000020839F92100][0000020837AD0400 49] iPhoneXS, [0000020839FD9000][0000020837AD4580 49] iPhoneXSMax, [0000020839F91400][0000020837AD8700 49] iPhoneXR, [0000020839FD8C00][0000020837ADC880 49] iPhone11, [0000020839F91C00][0000020837AE0A00 49] iPhone11Pro, [0000020839FD8700][0000020837AE4B80 49] iPhone11ProMax, [0000020839F91600][0000020837AE8D00 49] iPhoneSE2, [0000020839FD8300][0000020837AECE80 49] iPhone12Mini, [0000020839F91900][0000020837AF1000 49] iPhone12, [0000020839FD8600][0000020837AF5180 49] iPhone12Pro, [0000020839F91D00][0000020837AF9300 49] iPhone12ProMax, [0000020839FD8A00][0000020837AFD480 49] iPadPro105, [0000020839F92300][0000020837B01600 49] iPadPro129, [0000020839FDB600][0000020837AC1740 49] iPadPro97, [0000020839F91700][0000020837B05880 49] iPadPro2_129, [0000020839FD9700][0000020837B099C0 49] iPad5, [0000020839F92800][0000020837B0DB00 49] iPad6, [0000020839FDAA00][0000020837B15C80 49] iPad7, [0000020839F93A00][0000020837B18140 49] iPad8, [0000020839FD9E00][0000020837B1C2C0 49] iPadPro11, [0000020839F92B00][0000020837B20440 49] iPadPro2_11, [0000020839FD9800][0000020837B245C0 49] iPadPro3_129, [0000020839F91A00][0000020837B28740 49] iPadPro4_129, [0000020839FDBB00][0000020837B2C8C0 49] AppleTV, [0000020839F90400][0000020837B30A40 49] AppleTV4K, [0000020839FDAF00][0000020837B34BC0 49] TVOS, [0000020839F91100][0000020837B38D40 49] Mac, [0000020839FD9900][0000020837B3CEC0 49] MacClient, [0000020839F90600][0000020837B41040 49] MacNoEditor, [0000020839FDA100][0000020837B451C0 49] MacServer, [0000020839F92700][0000020837B49340 49] Linux, [0000020839FDD500][0000020837B4D4C0 49] LinuxAArch64, [000002083A05C800][0000020837B51640 49] LinuxNoEditor, [0000020839FDF400][0000020837B557C0 49] LinuxAArch64NoEditor, [000002083A05D100][0000020837B11900 49] LinuxClient, [0000020839FDE700][0000020837B59A40 49] LinuxAArch64Client, [000002083A05C400][0000020837B5DB80 49] LinuxServer, [0000020839FDDD00][0000020837B65D00 49] LinuxAArch64Server, [000002083A05D700][0000020837B681C0 49] Android, [0000020839FDEC00][0000020837B6C340 49] Android_Low, [000002083A05CA00][0000020837B704C0 49] Android_Mid, [0000020839FDE400][0000020837B74640 49] Android_High, [000002083A05CB00][0000020837B787C0 49] Android_Default, [0000020839FDE800][0000020837B7C940 49] Android_Adreno4xx, [0000020839F91F00][0000020837B80AC0 49] Android_Adreno5xx_Low, [0000020839FDCA00][0000020837B84C40 49] Android_Adreno5xx, [0000020839F93700][0000020837B88DC0 49] Android_Adreno6xx, [0000020839FDCD00][0000020837B8CF40 49] Android_Adreno6xx_Vulkan, [0000020839F90A00][0000020837B910C0 49] Android_Mali_T6xx, [0000020839FDEA00][0000020837B95240 49] Android_Mali_T7xx, [0000020839F92E00][0000020837B993C0 49] Android_Mali_T8xx, [0000020839FDF900][0000020837B9D540 49] Android_Mali_G71, [0000020839F92C00][0000020837BA16C0 49] Android_Mali_G72, [0000020839FDE000][0000020837BA5840 49] Android_Mali_G72_Vulkan, [0000020839F93300][0000020837B61980 49] Android_Mali_G76, [0000020839FDC800][0000020837BA9AC0 49] Android_Mali_G76_Vulkan, [0000020839F93100][0000020837BADC00 49] Android_Mali_G77, [0000020839FDFE00][0000020837BB40C0 49] Android_Mali_G77_Vulkan, [0000020839F91B00][0000020837BB8240 49] Android_Vulkan_SM5, [0000020839FDED00][0000020837BBC3C0 49] Android_PowerVR_G6xxx, [0000020839F90700][0000020837BC0540 49] Android_PowerVR_GT7xxx, [0000020839FDC200][0000020837BC46C0 49] Android_PowerVR_GE8xxx, [0000020839F90900][0000020837BC8840 49] Android_PowerVR_GM9xxx, [0000020839FDDE00][0000020837BCC9C0 49] Android_PowerVR_GM9xxx_Vulkan, [0000020839F92D00][0000020837BD0B40 49] Android_TegraK1, [0000020839FDE900][0000020837BD4CC0 49] Android_Unknown_Vulkan, [0000020839F91500][0000020837BD8E40 49] Lumin, [0000020839FDD400][0000020837BDCFC0 49] Lumin_Desktop, [0000020839F92A00][0000020837BE1140 49] HoloLens, 
+[2022.08.02-03.26.57:909][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.08.02-03.26.57:909][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.08.02-03.26.57:909][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.08.02-03.26.57:909][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.08.02-03.26.57:909][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.08.02-03.26.57:919][  0]LogNetVersion: TopTwo 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 3653446095)
+[2022.08.02-03.26.58:203][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.08.02-03.26.58:263][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 2 prioritized culture(s) in 0.059323 seconds
+[2022.08.02-03.26.58:267][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2022.08.02-03.26.58:267][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2022.08.02-03.26.58:267][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.08.02-03.26.58:594][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.08.02-03.26.58:598][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.08.02-03.26.58:665][  0]SourceControl: 源码管理已禁用
+[2022.08.02-03.26.58:666][  0]SourceControl: 源码管理已禁用
+[2022.08.02-03.26.58:669][  0]SourceControl: 源码管理已禁用
+[2022.08.02-03.26.58:674][  0]SourceControl: 源码管理已禁用
+[2022.08.02-03.26.58:688][  0]SourceControl: 源码管理已禁用
+[2022.08.02-03.26.58:690][  0]LogUProjectInfo: Found projects:
+[2022.08.02-03.26.58:872][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.08.02-03.26.58:889][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.08.02-03.26.58:889][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.08.02-03.26.58:925][  0]LogCollectionManager: Loaded 0 collections in 0.000457 seconds
+[2022.08.02-03.26.58:941][  0]LogFileCache: Scanning file cache for directory 'F:/UE4/Normal/P_TopTwo/TopTwo/Saved/Collections/' took 0.00s
+[2022.08.02-03.26.58:941][  0]LogFileCache: Scanning file cache for directory 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Developers/Maple/Collections/' took 0.00s
+[2022.08.02-03.26.58:941][  0]LogFileCache: Scanning file cache for directory 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/Collections/' took 0.00s
+[2022.08.02-03.26.58:941][  0]LogOcInput: OculusInput pre-init called
+[2022.08.02-03.26.58:949][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2022.08.02-03.26.58:949][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2022.08.02-03.26.58:984][  0]LogEngine: Initializing Engine...
+[2022.08.02-03.26.58:985][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.08.02-03.26.58:986][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.08.02-03.26.58:986][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.08.02-03.26.59:058][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.08.02-03.26.59:064][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.08.02-03.26.59:070][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.08.02-03.26.59:073][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.08.02-03.26.59:073][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.08.02-03.26.59:073][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.02-03.26.59:073][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.02-03.26.59:073][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.02-03.26.59:073][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.02-03.26.59:073][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.02-03.26.59:073][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.02-03.26.59:073][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.02-03.26.59:073][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.02-03.26.59:073][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.08.02-03.26.59:073][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.02-03.26.59:081][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.02-03.26.59:081][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.08.02-03.26.59:100][  0]LogAudioMixer: Display: Using Audio Device 耳机 (ifkoo Q8)
+[2022.08.02-03.26.59:101][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.02-03.26.59:103][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.02-03.26.59:103][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.02-03.26.59:103][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.02-03.26.59:103][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.02-03.26.59:103][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.02-03.26.59:104][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.02-03.26.59:104][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.02-03.26.59:104][  0]LogInit: FAudioDevice initialized.
+[2022.08.02-03.26.59:104][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.08.02-03.26.59:104][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.08.02-03.26.59:134][  0]LogDerivedDataCache: Saved boot cache 0.03s 77MB C:/Users/Maple/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.08.02-03.26.59:134][  0]LogInit: Texture streaming: Enabled
+[2022.08.02-03.26.59:145][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2022.08.02-03.26.59:148][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.08.02-03.26.59:148][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.08.02-03.26.59:149][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.08.02-03.26.59:168][  0]LogInit: Transaction tracking system initialized
+[2022.08.02-03.26.59:184][  0]BlueprintLog: New page: 编辑器加载
+[2022.08.02-03.26.59:235][  0]LocalizationService: 本地化服务已禁用
+[2022.08.02-03.26.59:255][  0]TimingProfiler: Initialize
+[2022.08.02-03.26.59:255][  0]TimingProfiler: OnSessionChanged
+[2022.08.02-03.26.59:256][  0]LoadingProfiler: Initialize
+[2022.08.02-03.26.59:256][  0]LoadingProfiler: OnSessionChanged
+[2022.08.02-03.26.59:256][  0]NetworkingProfiler: Initialize
+[2022.08.02-03.26.59:256][  0]NetworkingProfiler: OnSessionChanged
+[2022.08.02-03.26.59:256][  0]MemoryProfiler: Initialize
+[2022.08.02-03.26.59:256][  0]MemoryProfiler: OnSessionChanged
+[2022.08.02-03.26.59:571][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.08.02-03.26.59:571][  0]LogCook: Display: Mobile HDR setting 1
+[2022.08.02-03.26.59:694][  0]LogFileCache: Scanning file cache for directory 'F:/UE4/Normal/P_TopTwo/TopTwo/Content/' took 0.00s
+[2022.08.02-03.26.59:819][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.08.02-03.26.59:821][  0]SourceControl: 源码管理已禁用
+[2022.08.02-03.26.59:821][  0]LogUnrealEdMisc: Loading editor; pre map load, took 4.391
+[2022.08.02-03.26.59:821][  0]Cmd: MAP LOAD FILE="F:/UE4/Normal/P_TopTwo/TopTwo/Content/Top/Map/Map_Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.08.02-03.26.59:825][  0]LightingResults: New page: 光照构建
+[2022.08.02-03.26.59:826][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.08.02-03.26.59:826][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-03.26.59:826][  0]MapCheck: New page: 地图检测
+[2022.08.02-03.26.59:826][  0]LightingResults: New page: 光照构建
+[2022.08.02-03.26.59:830][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.08.02-03.27.00:615][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Map_Level1'.
+[2022.08.02-03.27.00:615][  0]LogAIModule: Creating AISystem for world Map_Level1
+[2022.08.02-03.27.00:635][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.08.02-03.27.00:641][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.08.02-03.27.00:641][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.08.02-03.27.00:641][  0]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.054毫秒。
+[2022.08.02-03.27.00:642][  0]LogFileHelpers: Loading map 'Map_Level1' took 0.820
+[2022.08.02-03.27.00:643][  0]LogUnrealEdMisc: Total Editor Startup Time, took 5.212
+[2022.08.02-03.27.00:746][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0060 seconds. Added 3601 classes and 859 folders.
+[2022.08.02-03.27.00:750][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.08.02-03.27.00:761][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.08.02-03.27.00:761][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.02-03.27.00:761][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.08.02-03.27.00:761][  0]LogPakFile: OnPakFileMounted2Time == 0.000006
+[2022.08.02-03.27.00:767][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.08.02-03.27.00:767][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.02-03.27.00:767][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.08.02-03.27.00:767][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2022.08.02-03.27.00:771][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.08.02-03.27.00:771][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.02-03.27.00:771][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.08.02-03.27.00:771][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2022.08.02-03.27.00:774][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.08.02-03.27.00:774][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.02-03.27.00:774][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.08.02-03.27.00:774][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2022.08.02-03.27.00:779][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.08.02-03.27.00:779][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.02-03.27.00:780][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.08.02-03.27.00:780][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2022.08.02-03.27.00:784][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.08.02-03.27.00:784][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.02-03.27.00:784][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.08.02-03.27.00:784][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2022.08.02-03.27.00:788][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.08.02-03.27.00:788][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.02-03.27.00:788][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.08.02-03.27.00:788][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2022.08.02-03.27.00:793][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.08.02-03.27.00:793][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.02-03.27.00:793][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.08.02-03.27.00:793][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2022.08.02-03.27.00:798][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.08.02-03.27.00:798][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.02-03.27.00:798][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.08.02-03.27.00:798][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2022.08.02-03.27.00:802][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.08.02-03.27.00:802][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.02-03.27.00:802][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.08.02-03.27.00:802][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2022.08.02-03.27.00:805][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.08.02-03.27.00:805][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.02-03.27.00:805][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.08.02-03.27.00:805][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2022.08.02-03.27.00:810][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.08.02-03.27.00:810][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.02-03.27.00:810][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.08.02-03.27.00:810][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2022.08.02-03.27.00:813][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.08.02-03.27.00:813][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.02-03.27.00:813][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.08.02-03.27.00:813][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2022.08.02-03.27.00:818][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.08.02-03.27.00:818][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.02-03.27.00:818][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.08.02-03.27.00:818][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2022.08.02-03.27.00:821][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.08.02-03.27.00:821][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.02-03.27.00:821][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.08.02-03.27.00:821][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2022.08.02-03.27.00:826][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.08.02-03.27.00:826][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.02-03.27.00:826][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.08.02-03.27.00:826][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2022.08.02-03.27.00:829][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.08.02-03.27.00:829][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.02-03.27.00:830][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.08.02-03.27.00:830][  0]LogPakFile: OnPakFileMounted2Time == 0.000058
+[2022.08.02-03.27.00:833][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.08.02-03.27.00:833][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.02-03.27.00:833][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.08.02-03.27.00:833][  0]LogPakFile: OnPakFileMounted2Time == 0.000060
+[2022.08.02-03.27.00:837][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.08.02-03.27.00:837][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.02-03.27.00:837][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.08.02-03.27.00:837][  0]LogPakFile: OnPakFileMounted2Time == 0.000064
+[2022.08.02-03.27.00:844][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.08.02-03.27.00:844][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.02-03.27.00:844][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.08.02-03.27.00:844][  0]LogPakFile: OnPakFileMounted2Time == 0.000067
+[2022.08.02-03.27.00:849][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.08.02-03.27.00:849][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.02-03.27.00:849][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.08.02-03.27.00:849][  0]LogPakFile: OnPakFileMounted2Time == 0.000070
+[2022.08.02-03.27.00:853][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.08.02-03.27.00:853][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.02-03.27.00:853][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.08.02-03.27.00:853][  0]LogPakFile: OnPakFileMounted2Time == 0.000073
+[2022.08.02-03.27.00:856][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.08.02-03.27.00:856][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.02-03.27.00:856][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.08.02-03.27.00:856][  0]LogPakFile: OnPakFileMounted2Time == 0.000076
+[2022.08.02-03.27.00:860][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.08.02-03.27.00:860][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.02-03.27.00:860][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.08.02-03.27.00:860][  0]LogPakFile: OnPakFileMounted2Time == 0.000080
+[2022.08.02-03.27.00:864][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.08.02-03.27.00:864][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.02-03.27.00:864][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.08.02-03.27.00:864][  0]LogPakFile: OnPakFileMounted2Time == 0.000082
+[2022.08.02-03.27.00:868][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.08.02-03.27.00:868][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.02-03.27.00:868][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.08.02-03.27.00:868][  0]LogPakFile: OnPakFileMounted2Time == 0.000085
+[2022.08.02-03.27.01:056][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.08.02-03.27.01:056][  0]LogSlate: The tab "Cesium" attempted to spawn but failed for some reason. It will not be displayed but it will still be saved in the layout settings file.
+[2022.08.02-03.27.01:083][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.02-03.27.01:087][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.02-03.27.01:091][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.02-03.27.01:097][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.02-03.27.01:104][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2022.08.02-03.27.01:213][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WorldBrowser' in 0.0002 seconds. Added 2 classes and 3 folders.
+[2022.08.02-03.27.01:239][  0]LogSlate: Took 0.000162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.08.02-03.27.01:240][  0]LogSlate: Took 0.001075 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.08.02-03.27.01:245][  0]LogSlate: Took 0.004169 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.08.02-03.27.01:246][  0]LogSlate: Took 0.000135 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.08.02-03.27.01:316][  0]LogRenderer: Reallocating scene render targets to support 1444x824 Format 9 NumSamples 1 (Frame:1).
+[2022.08.02-03.27.01:395][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0001 seconds. Added 0 classes and 0 folders.
+[2022.08.02-03.27.01:395][  0]LogLoad: (Engine Initialization) Total time: 5.96 seconds
+[2022.08.02-03.27.01:395][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.08.02-03.27.01:395][  0]LogInit: First time updating LLM stats...
+[2022.08.02-03.27.01:483][  0]LogAssetRegistry: Asset discovery search completed in 3.8032 seconds
+[2022.08.02-03.27.01:484][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2022.08.02-03.27.01:485][  0]LogContentStreaming: Texture pool size now 800 MB
+[2022.08.02-03.27.03:962][287]LogEditorViewport: Clicking on Actor (LMB): BP_Level_C (BP_Level)
+[2022.08.02-03.27.04:732][373]LogSlate: Took 0.003357 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.08.02-03.27.13:553][409]LogSlate: Took 0.003275 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.08.02-03.27.13:566][409]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Top/GamePlay/PC_Main.PC_Main
+[2022.08.02-03.27.13:914][409]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 126 classes and 0 folders.
+[2022.08.02-03.27.14:514][409]LogSlate: Took 0.000157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.08.02-03.27.17:812][792]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Top/GamePlay/GM_Main.GM_Main
+[2022.08.02-03.27.46:558][186]LogSlate: Window 'GM_Main' being destroyed
+[2022.08.02-03.27.46:567][186]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.08.02-03.27.46:567][186]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-03.27.49:678][548]LogRenderer: Reallocating scene render targets to support 2168x1236 Format 9 NumSamples 1 (Frame:1360).
+[2022.08.02-03.31.33:202][ 87]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:214][ 88]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:275][ 89]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:285][ 90]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:293][ 91]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:301][ 92]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:310][ 93]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:318][ 94]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:326][ 95]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:335][ 96]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:346][ 97]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:353][ 98]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:360][ 99]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:370][100]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:385][101]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:390][102]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:400][103]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:408][104]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:417][105]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:425][106]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:433][107]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:442][108]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:450][109]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:458][110]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:465][111]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:475][112]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:483][113]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:492][114]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:499][115]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:508][116]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:516][117]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:524][118]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:532][119]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:541][120]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:549][121]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:558][122]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:565][123]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:574][124]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:582][125]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:591][126]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:599][127]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:608][128]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:616][129]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:623][130]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:632][131]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:641][132]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:649][133]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:658][134]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:665][135]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:674][136]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:682][137]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:691][138]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:699][139]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:707][140]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:715][141]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:724][142]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:732][143]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:742][144]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:749][145]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:768][146]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:777][147]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:786][148]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:793][149]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:803][150]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:810][151]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:818][152]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:827][153]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:834][154]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:842][155]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:851][156]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:860][157]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:869][158]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:876][159]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:884][160]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:893][161]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:900][162]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:910][163]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:918][164]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:927][165]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:934][166]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:943][167]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:951][168]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:959][169]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:969][170]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:976][171]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:984][172]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.33:993][173]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:001][174]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:010][175]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:018][176]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:026][177]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:035][178]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:042][179]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:051][180]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:060][181]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:068][182]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:080][183]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:088][184]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:101][185]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:106][186]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:115][187]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:123][188]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:132][189]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:141][190]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:148][191]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:157][192]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:165][193]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:173][194]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:181][195]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:190][196]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:198][197]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:206][198]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:214][199]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:223][200]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:231][201]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:239][202]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:249][203]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:257][204]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:265][205]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:273][206]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:281][207]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:290][208]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:298][209]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:306][210]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:315][211]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:330][212]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:338][213]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:345][214]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:354][215]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:361][216]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:370][217]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:379][218]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:386][219]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:395][220]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:403][221]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:411][222]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:432][223]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:440][224]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:455][225]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:462][226]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:470][227]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:478][228]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:486][229]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:494][230]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:502][231]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:513][232]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:519][233]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:527][234]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:536][235]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:545][236]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:553][237]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:562][238]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:570][239]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:578][240]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:587][241]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:595][242]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:604][243]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:612][244]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:620][245]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:631][246]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:637][247]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:645][248]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:653][249]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:662][250]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:670][251]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:678][252]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:686][253]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:694][254]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:703][255]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:718][256]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:733][257]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:738][258]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:748][259]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:755][260]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:764][261]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:772][262]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:780][263]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:788][264]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:797][265]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:805][266]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:813][267]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:824][268]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:832][269]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:840][270]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:848][271]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:855][272]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:864][273]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:872][274]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:882][275]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:889][276]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:897][277]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:905][278]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:914][279]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:922][280]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:930][281]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:939][282]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:947][283]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:955][284]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:964][285]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.34:971][286]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:095][419]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:102][420]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:109][421]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:118][422]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:125][423]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:133][424]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:141][425]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:150][426]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:158][427]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:167][428]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:175][429]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:183][430]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:192][431]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:200][432]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:208][433]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:216][434]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:225][435]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:233][436]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:242][437]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:251][438]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:259][439]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:268][440]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:275][441]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:284][442]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:292][443]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:301][444]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:309][445]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:318][446]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:326][447]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:334][448]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:343][449]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:351][450]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:359][451]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:367][452]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:375][453]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:383][454]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:392][455]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:401][456]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:409][457]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:417][458]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:425][459]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:434][460]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:442][461]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:451][462]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:459][463]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:468][464]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:475][465]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:483][466]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:493][467]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:502][468]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:508][469]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:516][470]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:525][471]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:533][472]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:541][473]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:550][474]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:559][475]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:567][476]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:575][477]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:583][478]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:592][479]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:600][480]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:608][481]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:618][482]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:625][483]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:633][484]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:641][485]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:650][486]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:658][487]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:666][488]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:675][489]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:683][490]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:692][491]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:700][492]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:708][493]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:717][494]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:727][495]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:733][496]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:742][497]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:750][498]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:759][499]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:767][500]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:775][501]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:783][502]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:792][503]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:800][504]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:809][505]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:817][506]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:825][507]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:833][508]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:842][509]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:851][510]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:859][511]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:867][512]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:875][513]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:884][514]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:891][515]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:900][516]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:908][517]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:917][518]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:925][519]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:933][520]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:942][521]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:950][522]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:959][523]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:967][524]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:975][525]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:983][526]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.36:992][527]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:000][528]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:008][529]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:017][530]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:025][531]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:033][532]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:041][533]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:050][534]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:058][535]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:067][536]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:075][537]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:084][538]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:094][539]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:100][540]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:109][541]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:117][542]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:125][543]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:136][544]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:142][545]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:150][546]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:159][547]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:166][548]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:174][549]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:183][550]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:192][551]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:201][552]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:209][553]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:216][554]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:224][555]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:233][556]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:242][557]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:250][558]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:259][559]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:268][560]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:275][561]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:284][562]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:292][563]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:302][564]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:309][565]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:317][566]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:325][567]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:333][568]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:342][569]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:351][570]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:359][571]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:367][572]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:375][573]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:383][574]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:391][575]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:400][576]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:409][577]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:416][578]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:424][579]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:433][580]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:442][581]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:450][582]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:459][583]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:467][584]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:475][585]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:483][586]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:492][587]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:500][588]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:509][589]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:518][590]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:525][591]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:534][592]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:541][593]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:551][594]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:559][595]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:566][596]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:574][597]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:583][598]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:592][599]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:600][600]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:609][601]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:617][602]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:625][603]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:633][604]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:642][605]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:650][606]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:659][607]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:667][608]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:676][609]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:683][610]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:692][611]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:700][612]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:710][613]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:718][614]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:725][615]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:733][616]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:741][617]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:750][618]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:758][619]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:768][620]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:775][621]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:783][622]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:792][623]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:803][624]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:809][625]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:819][626]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:826][627]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:834][628]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:842][629]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:851][630]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:859][631]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:870][632]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:876][633]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:884][634]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:894][635]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:902][636]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:910][637]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:918][638]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:927][639]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:934][640]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:944][641]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:951][642]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:960][643]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:969][644]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:977][645]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:984][646]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.37:993][647]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:001][648]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:009][649]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:017][650]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:026][651]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:034][652]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:043][653]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:051][654]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:059][655]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:068][656]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:076][657]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:084][658]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:092][659]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:101][660]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:109][661]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:117][662]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:125][663]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:134][664]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:142][665]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:150][666]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:160][667]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:168][668]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:176][669]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:184][670]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:192][671]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:201][672]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:209][673]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:217][674]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:226][675]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:235][676]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:242][677]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:251][678]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:259][679]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:268][680]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:276][681]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:284][682]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:292][683]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:301][684]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:309][685]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:318][686]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:326][687]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:335][688]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:342][689]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:351][690]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:359][691]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:367][692]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:375][693]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:383][694]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:392][695]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:401][696]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:411][697]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:418][698]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:426][699]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:434][700]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:442][701]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:451][702]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:459][703]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:467][704]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:476][705]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:484][706]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:492][707]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:500][708]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:509][709]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:518][710]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:525][711]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:534][712]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:542][713]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:551][714]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:559][715]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:568][716]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:575][717]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:585][718]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:592][719]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:601][720]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:609][721]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:618][722]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:625][723]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:634][724]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:642][725]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:651][726]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:659][727]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:667][728]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:676][729]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:684][730]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:693][731]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:700][732]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:709][733]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:717][734]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:725][735]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:734][736]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:742][737]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:751][738]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:759][739]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:768][740]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:776][741]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:784][742]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:792][743]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:800][744]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:809][745]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:817][746]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:825][747]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:833][748]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:843][749]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:851][750]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:859][751]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:868][752]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:875][753]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:884][754]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:892][755]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:901][756]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:909][757]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:917][758]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:927][759]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:934][760]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:942][761]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:951][762]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:959][763]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:967][764]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:976][765]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:984][766]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.38:992][767]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.39:001][768]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.39:009][769]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.39:017][770]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.39:025][771]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.39:034][772]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.39:042][773]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.39:051][774]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.39:060][775]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.39:068][776]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.39:075][777]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.39:084][778]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.39:092][779]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.39:101][780]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.39:109][781]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.39:117][782]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.39:126][783]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.39:134][784]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.39:143][785]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.39:150][786]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.39:159][787]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.39:167][788]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.39:175][789]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.39:184][790]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.39:192][791]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.39:201][792]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.39:209][793]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.39:218][794]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.39:226][795]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.39:234][796]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.39:242][797]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.39:251][798]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.39:259][799]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.39:267][800]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.39:275][801]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.39:284][802]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.39:292][803]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.39:301][804]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.39:309][805]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.39:318][806]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.39:325][807]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.39:334][808]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.39:342][809]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.39:351][810]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.39:359][811]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.39:367][812]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.39:376][813]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.39:384][814]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.39:392][815]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.39:400][816]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.39:408][817]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.39:417][818]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.39:425][819]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:027][610]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:036][611]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:044][612]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:052][613]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:060][614]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:069][615]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:078][616]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:085][617]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:094][618]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:102][619]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:110][620]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:119][621]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:127][622]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:136][623]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:144][624]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:153][625]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:160][626]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:169][627]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:177][628]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:185][629]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:194][630]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:203][631]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:211][632]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:220][633]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:227][634]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:235][635]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:244][636]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:252][637]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:261][638]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:269][639]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:278][640]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:288][641]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:294][642]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:302][643]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:310][644]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:319][645]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:328][646]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:335][647]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:344][648]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:352][649]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:361][650]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:369][651]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:377][652]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:385][653]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:394][654]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:403][655]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:410][656]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:419][657]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:427][658]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:436][659]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:443][660]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:452][661]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:461][662]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:469][663]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:477][664]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:485][665]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:494][666]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:502][667]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:511][668]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:519][669]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:528][670]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:535][671]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:547][672]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:552][673]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:561][674]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:569][675]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:578][676]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:584][677]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:594][678]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:602][679]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:611][680]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:619][681]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:627][682]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:636][683]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:644][684]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:652][685]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:661][686]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:671][687]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:678][688]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:685][689]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:693][690]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:702][691]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:710][692]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:719][693]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:728][694]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:735][695]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:744][696]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:752][697]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:761][698]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:769][699]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:777][700]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:785][701]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:794][702]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:802][703]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:811][704]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:818][705]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:828][706]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:835][707]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:843][708]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:852][709]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:861][710]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:869][711]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:877][712]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:885][713]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:894][714]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:902][715]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:910][716]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:919][717]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:927][718]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:936][719]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:944][720]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:953][721]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:960][722]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:969][723]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:977][724]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:985][725]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.46:994][726]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:002][727]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:011][728]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:019][729]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:028][730]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:035][731]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:044][732]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:052][733]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:060][734]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:069][735]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:079][736]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:085][737]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:093][738]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:102][739]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:110][740]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:119][741]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:127][742]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:136][743]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:144][744]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:153][745]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:161][746]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:170][747]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:177][748]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:187][749]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:194][750]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:202][751]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:211][752]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:219][753]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:227][754]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:235][755]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:245][756]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:253][757]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:261][758]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:269][759]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:277][760]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:285][761]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:294][762]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:302][763]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:311][764]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:319][765]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:327][766]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:335][767]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:344][768]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:352][769]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:361][770]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:369][771]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:377][772]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:386][773]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:394][774]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:403][775]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:411][776]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:419][777]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:435][778]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:441][779]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:450][780]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:457][781]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:469][782]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:475][783]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:486][784]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:495][785]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:501][786]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:510][787]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:520][788]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:527][789]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:535][790]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:542][791]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:552][792]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:561][793]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:568][794]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:578][795]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:584][796]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:595][797]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:602][798]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:609][799]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:617][800]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:625][801]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:635][802]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:642][803]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:653][804]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:661][805]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:668][806]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:678][807]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:685][808]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:693][809]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:703][810]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:720][811]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:725][812]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:734][813]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:742][814]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:751][815]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:760][816]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:767][817]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:776][818]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:784][819]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:792][820]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:800][821]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:808][822]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:817][823]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:825][824]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:833][825]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:842][826]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:851][827]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:858][828]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:867][829]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:875][830]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:882][831]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:892][832]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:900][833]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:908][834]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:916][835]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:925][836]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:933][837]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:941][838]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:949][839]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:957][840]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:966][841]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:974][842]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:984][843]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.47:992][844]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.48:000][845]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.48:008][846]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.48:017][847]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.48:025][848]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.48:033][849]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.48:042][850]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.48:051][851]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.48:058][852]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.48:067][853]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.48:075][854]LogSlate: Only pngs are supported in Slate
+[2022.08.02-03.31.48:075][855]Cmd: CLOSE_SLATE_MAINFRAME
+[2022.08.02-03.31.48:092][855]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2022.08.02-03.31.48:102][855]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.08.02-03.31.48:102][855]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.08.02-03.31.48:102][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.02-03.31.48:146][855]LogSlate: Window '打开项目' being destroyed
+[2022.08.02-03.31.48:152][855]LogSlate: Window 'TopTwo - 虚幻编辑器' being destroyed
+[2022.08.02-03.31.48:410][856]Cmd: QUIT_EDITOR
+[2022.08.02-03.31.48:410][856]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.08.02-03.31.48:415][856]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.08.02-03.31.48:416][856]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.08.02-03.31.48:417][856]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.08.02-03.31.48:417][856]LogAudio: Display: Audio Device unregistered from world 'Map_Level1'.
+[2022.08.02-03.31.48:417][856]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.02-03.31.48:418][856]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.02-03.31.48:430][856]LogAudio: Display: Audio Device Manager Shutdown
+[2022.08.02-03.31.48:435][856]LogWindowsTextInputMethodSystem: Display: IME system activated using TSF (中文(简体) - 百度输入法).
+[2022.08.02-03.31.48:437][856]LogExit: Preparing to exit.
+[2022.08.02-03.31.48:945][856]LogDeviceProfile: Device profile begin destroy: [0000020839FDF600] Windows
+[2022.08.02-03.31.48:945][856]LogDeviceProfile: Device profile begin destroy: [0000020839FDF500] Default__DeviceProfile
+[2022.08.02-03.31.48:945][856]LogDeviceProfile: Device profile begin destroy: [0000020839FD8B00] WindowsNoEditor
+[2022.08.02-03.31.48:945][856]LogDeviceProfile: Device profile begin destroy: [0000020839FDCB00] WindowsServer
+[2022.08.02-03.31.48:945][856]LogDeviceProfile: Device profile begin destroy: [0000020839FDB300] WindowsClient
+[2022.08.02-03.31.48:945][856]LogDeviceProfile: Device profile begin destroy: [0000020839FDF200] IOS
+[2022.08.02-03.31.48:945][856]LogDeviceProfile: Device profile begin destroy: [0000020839FD8F00] iPadAir
+[2022.08.02-03.31.48:945][856]LogDeviceProfile: Device profile begin destroy: [0000020839FDCE00] iPadAir2
+[2022.08.02-03.31.48:945][856]LogDeviceProfile: Device profile begin destroy: [0000020839F90F00] IPadPro
+[2022.08.02-03.31.48:945][856]LogDeviceProfile: Device profile begin destroy: [0000020839F91000] iPadAir3
+[2022.08.02-03.31.48:945][856]LogDeviceProfile: Device profile begin destroy: [0000020839FDF000] iPadAir4
+[2022.08.02-03.31.48:945][856]LogDeviceProfile: Device profile begin destroy: [0000020839F93E00] iPadMini2
+[2022.08.02-03.31.48:945][856]LogDeviceProfile: Device profile begin destroy: [0000020839FDC900] iPadMini3
+[2022.08.02-03.31.48:945][856]LogDeviceProfile: Device profile begin destroy: [0000020839F92200] iPadMini4
+[2022.08.02-03.31.48:945][856]LogDeviceProfile: Device profile begin destroy: [0000020839FDD100] iPadMini5
+[2022.08.02-03.31.48:945][856]LogDeviceProfile: Device profile begin destroy: [0000020839FDA600] iPhone6
+[2022.08.02-03.31.48:945][856]LogDeviceProfile: Device profile begin destroy: [0000020839FDA500] iPodTouch6
+[2022.08.02-03.31.48:945][856]LogDeviceProfile: Device profile begin destroy: [0000020839F93500] iPhone7
+[2022.08.02-03.31.48:945][856]LogDeviceProfile: Device profile begin destroy: [0000020839F93400] iPodTouch7
+[2022.08.02-03.31.48:945][856]LogDeviceProfile: Device profile begin destroy: [0000020839FDBD00] iPhone5S
+[2022.08.02-03.31.48:945][856]LogDeviceProfile: Device profile begin destroy: [0000020839F90B00] iPhone6Plus
+[2022.08.02-03.31.48:945][856]LogDeviceProfile: Device profile begin destroy: [0000020839FD9600] iPhone6S
+[2022.08.02-03.31.48:945][856]LogDeviceProfile: Device profile begin destroy: [0000020839F92400] iPhone6SPlus
+[2022.08.02-03.31.48:945][856]LogDeviceProfile: Device profile begin destroy: [0000020839FDB500] iPhone7Plus
+[2022.08.02-03.31.48:945][856]LogDeviceProfile: Device profile begin destroy: [0000020839F93F00] iPhoneSE
+[2022.08.02-03.31.48:945][856]LogDeviceProfile: Device profile begin destroy: [0000020839FDB800] iPhone8
+[2022.08.02-03.31.48:945][856]LogDeviceProfile: Device profile begin destroy: [0000020839F90500] iPhone8Plus
+[2022.08.02-03.31.48:945][856]LogDeviceProfile: Device profile begin destroy: [0000020839FDA000] iPhoneX
+[2022.08.02-03.31.48:945][856]LogDeviceProfile: Device profile begin destroy: [0000020839F92100] iPhoneXS
+[2022.08.02-03.31.48:945][856]LogDeviceProfile: Device profile begin destroy: [0000020839FD9000] iPhoneXSMax
+[2022.08.02-03.31.48:945][856]LogDeviceProfile: Device profile begin destroy: [0000020839F91400] iPhoneXR
+[2022.08.02-03.31.48:945][856]LogDeviceProfile: Device profile begin destroy: [0000020839FD8C00] iPhone11
+[2022.08.02-03.31.48:945][856]LogDeviceProfile: Device profile begin destroy: [0000020839F91C00] iPhone11Pro
+[2022.08.02-03.31.48:946][856]LogDeviceProfile: Device profile begin destroy: [0000020839FD8700] iPhone11ProMax
+[2022.08.02-03.31.48:946][856]LogDeviceProfile: Device profile begin destroy: [0000020839F91600] iPhoneSE2
+[2022.08.02-03.31.48:946][856]LogDeviceProfile: Device profile begin destroy: [0000020839FD8300] iPhone12Mini
+[2022.08.02-03.31.48:946][856]LogDeviceProfile: Device profile begin destroy: [0000020839F91900] iPhone12
+[2022.08.02-03.31.48:946][856]LogDeviceProfile: Device profile begin destroy: [0000020839FD8600] iPhone12Pro
+[2022.08.02-03.31.48:946][856]LogDeviceProfile: Device profile begin destroy: [0000020839F91D00] iPhone12ProMax
+[2022.08.02-03.31.48:946][856]LogDeviceProfile: Device profile begin destroy: [0000020839FD8A00] iPadPro105
+[2022.08.02-03.31.48:946][856]LogDeviceProfile: Device profile begin destroy: [0000020839F92300] iPadPro129
+[2022.08.02-03.31.48:946][856]LogDeviceProfile: Device profile begin destroy: [0000020839FDB600] iPadPro97
+[2022.08.02-03.31.48:946][856]LogDeviceProfile: Device profile begin destroy: [0000020839F91700] iPadPro2_129
+[2022.08.02-03.31.48:946][856]LogDeviceProfile: Device profile begin destroy: [0000020839FD9700] iPad5
+[2022.08.02-03.31.48:946][856]LogDeviceProfile: Device profile begin destroy: [0000020839F92800] iPad6
+[2022.08.02-03.31.48:946][856]LogDeviceProfile: Device profile begin destroy: [0000020839FDAA00] iPad7
+[2022.08.02-03.31.48:946][856]LogDeviceProfile: Device profile begin destroy: [0000020839F93A00] iPad8
+[2022.08.02-03.31.48:946][856]LogDeviceProfile: Device profile begin destroy: [0000020839FD9E00] iPadPro11
+[2022.08.02-03.31.48:946][856]LogDeviceProfile: Device profile begin destroy: [0000020839F92B00] iPadPro2_11
+[2022.08.02-03.31.48:946][856]LogDeviceProfile: Device profile begin destroy: [0000020839FD9800] iPadPro3_129
+[2022.08.02-03.31.48:946][856]LogDeviceProfile: Device profile begin destroy: [0000020839F91A00] iPadPro4_129
+[2022.08.02-03.31.48:946][856]LogDeviceProfile: Device profile begin destroy: [0000020839FDBB00] AppleTV
+[2022.08.02-03.31.48:946][856]LogDeviceProfile: Device profile begin destroy: [0000020839F90400] AppleTV4K
+[2022.08.02-03.31.48:946][856]LogDeviceProfile: Device profile begin destroy: [0000020839FDAF00] TVOS
+[2022.08.02-03.31.48:946][856]LogDeviceProfile: Device profile begin destroy: [0000020839F91100] Mac
+[2022.08.02-03.31.48:946][856]LogDeviceProfile: Device profile begin destroy: [0000020839FD9900] MacClient
+[2022.08.02-03.31.48:946][856]LogDeviceProfile: Device profile begin destroy: [0000020839F90600] MacNoEditor
+[2022.08.02-03.31.48:946][856]LogDeviceProfile: Device profile begin destroy: [0000020839FDA100] MacServer
+[2022.08.02-03.31.48:946][856]LogDeviceProfile: Device profile begin destroy: [0000020839F92700] Linux
+[2022.08.02-03.31.48:946][856]LogDeviceProfile: Device profile begin destroy: [0000020839FDD500] LinuxAArch64
+[2022.08.02-03.31.48:946][856]LogDeviceProfile: Device profile begin destroy: [000002083A05C800] LinuxNoEditor
+[2022.08.02-03.31.48:946][856]LogDeviceProfile: Device profile begin destroy: [0000020839FDF400] LinuxAArch64NoEditor
+[2022.08.02-03.31.48:946][856]LogDeviceProfile: Device profile begin destroy: [000002083A05D100] LinuxClient
+[2022.08.02-03.31.48:946][856]LogDeviceProfile: Device profile begin destroy: [0000020839FDE700] LinuxAArch64Client
+[2022.08.02-03.31.48:946][856]LogDeviceProfile: Device profile begin destroy: [000002083A05C400] LinuxServer
+[2022.08.02-03.31.48:946][856]LogDeviceProfile: Device profile begin destroy: [0000020839FDDD00] LinuxAArch64Server
+[2022.08.02-03.31.48:946][856]LogDeviceProfile: Device profile begin destroy: [000002083A05D700] Android
+[2022.08.02-03.31.48:946][856]LogDeviceProfile: Device profile begin destroy: [0000020839FDEC00] Android_Low
+[2022.08.02-03.31.48:946][856]LogDeviceProfile: Device profile begin destroy: [000002083A05CA00] Android_Mid
+[2022.08.02-03.31.48:946][856]LogDeviceProfile: Device profile begin destroy: [0000020839FDE400] Android_High
+[2022.08.02-03.31.48:946][856]LogDeviceProfile: Device profile begin destroy: [000002083A05CB00] Android_Default
+[2022.08.02-03.31.48:946][856]LogDeviceProfile: Device profile begin destroy: [0000020839FDE800] Android_Adreno4xx
+[2022.08.02-03.31.48:946][856]LogDeviceProfile: Device profile begin destroy: [0000020839F91F00] Android_Adreno5xx_Low
+[2022.08.02-03.31.48:946][856]LogDeviceProfile: Device profile begin destroy: [0000020839FDCA00] Android_Adreno5xx
+[2022.08.02-03.31.48:946][856]LogDeviceProfile: Device profile begin destroy: [0000020839F93700] Android_Adreno6xx
+[2022.08.02-03.31.48:946][856]LogDeviceProfile: Device profile begin destroy: [0000020839FDCD00] Android_Adreno6xx_Vulkan
+[2022.08.02-03.31.48:946][856]LogDeviceProfile: Device profile begin destroy: [0000020839F90A00] Android_Mali_T6xx
+[2022.08.02-03.31.48:946][856]LogDeviceProfile: Device profile begin destroy: [0000020839FDEA00] Android_Mali_T7xx
+[2022.08.02-03.31.48:946][856]LogDeviceProfile: Device profile begin destroy: [0000020839F92E00] Android_Mali_T8xx
+[2022.08.02-03.31.48:946][856]LogDeviceProfile: Device profile begin destroy: [0000020839FDF900] Android_Mali_G71
+[2022.08.02-03.31.48:946][856]LogDeviceProfile: Device profile begin destroy: [0000020839F92C00] Android_Mali_G72
+[2022.08.02-03.31.48:947][856]LogDeviceProfile: Device profile begin destroy: [0000020839FDE000] Android_Mali_G72_Vulkan
+[2022.08.02-03.31.48:947][856]LogDeviceProfile: Device profile begin destroy: [0000020839F93300] Android_Mali_G76
+[2022.08.02-03.31.48:947][856]LogDeviceProfile: Device profile begin destroy: [0000020839FDC800] Android_Mali_G76_Vulkan
+[2022.08.02-03.31.48:947][856]LogDeviceProfile: Device profile begin destroy: [0000020839F93100] Android_Mali_G77
+[2022.08.02-03.31.48:947][856]LogDeviceProfile: Device profile begin destroy: [0000020839FDFE00] Android_Mali_G77_Vulkan
+[2022.08.02-03.31.48:947][856]LogDeviceProfile: Device profile begin destroy: [0000020839F91B00] Android_Vulkan_SM5
+[2022.08.02-03.31.48:947][856]LogDeviceProfile: Device profile begin destroy: [0000020839FDED00] Android_PowerVR_G6xxx
+[2022.08.02-03.31.48:947][856]LogDeviceProfile: Device profile begin destroy: [0000020839F90700] Android_PowerVR_GT7xxx
+[2022.08.02-03.31.48:947][856]LogDeviceProfile: Device profile begin destroy: [0000020839FDC200] Android_PowerVR_GE8xxx
+[2022.08.02-03.31.48:947][856]LogDeviceProfile: Device profile begin destroy: [0000020839F90900] Android_PowerVR_GM9xxx
+[2022.08.02-03.31.48:947][856]LogDeviceProfile: Device profile begin destroy: [0000020839FDDE00] Android_PowerVR_GM9xxx_Vulkan
+[2022.08.02-03.31.48:947][856]LogDeviceProfile: Device profile begin destroy: [0000020839F92D00] Android_TegraK1
+[2022.08.02-03.31.48:947][856]LogDeviceProfile: Device profile begin destroy: [0000020839FDE900] Android_Unknown_Vulkan
+[2022.08.02-03.31.48:947][856]LogDeviceProfile: Device profile begin destroy: [0000020839F91500] Lumin
+[2022.08.02-03.31.48:947][856]LogDeviceProfile: Device profile begin destroy: [0000020839FDD400] Lumin_Desktop
+[2022.08.02-03.31.48:947][856]LogDeviceProfile: Device profile begin destroy: [0000020839F92A00] HoloLens
+[2022.08.02-03.31.48:949][856]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.08.02-03.31.48:951][856]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.08.02-03.31.48:952][856]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.08.02-03.31.48:954][856]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.08.02-03.31.48:955][856]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.08.02-03.31.48:982][856]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.08.02-03.31.48:984][856]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.08.02-03.31.48:984][856]LogExit: Editor shut down
+[2022.08.02-03.31.48:984][856]LogExit: Transaction tracking system shut down
+[2022.08.02-03.31.49:126][856]LogExit: Object subsystem successfully closed.
+[2022.08.02-03.31.49:154][856]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.08.02-03.31.49:162][856]LogModuleManager: Shutting down and abandoning module BlueprintGraph (832)
+[2022.08.02-03.31.49:162][856]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (830)
+[2022.08.02-03.31.49:162][856]LogModuleManager: Shutting down and abandoning module SceneOutliner (826)
+[2022.08.02-03.31.49:162][856]LogModuleManager: Shutting down and abandoning module AddContentDialog (824)
+[2022.08.02-03.31.49:162][856]LogModuleManager: Shutting down and abandoning module WidgetCarousel (823)
+[2022.08.02-03.31.49:162][856]LogModuleManager: Shutting down and abandoning module EditorWidgets (820)
+[2022.08.02-03.31.49:162][856]LogModuleManager: Shutting down and abandoning module StatsViewer (818)
+[2022.08.02-03.31.49:162][856]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (816)
+[2022.08.02-03.31.49:162][856]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (814)
+[2022.08.02-03.31.49:162][856]LogModuleManager: Shutting down and abandoning module AutomationWorker (812)
+[2022.08.02-03.31.49:162][856]LogModuleManager: Shutting down and abandoning module SteamVREditor (810)
+[2022.08.02-03.31.49:162][856]LogModuleManager: Shutting down and abandoning module OculusMR (808)
+[2022.08.02-03.31.49:162][856]LogModuleManager: Shutting down and abandoning module GooglePADEditor (806)
+[2022.08.02-03.31.49:162][856]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (804)
+[2022.08.02-03.31.49:162][856]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (802)
+[2022.08.02-03.31.49:162][856]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (800)
+[2022.08.02-03.31.49:162][856]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (798)
+[2022.08.02-03.31.49:162][856]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (796)
+[2022.08.02-03.31.49:162][856]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (794)
+[2022.08.02-03.31.49:162][856]LogModuleManager: Shutting down and abandoning module WebMMedia (792)
+[2022.08.02-03.31.49:162][856]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (790)
+[2022.08.02-03.31.49:162][856]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (788)
+[2022.08.02-03.31.49:162][856]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (786)
+[2022.08.02-03.31.49:163][856]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (784)
+[2022.08.02-03.31.49:163][856]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (782)
+[2022.08.02-03.31.49:163][856]LogModuleManager: Shutting down and abandoning module SequenceRecorder (781)
+[2022.08.02-03.31.49:163][856]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (778)
+[2022.08.02-03.31.49:163][856]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (776)
+[2022.08.02-03.31.49:163][856]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (774)
+[2022.08.02-03.31.49:163][856]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (772)
+[2022.08.02-03.31.49:163][856]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (770)
+[2022.08.02-03.31.49:163][856]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (768)
+[2022.08.02-03.31.49:163][856]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (766)
+[2022.08.02-03.31.49:163][856]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (764)
+[2022.08.02-03.31.49:163][856]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (762)
+[2022.08.02-03.31.49:163][856]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (760)
+[2022.08.02-03.31.49:163][856]LogModuleManager: Shutting down and abandoning module PlanarCut (758)
+[2022.08.02-03.31.49:163][856]LogModuleManager: Shutting down and abandoning module TextureAlignMode (756)
+[2022.08.02-03.31.49:163][856]LogModuleManager: Shutting down and abandoning module BspMode (754)
+[2022.08.02-03.31.49:163][856]LogModuleManager: Shutting down and abandoning module GeometryMode (752)
+[2022.08.02-03.31.49:163][856]LogModuleManager: Shutting down and abandoning module CharacterAI (750)
+[2022.08.02-03.31.49:163][856]LogModuleManager: Shutting down and abandoning module RiderShaderInfoDump (748)
+[2022.08.02-03.31.49:163][856]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (746)
+[2022.08.02-03.31.49:163][856]LogModuleManager: Shutting down and abandoning module SmartSnapping (744)
+[2022.08.02-03.31.49:163][856]LogModuleManager: Shutting down and abandoning module SessionServices (742)
+[2022.08.02-03.31.49:163][856]LogModuleManager: Shutting down and abandoning module MeshPaint (740)
+[2022.08.02-03.31.49:163][856]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (738)
+[2022.08.02-03.31.49:163][856]LogModuleManager: Shutting down and abandoning module FoliageEdit (736)
+[2022.08.02-03.31.49:163][856]LogModuleManager: Shutting down and abandoning module LandscapeEditor (734)
+[2022.08.02-03.31.49:163][856]LogModuleManager: Shutting down and abandoning module MeshPaintMode (732)
+[2022.08.02-03.31.49:163][856]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (730)
+[2022.08.02-03.31.49:163][856]LogModuleManager: Shutting down and abandoning module ActorPickerMode (728)
+[2022.08.02-03.31.49:163][856]LogModuleManager: Shutting down and abandoning module PlacementMode (726)
+[2022.08.02-03.31.49:163][856]LogModuleManager: Shutting down and abandoning module ViewportSnapping (724)
+[2022.08.02-03.31.49:163][856]LogModuleManager: Shutting down and abandoning module ViewportInteraction (722)
+[2022.08.02-03.31.49:163][856]LogModuleManager: Shutting down and abandoning module ClothPainter (720)
+[2022.08.02-03.31.49:163][856]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (719)
+[2022.08.02-03.31.49:163][856]LogModuleManager: Shutting down and abandoning module LogVisualizer (716)
+[2022.08.02-03.31.49:163][856]LogModuleManager: Shutting down and abandoning module IntroTutorials (714)
+[2022.08.02-03.31.49:164][856]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (713)
+[2022.08.02-03.31.49:164][856]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (710)
+[2022.08.02-03.31.49:164][856]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (708)
+[2022.08.02-03.31.49:164][856]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (706)
+[2022.08.02-03.31.49:164][856]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (705)
+[2022.08.02-03.31.50:665][856]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (702)
+[2022.08.02-03.31.50:665][856]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (700)
+[2022.08.02-03.31.50:665][856]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (698)
+[2022.08.02-03.31.50:665][856]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (696)
+[2022.08.02-03.31.50:665][856]LogModuleManager: Shutting down and abandoning module TraceInsights (694)
+[2022.08.02-03.31.50:666][856]MemoryProfiler: Shutdown
+[2022.08.02-03.31.50:666][856]NetworkingProfiler: Shutdown
+[2022.08.02-03.31.50:666][856]LoadingProfiler: Shutdown
+[2022.08.02-03.31.50:666][856]TimingProfiler: Shutdown
+[2022.08.02-03.31.50:666][856]LogModuleManager: Shutting down and abandoning module TraceServices (693)
+[2022.08.02-03.31.50:666][856]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (690)
+[2022.08.02-03.31.50:666][856]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (688)
+[2022.08.02-03.31.50:666][856]LogModuleManager: Shutting down and abandoning module InputBindingEditor (686)
+[2022.08.02-03.31.50:666][856]LogModuleManager: Shutting down and abandoning module MergeActors (684)
+[2022.08.02-03.31.50:666][856]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (682)
+[2022.08.02-03.31.50:666][856]LogModuleManager: Shutting down and abandoning module LocalizationService (681)
+[2022.08.02-03.31.50:666][856]LogModuleManager: Shutting down and abandoning module HardwareTargeting (678)
+[2022.08.02-03.31.50:666][856]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (676)
+[2022.08.02-03.31.50:666][856]LogModuleManager: Shutting down and abandoning module UndoHistory (674)
+[2022.08.02-03.31.50:666][856]LogModuleManager: Shutting down and abandoning module XmlParser (672)
+[2022.08.02-03.31.50:666][856]LogModuleManager: Shutting down and abandoning module Blutility (670)
+[2022.08.02-03.31.50:666][856]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (668)
+[2022.08.02-03.31.50:666][856]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (667)
+[2022.08.02-03.31.50:666][856]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (664)
+[2022.08.02-03.31.50:666][856]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (663)
+[2022.08.02-03.31.50:666][856]LogModuleManager: Shutting down and abandoning module SettingsEditor (660)
+[2022.08.02-03.31.50:666][856]LogModuleManager: Shutting down and abandoning module ProjectLauncher (658)
+[2022.08.02-03.31.50:666][856]LogModuleManager: Shutting down and abandoning module SessionFrontend (656)
+[2022.08.02-03.31.50:666][856]LogModuleManager: Shutting down and abandoning module ProfilerClient (654)
+[2022.08.02-03.31.50:666][856]LogModuleManager: Shutting down and abandoning module DeviceManager (652)
+[2022.08.02-03.31.50:666][856]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (651)
+[2022.08.02-03.31.50:698][856]LogModuleManager: Shutting down and abandoning module AutomationController (648)
+[2022.08.02-03.31.50:698][856]LogModuleManager: Shutting down and abandoning module AutomationWindow (646)
+[2022.08.02-03.31.50:698][856]LogModuleManager: Shutting down and abandoning module Layers (644)
+[2022.08.02-03.31.50:698][856]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (642)
+[2022.08.02-03.31.50:698][856]LogModuleManager: Shutting down and abandoning module DetailCustomizations (640)
+[2022.08.02-03.31.50:698][856]LogModuleManager: Shutting down and abandoning module PackagesDialog (638)
+[2022.08.02-03.31.50:698][856]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (636)
+[2022.08.02-03.31.50:698][856]LogModuleManager: Shutting down and abandoning module Persona (634)
+[2022.08.02-03.31.50:698][856]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (633)
+[2022.08.02-03.31.50:698][856]LogModuleManager: Shutting down and abandoning module AnimGraph (631)
+[2022.08.02-03.31.50:698][856]LogModuleManager: Shutting down and abandoning module Kismet (628)
+[2022.08.02-03.31.50:701][856]LogModuleManager: Shutting down and abandoning module KismetWidgets (627)
+[2022.08.02-03.31.50:701][856]LogModuleManager: Shutting down and abandoning module GraphEditor (624)
+[2022.08.02-03.31.50:702][856]LogModuleManager: Shutting down and abandoning module StructViewer (622)
+[2022.08.02-03.31.50:702][856]LogModuleManager: Shutting down and abandoning module ClassViewer (620)
+[2022.08.02-03.31.50:702][856]LogModuleManager: Shutting down and abandoning module Toolbox (618)
+[2022.08.02-03.31.50:702][856]LogModuleManager: Shutting down and abandoning module ModuleUI (616)
+[2022.08.02-03.31.50:702][856]LogModuleManager: Shutting down and abandoning module OutputLog (614)
+[2022.08.02-03.31.50:702][856]LogModuleManager: Shutting down and abandoning module GammaUI (612)
+[2022.08.02-03.31.50:702][856]LogModuleManager: Shutting down and abandoning module Documentation (610)
+[2022.08.02-03.31.50:702][856]LogModuleManager: Shutting down and abandoning module LiveCoding (608)
+[2022.08.02-03.31.50:702][856]LogModuleManager: Shutting down and abandoning module LevelSequence (606)
+[2022.08.02-03.31.50:702][856]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (604)
+[2022.08.02-03.31.50:702][856]LogModuleManager: Shutting down and abandoning module MovieScene (602)
+[2022.08.02-03.31.50:702][856]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (600)
+[2022.08.02-03.31.50:702][856]LogModuleManager: Shutting down and abandoning module LauncherPlatform (598)
+[2022.08.02-03.31.50:702][856]LogModuleManager: Shutting down and abandoning module AnalyticsET (596)
+[2022.08.02-03.31.50:702][856]LogModuleManager: Shutting down and abandoning module PortalServices (594)
+[2022.08.02-03.31.50:702][856]LogModuleManager: Shutting down and abandoning module PortalRpc (592)
+[2022.08.02-03.31.50:702][856]LogModuleManager: Shutting down and abandoning module MessagingRpc (590)
+[2022.08.02-03.31.50:702][856]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (588)
+[2022.08.02-03.31.50:702][856]LogModuleManager: Shutting down and abandoning module AudioMixerCore (587)
+[2022.08.02-03.31.50:702][856]LogModuleManager: Shutting down and abandoning module AIModule (584)
+[2022.08.02-03.31.50:702][856]LogModuleManager: Shutting down and abandoning module GameplayDebugger (583)
+[2022.08.02-03.31.50:702][856]LogModuleManager: Shutting down and abandoning module AITestSuite (581)
+[2022.08.02-03.31.50:702][856]LogModuleManager: Shutting down and abandoning module NavigationSystem (579)
+[2022.08.02-03.31.50:702][856]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (576)
+[2022.08.02-03.31.50:706][856]LogModuleManager: Shutting down and abandoning module ProfilerService (574)
+[2022.08.02-03.31.50:793][856]LogModuleManager: Shutting down and abandoning module TaskGraph (572)
+[2022.08.02-03.31.50:793][856]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (570)
+[2022.08.02-03.31.50:793][856]LogModuleManager: Shutting down and abandoning module OculusEditor (568)
+[2022.08.02-03.31.50:793][856]LogModuleManager: Shutting down and abandoning module OculusInput (566)
+[2022.08.02-03.31.50:793][856]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (564)
+[2022.08.02-03.31.50:793][856]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (562)
+[2022.08.02-03.31.50:793][856]LogModuleManager: Shutting down and abandoning module CollectionManager (561)
+[2022.08.02-03.31.50:793][856]LogModuleManager: Shutting down and abandoning module SynthesisEditor (558)
+[2022.08.02-03.31.50:793][856]LogModuleManager: Shutting down and abandoning module Synthesis (556)
+[2022.08.02-03.31.50:793][856]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (554)
+[2022.08.02-03.31.50:793][856]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (552)
+[2022.08.02-03.31.50:793][856]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (550)
+[2022.08.02-03.31.50:793][856]LogModuleManager: Shutting down and abandoning module GooglePAD (548)
+[2022.08.02-03.31.50:793][856]LogModuleManager: Shutting down and abandoning module EditableMesh (546)
+[2022.08.02-03.31.50:793][856]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (544)
+[2022.08.02-03.31.50:793][856]LogModuleManager: Shutting down and abandoning module CableComponent (542)
+[2022.08.02-03.31.50:793][856]LogModuleManager: Shutting down and abandoning module AudioCapture (540)
+[2022.08.02-03.31.50:793][856]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (539)
+[2022.08.02-03.31.50:793][856]LogModuleManager: Shutting down and abandoning module AssetTags (536)
+[2022.08.02-03.31.50:793][856]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (534)
+[2022.08.02-03.31.50:793][856]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (532)
+[2022.08.02-03.31.50:793][856]LogModuleManager: Shutting down and abandoning module AppleImageUtils (530)
+[2022.08.02-03.31.50:793][856]LogModuleManager: Shutting down and abandoning module AndroidPermission (528)
+[2022.08.02-03.31.50:793][856]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (526)
+[2022.08.02-03.31.50:793][856]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (524)
+[2022.08.02-03.31.50:793][856]LogModuleManager: Shutting down and abandoning module ScreenshotTools (522)
+[2022.08.02-03.31.50:794][856]LogModuleManager: Shutting down and abandoning module TemplateSequence (520)
+[2022.08.02-03.31.50:794][856]LogModuleManager: Shutting down and abandoning module MediaCompositing (518)
+[2022.08.02-03.31.50:794][856]LogModuleManager: Shutting down and abandoning module ImgMedia (516)
+[2022.08.02-03.31.50:794][856]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (514)
+[2022.08.02-03.31.50:794][856]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (512)
+[2022.08.02-03.31.50:794][856]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (510)
+[2022.08.02-03.31.50:794][856]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (508)
+[2022.08.02-03.31.50:794][856]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (506)
+[2022.08.02-03.31.50:794][856]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (504)
+[2022.08.02-03.31.50:794][856]LogModuleManager: Shutting down and abandoning module MotoSynth (502)
+[2022.08.02-03.31.50:794][856]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (500)
+[2022.08.02-03.31.50:794][856]LogModuleManager: Shutting down and abandoning module PluginBrowser (498)
+[2022.08.02-03.31.50:794][856]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (496)
+[2022.08.02-03.31.50:794][856]LogModuleManager: Shutting down and abandoning module MeshConversion (494)
+[2022.08.02-03.31.50:794][856]LogModuleManager: Shutting down and abandoning module DynamicMesh (492)
+[2022.08.02-03.31.50:794][856]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (490)
+[2022.08.02-03.31.50:794][856]LogModuleManager: Shutting down and abandoning module GeometricObjects (488)
+[2022.08.02-03.31.50:794][856]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (486)
+[2022.08.02-03.31.50:794][856]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (485)
+[2022.08.02-03.31.50:794][856]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (482)
+[2022.08.02-03.31.50:794][856]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (480)
+[2022.08.02-03.31.50:794][856]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (478)
+[2022.08.02-03.31.50:794][856]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (476)
+[2022.08.02-03.31.50:794][856]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (474)
+[2022.08.02-03.31.50:794][856]LogModuleManager: Shutting down and abandoning module CurveEditorTools (472)
+[2022.08.02-03.31.50:794][856]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (470)
+[2022.08.02-03.31.50:794][856]LogModuleManager: Shutting down and abandoning module CryptoKeys (468)
+[2022.08.02-03.31.50:794][856]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (466)
+[2022.08.02-03.31.50:794][856]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (464)
+[2022.08.02-03.31.50:794][856]LogModuleManager: Shutting down and abandoning module ChaosNiagara (462)
+[2022.08.02-03.31.50:794][856]LogModuleManager: Shutting down and abandoning module FractureEditor (460)
+[2022.08.02-03.31.50:794][856]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (459)
+[2022.08.02-03.31.50:794][856]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (456)
+[2022.08.02-03.31.50:794][856]LogModuleManager: Shutting down and abandoning module BackChannel (454)
+[2022.08.02-03.31.50:794][856]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (452)
+[2022.08.02-03.31.50:794][856]LogModuleManager: Shutting down and abandoning module AutomationUtils (450)
+[2022.08.02-03.31.50:794][856]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (448)
+[2022.08.02-03.31.50:794][856]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (446)
+[2022.08.02-03.31.50:794][856]LogModuleManager: Shutting down and abandoning module UObjectPlugin (444)
+[2022.08.02-03.31.50:794][856]LogModuleManager: Shutting down and abandoning module AlembicImporter (442)
+[2022.08.02-03.31.50:794][856]LogModuleManager: Shutting down and abandoning module AlembicLibrary (441)
+[2022.08.02-03.31.50:794][856]LogModuleManager: Shutting down and abandoning module GeometryCache (440)
+[2022.08.02-03.31.50:794][856]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (439)
+[2022.08.02-03.31.50:794][856]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (434)
+[2022.08.02-03.31.50:794][856]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (432)
+[2022.08.02-03.31.50:795][856]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (430)
+[2022.08.02-03.31.50:795][856]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (428)
+[2022.08.02-03.31.50:795][856]LogModuleManager: Shutting down and abandoning module RiderGameControl (426)
+[2022.08.02-03.31.50:795][856]LogModuleManager: Shutting down and abandoning module RiderBlueprint (424)
+[2022.08.02-03.31.50:795][856]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (422)
+[2022.08.02-03.31.50:795][856]LogModuleManager: Shutting down and abandoning module PluginUtils (420)
+[2022.08.02-03.31.50:795][856]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (418)
+[2022.08.02-03.31.50:795][856]LogModuleManager: Shutting down and abandoning module GitSourceControl (416)
+[2022.08.02-03.31.50:795][856]LogModuleManager: Shutting down and abandoning module SourceControl (415)
+[2022.08.02-03.31.50:795][856]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (412)
+[2022.08.02-03.31.50:795][856]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (410)
+[2022.08.02-03.31.50:795][856]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (408)
+[2022.08.02-03.31.50:795][856]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (406)
+[2022.08.02-03.31.50:795][856]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (404)
+[2022.08.02-03.31.50:795][856]LogModuleManager: Shutting down and abandoning module Paper2DEditor (402)
+[2022.08.02-03.31.50:795][856]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (400)
+[2022.08.02-03.31.50:795][856]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (398)
+[2022.08.02-03.31.50:795][856]LogModuleManager: Shutting down and abandoning module SoundFields (396)
+[2022.08.02-03.31.50:795][856]LogModuleManager: Shutting down and abandoning module SignificanceManager (394)
+[2022.08.02-03.31.50:795][856]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (392)
+[2022.08.02-03.31.50:795][856]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (390)
+[2022.08.02-03.31.50:795][856]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (388)
+[2022.08.02-03.31.50:795][856]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (384)
+[2022.08.02-03.31.50:795][856]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (382)
+[2022.08.02-03.31.50:795][856]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (380)
+[2022.08.02-03.31.50:795][856]LogModuleManager: Shutting down and abandoning module ActorSequence (378)
+[2022.08.02-03.31.50:795][856]LogModuleManager: Shutting down and abandoning module UdpMessaging (376)
+[2022.08.02-03.31.50:897][856]LogModuleManager: Shutting down and abandoning module TcpMessaging (374)
+[2022.08.02-03.31.50:997][856]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (372)
+[2022.08.02-03.31.50:997][856]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (370)
+[2022.08.02-03.31.50:997][856]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (368)
+[2022.08.02-03.31.50:997][856]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (366)
+[2022.08.02-03.31.50:997][856]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (364)
+[2022.08.02-03.31.50:997][856]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2022.08.02-03.31.50:997][856]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (362)
+[2022.08.02-03.31.50:997][856]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (360)
+[2022.08.02-03.31.50:997][856]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (358)
+[2022.08.02-03.31.50:997][856]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (356)
+[2022.08.02-03.31.50:997][856]LogModuleManager: Shutting down and abandoning module MagicLeapController (354)
+[2022.08.02-03.31.50:997][856]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.08.02-03.31.50:997][856]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (352)
+[2022.08.02-03.31.50:997][856]LogModuleManager: Shutting down and abandoning module MagicLeapAR (350)
+[2022.08.02-03.31.50:997][856]LogModuleManager: Shutting down and abandoning module AugmentedReality (349)
+[2022.08.02-03.31.50:997][856]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (346)
+[2022.08.02-03.31.50:997][856]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (344)
+[2022.08.02-03.31.50:997][856]LogModuleManager: Shutting down and abandoning module FacialAnimation (342)
+[2022.08.02-03.31.50:997][856]LogModuleManager: Shutting down and abandoning module DataValidation (340)
+[2022.08.02-03.31.50:997][856]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (338)
+[2022.08.02-03.31.50:997][856]LogModuleManager: Shutting down and abandoning module LevelEditor (337)
+[2022.08.02-03.31.50:998][856]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (336)
+[2022.08.02-03.31.50:998][856]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (334)
+[2022.08.02-03.31.50:998][856]LogModuleManager: Shutting down and abandoning module MainFrame (332)
+[2022.08.02-03.31.50:998][856]LogModuleManager: Shutting down and abandoning module HotReload (331)
+[2022.08.02-03.31.50:998][856]LogModuleManager: Shutting down and abandoning module ToolMenus (327)
+[2022.08.02-03.31.50:998][856]LogModuleManager: Shutting down and abandoning module ContentBrowser (325)
+[2022.08.02-03.31.50:998][856]LogModuleManager: Shutting down and abandoning module ContentBrowserData (324)
+[2022.08.02-03.31.50:998][856]LogModuleManager: Shutting down and abandoning module TreeMap (321)
+[2022.08.02-03.31.50:998][856]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (318)
+[2022.08.02-03.31.50:998][856]LogModuleManager: Shutting down and abandoning module Niagara (316)
+[2022.08.02-03.31.50:998][856]LogModuleManager: Shutting down and abandoning module SignalProcessing (315)
+[2022.08.02-03.31.50:998][856]LogModuleManager: Shutting down and abandoning module NiagaraEditor (313)
+[2022.08.02-03.31.50:998][856]LogModuleManager: Shutting down and abandoning module NiagaraCore (310)
+[2022.08.02-03.31.50:998][856]LogModuleManager: Shutting down and abandoning module RiderLogging (308)
+[2022.08.02-03.31.50:999][856]LogModuleManager: Shutting down and abandoning module RiderLink (306)
+[2022.08.02-03.31.51:000][856]LogModuleManager: Shutting down and abandoning module RD (304)
+[2022.08.02-03.31.51:000][856]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (302)
+[2022.08.02-03.31.51:000][856]LogModuleManager: Shutting down and abandoning module AnimationSharing (300)
+[2022.08.02-03.31.51:000][856]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (298)
+[2022.08.02-03.31.51:000][856]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (296)
+[2022.08.02-03.31.51:000][856]LogModuleManager: Shutting down and abandoning module Paper2D (294)
+[2022.08.02-03.31.51:000][856]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (292)
+[2022.08.02-03.31.51:001][856]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (290)
+[2022.08.02-03.31.51:001][856]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (288)
+[2022.08.02-03.31.51:001][856]LogModuleManager: Shutting down and abandoning module PacketHandler (286)
+[2022.08.02-03.31.51:001][856]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (284)
+[2022.08.02-03.31.51:001][856]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (282)
+[2022.08.02-03.31.51:001][856]LogModuleManager: Shutting down and abandoning module MediaAssets (280)
+[2022.08.02-03.31.51:001][856]LogModuleManager: Shutting down and abandoning module Overlay (278)
+[2022.08.02-03.31.51:001][856]LogModuleManager: Shutting down and abandoning module OverlayEditor (277)
+[2022.08.02-03.31.51:001][856]LogModuleManager: Shutting down and abandoning module VREditor (274)
+[2022.08.02-03.31.51:002][856]LogModuleManager: Shutting down and abandoning module StringTableEditor (272)
+[2022.08.02-03.31.51:002][856]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (270)
+[2022.08.02-03.31.51:002][856]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (268)
+[2022.08.02-03.31.51:002][856]LogModuleManager: Shutting down and abandoning module FunctionalTesting (266)
+[2022.08.02-03.31.51:002][856]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (264)
+[2022.08.02-03.31.51:002][856]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (263)
+[2022.08.02-03.31.51:002][856]LogModuleManager: Shutting down and abandoning module UMG (260)
+[2022.08.02-03.31.51:002][856]LogModuleManager: Shutting down and abandoning module UMGEditor (259)
+[2022.08.02-03.31.51:002][856]LogModuleManager: Shutting down and abandoning module MessageLog (257)
+[2022.08.02-03.31.51:002][856]LogModuleManager: Shutting down and abandoning module SlateReflector (252)
+[2022.08.02-03.31.51:002][856]LogModuleManager: Shutting down and abandoning module Slate (250)
+[2022.08.02-03.31.51:002][856]LogModuleManager: Shutting down and abandoning module SlateCore (248)
+[2022.08.02-03.31.51:002][856]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (246)
+[2022.08.02-03.31.51:002][856]LogModuleManager: Shutting down and abandoning module UnrealEd (244)
+[2022.08.02-03.31.51:002][856]LogModuleManager: Shutting down and abandoning module MRMesh (242)
+[2022.08.02-03.31.51:002][856]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (240)
+[2022.08.02-03.31.51:002][856]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (238)
+[2022.08.02-03.31.51:002][856]LogModuleManager: Shutting down and abandoning module XAudio2 (236)
+[2022.08.02-03.31.51:002][856]LogModuleManager: Shutting down and abandoning module Networking (234)
+[2022.08.02-03.31.51:002][856]LogModuleManager: Shutting down and abandoning module Core (232)
+[2022.08.02-03.31.51:002][856]LogModuleManager: Shutting down and abandoning module MaterialEditor (230)
+[2022.08.02-03.31.51:003][856]LogModuleManager: Shutting down and abandoning module MovieSceneTools (228)
+[2022.08.02-03.31.51:003][856]LogModuleManager: Shutting down and abandoning module CurveEditor (227)
+[2022.08.02-03.31.51:003][856]LogModuleManager: Shutting down and abandoning module Sequencer (225)
+[2022.08.02-03.31.51:003][856]LogModuleManager: Shutting down and abandoning module EditorStyle (224)
+[2022.08.02-03.31.51:003][856]LogModuleManager: Shutting down and abandoning module KismetCompiler (220)
+[2022.08.02-03.31.51:003][856]LogModuleManager: Shutting down and abandoning module MeshBuilder (218)
+[2022.08.02-03.31.51:003][856]LogModuleManager: Shutting down and abandoning module MeshUtilities (216)
+[2022.08.02-03.31.51:003][856]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (215)
+[2022.08.02-03.31.51:003][856]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (214)
+[2022.08.02-03.31.51:003][856]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (213)
+[2022.08.02-03.31.51:003][856]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (211)
+[2022.08.02-03.31.51:003][856]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (209)
+[2022.08.02-03.31.51:003][856]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (207)
+[2022.08.02-03.31.51:003][856]LogModuleManager: Shutting down and abandoning module MaterialBaking (203)
+[2022.08.02-03.31.51:003][856]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (198)
+[2022.08.02-03.31.51:003][856]LogModuleManager: Shutting down and abandoning module DerivedDataCache (196)
+[2022.08.02-03.31.51:003][856]LogModuleManager: Shutting down and abandoning module TargetPlatform (194)
+[2022.08.02-03.31.51:004][856]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (193)
+[2022.08.02-03.31.51:004][856]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (191)
+[2022.08.02-03.31.51:004][856]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (189)
+[2022.08.02-03.31.51:004][856]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (187)
+[2022.08.02-03.31.51:004][856]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (185)
+[2022.08.02-03.31.51:004][856]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (183)
+[2022.08.02-03.31.51:004][856]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (181)
+[2022.08.02-03.31.51:004][856]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (179)
+[2022.08.02-03.31.51:004][856]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (177)
+[2022.08.02-03.31.51:004][856]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (175)
+[2022.08.02-03.31.51:004][856]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (173)
+[2022.08.02-03.31.51:004][856]LogModuleManager: Shutting down and abandoning module ImageWrapper (172)
+[2022.08.02-03.31.51:004][856]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (169)
+[2022.08.02-03.31.51:004][856]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (167)
+[2022.08.02-03.31.51:004][856]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (165)
+[2022.08.02-03.31.51:004][856]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (163)
+[2022.08.02-03.31.51:004][856]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (161)
+[2022.08.02-03.31.51:004][856]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (159)
+[2022.08.02-03.31.51:004][856]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (157)
+[2022.08.02-03.31.51:004][856]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (155)
+[2022.08.02-03.31.51:004][856]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (153)
+[2022.08.02-03.31.51:004][856]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (151)
+[2022.08.02-03.31.51:004][856]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (149)
+[2022.08.02-03.31.51:004][856]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (147)
+[2022.08.02-03.31.51:004][856]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (145)
+[2022.08.02-03.31.51:005][856]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (143)
+[2022.08.02-03.31.51:005][856]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (141)
+[2022.08.02-03.31.51:005][856]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (139)
+[2022.08.02-03.31.51:005][856]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (137)
+[2022.08.02-03.31.51:005][856]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (135)
+[2022.08.02-03.31.51:005][856]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (133)
+[2022.08.02-03.31.51:005][856]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (131)
+[2022.08.02-03.31.51:005][856]LogModuleManager: Shutting down and abandoning module Messaging (129)
+[2022.08.02-03.31.51:005][856]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (127)
+[2022.08.02-03.31.51:005][856]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (125)
+[2022.08.02-03.31.51:007][856]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (123)
+[2022.08.02-03.31.51:007][856]LogModuleManager: Shutting down and abandoning module InputCore (120)
+[2022.08.02-03.31.51:007][856]LogModuleManager: Shutting down and abandoning module Settings (118)
+[2022.08.02-03.31.51:007][856]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (116)
+[2022.08.02-03.31.51:007][856]LogModuleManager: Shutting down and abandoning module PhysXCooking (114)
+[2022.08.02-03.31.51:007][856]LogModuleManager: Shutting down and abandoning module Chaos (112)
+[2022.08.02-03.31.51:007][856]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (110)
+[2022.08.02-03.31.51:007][856]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (109)
+[2022.08.02-03.31.51:007][856]LogModuleManager: Shutting down and abandoning module AVEncoder (108)
+[2022.08.02-03.31.51:007][856]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (104)
+[2022.08.02-03.31.51:008][856]LogModuleManager: Shutting down and abandoning module SteamVRInput (102)
+[2022.08.02-03.31.51:008][856]LogModuleManager: Shutting down and abandoning module SteamVR (100)
+[2022.08.02-03.31.51:008][856]LogHMD: Freeing OpenVRDLLHandle.
+[2022.08.02-03.31.51:008][856]LogModuleManager: Shutting down and abandoning module OculusHMD (98)
+[2022.08.02-03.31.51:008][856]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (96)
+[2022.08.02-03.31.51:008][856]LogModuleManager: Shutting down and abandoning module ChunkDownloader (94)
+[2022.08.02-03.31.51:008][856]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (92)
+[2022.08.02-03.31.51:008][856]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (88)
+[2022.08.02-03.31.51:008][856]LogModuleManager: Shutting down and abandoning module XMPP (83)
+[2022.08.02-03.31.51:008][856]LogModuleManager: Shutting down and abandoning module WebSockets (82)
+[2022.08.02-03.31.51:040][856]LogModuleManager: Shutting down and abandoning module HTTP (79)
+[2022.08.02-03.31.51:040][856]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2022.08.02-03.31.51:040][856]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B853B89B0-429B-1F9B-B383-CEA50832EED7%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=675bc617497974a8c1d40689dab38bc9%7Cb1869022ddd644b5bf552ec8203c8a2f%7Cb09ad66d-c86f-462a-98b7-162a5c686c58&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2022.08.02-03.31.51:040][856]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2022.08.02-03.31.51:070][856]LogModuleManager: Shutting down and abandoning module SSL (78)
+[2022.08.02-03.31.51:071][856]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2022.08.02-03.31.51:072][856]LogModuleManager: Shutting down and abandoning module WmfMedia (72)
+[2022.08.02-03.31.51:073][856]LogModuleManager: Shutting down and abandoning module Media (71)
+[2022.08.02-03.31.51:074][856]LogModuleManager: Shutting down and abandoning module MediaInfo (70)
+[2022.08.02-03.31.51:074][856]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (66)
+[2022.08.02-03.31.51:074][856]LogModuleManager: Shutting down and abandoning module MLSDK (64)
+[2022.08.02-03.31.51:074][856]LogModuleManager: Shutting down and abandoning module MagicLeap (62)
+[2022.08.02-03.31.51:074][856]LogModuleManager: Shutting down and abandoning module VariantManagerContent (60)
+[2022.08.02-03.31.51:074][856]LogModuleManager: Shutting down and abandoning module ChaosCloth (58)
+[2022.08.02-03.31.51:074][856]LogModuleManager: Shutting down and abandoning module DatasmithContent (56)
+[2022.08.02-03.31.51:074][856]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (54)
+[2022.08.02-03.31.51:074][856]LogModuleManager: Shutting down and abandoning module NiagaraShader (52)
+[2022.08.02-03.31.51:074][856]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2022.08.02-03.31.51:074][856]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2022.08.02-03.31.51:074][856]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (46)
+[2022.08.02-03.31.51:074][856]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (44)
+[2022.08.02-03.31.51:074][856]LogModuleManager: Shutting down and abandoning module PlatformCrypto (42)
+[2022.08.02-03.31.51:074][856]LogModuleManager: Shutting down and abandoning module XGEController (40)
+[2022.08.02-03.31.51:074][856]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2022.08.02-03.31.51:074][856]LogModuleManager: Shutting down and abandoning module AudioEditor (36)
+[2022.08.02-03.31.51:075][856]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2022.08.02-03.31.51:075][856]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2022.08.02-03.31.51:075][856]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2022.08.02-03.31.51:075][856]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2022.08.02-03.31.51:075][856]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2022.08.02-03.31.51:075][856]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2022.08.02-03.31.51:075][856]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2022.08.02-03.31.51:075][856]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.08.02-03.31.51:075][856]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.08.02-03.31.51:075][856]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.08.02-03.31.51:075][856]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.08.02-03.31.51:075][856]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2022.08.02-03.31.51:075][856]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2022.08.02-03.31.51:075][856]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2022.08.02-03.31.51:075][856]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2022.08.02-03.31.51:075][856]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2022.08.02-03.31.51:075][856]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2022.08.02-03.31.51:075][856]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2022.08.02-03.31.51:076][856]LogD3D11RHI: Shutdown
+[2022.08.02-03.31.51:076][856]LogD3D11RHI: CleanupD3DDevice
+[2022.08.02-03.31.51:091][856]LogExit: Exiting.
+[2022.08.02-03.31.51:094][856]Log file closed, 08/02/22 11:31:51

@@ -3145,9 +3145,3 @@ Script Stack (0 frames):
 [2022.08.08-03.23.50:326][670]LogOutputDevice: Error: [Callstack] 0x00007ffef2ba244d KERNEL32.DLL!UnknownFunction []
 [2022.08.08-03.23.50:326][670]LogOutputDevice: Error: [Callstack] 0x00007ffef3d8df78 ntdll.dll!UnknownFunction []
 [2022.08.08-03.23.50:326][670]LogOutputDevice: Error: 
-[2022.08.08-03.23.50:334][670]LogStats:                SubmitErrorReport -  0.000 s
-[2022.08.08-03.27.40:556][670]LogStats:                    SendNewReport - 230.222 s
-[2022.08.08-03.27.40:556][670]LogStats:             FDebug::EnsureFailed - 230.233 s
-[2022.08.08-03.27.40:571][671]LogAudioMixer: Resetting audio stream to device id 
-[2022.08.08-03.27.40:585][671]LogAudioMixer: Display: 0: FrontLeft
-[2022.08.08-03.27.40:585][671]LogAudioMixer: Display: 1: FrontRight
